@@ -1,0 +1,209 @@
+{
+  "date": "2026-09-03",
+  "pistes_edito": [
+    "Pluralisme de l'audiovisuel public, l'étincelle de la rentrée : les personnels de Radio France ont voté le 2 septembre, à l'unanimité en AG, le principe d'une grève et le retrait de la chronique de Charles Sapin, directeur-adjoint de « Valeurs actuelles » recruté par France Inter comme éditorialiste du week-end. La direction (Céline Pigalle) invoque le pluralisme à l'approche de 2027 ; l'intersyndicale répond que « le pluralisme ne peut servir de prétexte ». Le tout tombe pile au moment où les premières mesures du rapport Lasserre sur l'impartialité de l'audiovisuel public entrent en vigueur (exigence d'exemplarité, renforcement des comités d'honnêteté, médiateurs d'antenne). Angle 2 minutes : jusqu'où va le pluralisme dans le service public ? Recruter une plume marquée à droite, est-ce diversifier les voix ou franchir une ligne — et qui tranche, la direction, l'Arcom, ou la rédaction en grève ?",
+    "Qui paie encore la presse ? Le search s'effondre, l'IA rachète l'info : le trafic de recherche vers les sites d'info a chuté d'environ un tiers en un an sous l'effet des résumés IA, au point que même le New York Times bascule vers la vidéo et que des éditeurs songent à quitter Google. En parallèle, Apple négocierait un budget à neuf chiffres pour payer les éditeurs à l'usage et alimenter son Siri dopé à l'IA, la presse française vient d'encaisser 21,4 M€ de droits voisins, et USA Today déclare des revenus « notables » de licences IA — mais s'attire une fronde interne en confiant ses données d'audience à Palantir. Angle 2 minutes : la vieille économie du clic laisse place à une économie de la licence, où l'IA devient à la fois le fossoyeur du trafic et le nouveau payeur de l'info. Bonne ou mauvaise nouvelle pour l'indépendance des rédactions ?"
+  ],
+  "items": [
+    {
+      "categorie": "media",
+      "titre": "Radio France vote la grève après l'arrivée de Charles Sapin (« Valeurs actuelles ») sur France Inter",
+      "source": "France 24",
+      "date": "2026-09-02",
+      "url": "https://www.france24.com/fr/france/20260902-les-personnels-de-radio-france-menacent-de-faire-gr%C3%A8ve-apr%C3%A8s-l-arriv%C3%A9e-de-charles-sapin",
+      "paywall": false,
+      "resume": "En assemblée générale le 2 septembre, les personnels de Radio France ont adopté à l'unanimité une motion de « refus catégorique » et voté le principe d'une grève, réclamant le retrait de la chronique politique hebdomadaire de Charles Sapin, directeur-adjoint de la rédaction de « Valeurs actuelles », recruté par France Inter (Céline Pigalle) comme éditorialiste du week-end. Un préavis doit être déposé « dans les meilleurs délais ».",
+      "angle": "Angle — Le pluralisme comme champ de bataille : recruter une plume marquée à droite au service public, ouverture démocratique ou faute politique à dix-huit mois de la présidentielle ?"
+    },
+    {
+      "categorie": "media",
+      "titre": "Impartialité de l'audiovisuel public : les premières mesures du rapport Lasserre en vigueur dès septembre",
+      "source": "Arcom",
+      "date": "2026-09-01",
+      "url": "https://www.arcom.fr/presse/impartialite-de-laudiovisuel-public-les-premieres-mesures-du-rapport-lasserre-mises-en-oeuvre-des-septembre-2026",
+      "paywall": false,
+      "resume": "L'Arcom acte l'entrée en vigueur, dès septembre, des évolutions des cahiers des charges de France Télévisions, Radio France et France Médias Monde issues du rapport Lasserre (rendu public le 29 mai) : explicitation d'une exigence d'exemplarité et de transparence, renforcement du rôle des comités relatifs à l'honnêteté, l'indépendance et le pluralisme de l'information (CHIPIP), et formalisation des missions des médiateurs d'antenne.",
+      "angle": "Angle — L'État régulateur muscle l'exigence d'impartialité du service public au moment précis où une rédaction se déchire sur le pluralisme : le calendrier fait débat."
+    },
+    {
+      "categorie": "media",
+      "titre": "Apple discuterait un budget à neuf chiffres pour payer les éditeurs et alimenter Siri en actu",
+      "source": "Nieman Lab",
+      "date": "2026-08-13",
+      "url": "https://www.niemanlab.org/2026/08/apple-may-start-paying-publishers-to-deliver-news-with-siri-ai/",
+      "paywall": false,
+      "resume": "Selon le Wall Street Journal, Apple négocie des accords pluriannuels pour licencier les contenus d'éditeurs et nourrir un Siri dopé à l'IA attendu d'ici la fin de l'année. Particularité : un paiement à l'usage (à chaque fois qu'un contenu est utilisé) plutôt qu'une licence forfaitaire, avec une enveloppe qui démarrerait autour de 100 millions de dollars.",
+      "angle": "Angle — Après OpenAI et Meta, Apple s'invite parmi les payeurs de la presse : le paiement à l'usage peut-il devenir le nouveau standard de la rémunération de l'info par l'IA ?"
+    },
+    {
+      "categorie": "media",
+      "titre": "USA Today Co. confie ses données d'audience à Palantir : la rédaction se révolte",
+      "source": "Nieman Lab",
+      "date": "2026-08-14",
+      "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
+      "paywall": false,
+      "resume": "Le premier groupe de presse américain annonce, lors de sa présentation trimestrielle, un partenariat avec Palantir pour analyser et monétiser les données de ses lecteurs, alors que le trafic de recherche s'effondre (158 millions de visiteurs uniques au T2, contre 180 millions au T1). Plus de 800 journalistes syndiqués, qui l'ont appris de manière inopinée, en réclament l'arrêt, pointant les contrats de Palantir avec l'ICE.",
+      "angle": "Angle — Monétiser le lecteur pour survivre à la chute du search : jusqu'où une rédaction accepte-t-elle de transformer son audience en données exploitables ?"
+    },
+    {
+      "categorie": "media",
+      "titre": "Même le New York Times « n'est pas immunisé » : il mise sur la vidéo face au déclin du search",
+      "source": "Nieman Lab",
+      "date": "2026-08-05",
+      "url": "https://www.niemanlab.org/2026/08/even-the-new-york-times-isnt-immune-to-declining-search-traffic-one-reason-its-leaning-into-video/",
+      "paywall": false,
+      "resume": "Malgré un été chargé en actualité, les ventes d'abonnements du NYT ont ralenti au T2 (280 000 abonnés numériques nets contre 310 000 au T1, pour 13,3 millions au total). Confronté lui aussi à la baisse du trafic de recherche, le quotidien accélère sur la vidéo pour aller chercher l'audience là où elle se trouve.",
+      "angle": "Angle — Quand la référence de l'abonnement numérique doit se réinventer en producteur de vidéos, c'est tout le modèle de distribution de l'info qui vacille."
+    },
+    {
+      "categorie": "media",
+      "titre": "Un mouvement mondial veut forcer les entreprises d'IA à payer pour l'info (licence légale)",
+      "source": "Poynter",
+      "date": "2026-08-27",
+      "url": "https://www.poynter.org/business-work/2026/ai-pay-for-news-statutory-licensing/",
+      "paywall": false,
+      "resume": "Face à des négociations de gré à gré qui laissent la majorité des éditeurs sans accord, une coalition internationale pousse l'idée d'une licence légale (statutory licensing) obligeant les entreprises d'IA à rémunérer l'usage des contenus de presse — sur le modèle des droits voisins européens mais à plus grande échelle.",
+      "angle": "Angle — Vers une redevance obligatoire de l'IA à la presse : la réponse collective au fait que la plupart des rédactions ne verront jamais la couleur d'un contrat OpenAI."
+    },
+    {
+      "categorie": "media",
+      "titre": "Droits voisins : la presse française a encaissé 21,4 M€ des Big Tech et prépare sa riposte IA",
+      "source": "Minted",
+      "date": "2026-08-31",
+      "url": "https://www.mntd.fr/droits-voisins-la-presse-francaise-a-arrache-21-millions-deuros-aux-big-tech-et-prepare-sa-riposte-contre-lia/",
+      "paywall": false,
+      "resume": "La Société des droits voisins de la presse (DVP) a clôturé son exercice avec 21,4 M€ collectés auprès des plateformes. La proposition de loi Balanant, adoptée au Sénat, donne deux nouveaux pouvoirs à l'Arcom : un pouvoir de transparence (données d'usage sous 30 jours, sous peine de sanction) et un pouvoir d'arbitrage si les négociations échouent après trois mois — pour préparer la bataille de l'IA.",
+      "angle": "Angle — La France affine l'arme des droits voisins et arme l'Arcom pour l'étendre à l'IA générative : modèle exportable ou exception franco-européenne ?"
+    },
+    {
+      "categorie": "business",
+      "titre": "Les éditeurs comptabilisent des revenus « notables » de licences IA malgré la pression du programmatique",
+      "source": "Digiday",
+      "date": "2026-08-27",
+      "url": "https://digiday.com/media/media-briefing-publishers-cautiously-count-ai-licensing-as-notable-revenue-amid-programmatic-strain-in-q1-earnings/",
+      "paywall": false,
+      "resume": "Dans les résultats trimestriels, plusieurs éditeurs (dont USA Today Co.) citent pour la première fois les accords de licence IA comme un moteur de croissance visible, alors que la publicité programmatique s'essouffle. Un basculement prudent d'un modèle publicitaire vers un modèle de licence de contenus.",
+      "angle": "Angle — La licence IA devient une ligne de revenus assumée dans les comptes de la presse : la publicité n'est plus le seul horizon."
+    },
+    {
+      "categorie": "media",
+      "titre": "Spotify déploie le badge « AI Persona » et écarte les artistes IA des recommandations",
+      "source": "TechCrunch",
+      "date": "2026-08-11",
+      "url": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
+      "paywall": false,
+      "resume": "Spotify commence à apposer, à partir de mi-septembre, des badges « AI Persona » sur les profils d'artistes qui ressemblent à des humains mais sont générés par IA, et exclut par défaut leur musique des recommandations éditoriales et algorithmiques. Le badge vise l'identité de l'artiste, pas l'usage d'IA dans la fabrication du morceau.",
+      "angle": "Angle — Les plateformes de streaming inventent l'étiquetage de l'artiste synthétique : une bataille de transparence qui préfigure celle de tous les contenus culturels."
+    },
+    {
+      "categorie": "media",
+      "titre": "Face au « déluge » de pitches générés par l'IA, une publication n'accepte plus que le téléphone",
+      "source": "Nieman Lab",
+      "date": "2026-08-27",
+      "url": "https://www.niemanlab.org/2026/08/facing-a-deluge-from-ai-this-publication-will-only-take-pitches-by-phone/",
+      "paywall": false,
+      "resume": "Submergée par des propositions d'articles générées ou dopées à l'IA, The Food Section (fondée par Hanna Raskin) impose dès septembre que les pigistes pitchent leurs sujets… par téléphone, pour restaurer une relation humaine et filtrer le « slop » automatisé.",
+      "angle": "Angle — Le retour au téléphone comme antidote au slop : jusqu'où les rédactions vont-elles pour rétablir la confiance à l'ère de l'IA ?"
+    },
+    {
+      "categorie": "media",
+      "titre": "Droits TV : la Liga quitte beIN Sports après 14 ans pour DAZN et Disney+",
+      "source": "Eurosport",
+      "date": "2026-09-01",
+      "url": "https://www.eurosport.fr/football/la-liga/2026-2027/football-quatorze-ans-apres-bein-sports-perd-les-droits-de-la-liga-qui-sera-desormais-diffusee-par-dazn-et-disney_sto23325829/story.shtml",
+      "paywall": false,
+      "resume": "Après quatorze saisons sur beIN Sports, le championnat espagnol est diffusé en France sur DAZN et Disney+ pour la saison 2026-2027. La Liga quitte pour la première fois la télévision linéaire dans l'Hexagone et n'est plus disponible que sur des plateformes en ligne — un symbole de la bascule du sport premium vers le streaming.",
+      "angle": "Angle — Le foot premium déserte la TV pour le streaming : la fin d'un cycle pour beIN et un test grandeur nature du modèle DAZN/Disney+ en France."
+    },
+    {
+      "categorie": "media",
+      "titre": "Mercato radio-TV de la rentrée : Nagui quitte « La Bande originale », valse d'animateurs avant 2027",
+      "source": "Stratégies",
+      "date": "2026-09-02",
+      "url": "https://www.strategies.fr/actualites/medias/LQ6300752C/mercato-radio-et-tv-2026-tous-les-animateurs-qui-changent-de-chaine-la-rentree.html",
+      "paywall": true,
+      "resume": "La rentrée 2026-2027 est marquée par de nombreux mouvements : Nagui quittera en fin de saison « La Bande originale » sur France Inter, qu'il pilotait depuis 2014 ; Thomas Isle quitte Europe 1 (après l'arrêt de « Culture Médias ») pour renforcer « Télématin » sur France Télévisions. Les rédactions réorganisent leurs dispositifs à l'approche de la présidentielle.",
+      "angle": "Angle — Le mercato audiovisuel comme signal politique : les figures d'antenne se repositionnent dix-huit mois avant 2027."
+    },
+    {
+      "categorie": "business",
+      "titre": "Paramount vise toujours fin septembre pour boucler le rachat de Warner Bros. Discovery, malgré les recours",
+      "source": "CNBC",
+      "date": "2026-07-14",
+      "url": "https://www.cnbc.com/2026/07/14/paramount-wbd-merger-lawsuit.html",
+      "paywall": false,
+      "resume": "Paramount Skydance maintient son objectif de clôturer d'ici fin septembre l'acquisition de Warner Bros. Discovery (environ 31 $/action, ~111 Mds$), malgré une plainte d'attorneys general emmenés par la Californie (Rob Bonta) et l'attente du feu vert réglementaire européen. À défaut de clôture au 30 septembre, une « ticking fee » de 0,25 $/action s'appliquerait par trimestre.",
+      "angle": "Angle — La consolidation géante des studios hollywoodiens entre dans sa dernière ligne droite : un mastodonte du divertissement se dessine sous l'œil des antitrust."
+    },
+    {
+      "categorie": "tech",
+      "titre": "Anthropic lance Claude Fable 5.1 et Mythos 5.1 : jusqu'à 45 % de coûts en moins pour les agents IA",
+      "source": "The Verge",
+      "date": "2026-09-02",
+      "url": "https://techstartups.com/2026/09/02/top-tech-news-today-september-2-2026-anthropic-google-meta-nvidia-perplexity-openai-tencent-more/",
+      "paywall": false,
+      "resume": "Anthropic sort ses nouveaux modèles pour le code, le travail intellectuel, la cybersécurité et la recherche. Fable 5.1 est largement disponible ; le plus capable, Mythos 5.1, reste réservé à des organisations vérifiées pour ses capacités avancées (cybersécurité, biologie). L'entreprise revendique jusqu'à 45 % de coûts en moins sur certaines charges très « agentiques ».",
+      "angle": "Angle — La bataille de l'IA se joue désormais sur l'économie des agents (coût, sûreté, confidentialité) plus que sur les seuls benchmarks."
+    },
+    {
+      "categorie": "tech",
+      "titre": "OpenAI classe son prochain modèle « Astra » au niveau de risque cyber « critique »",
+      "source": "The Information",
+      "date": "2026-09-02",
+      "url": "https://techstartups.com/2026/09/02/top-tech-news-today-september-2-2026-anthropic-google-meta-nvidia-perplexity-openai-tencent-more/",
+      "paywall": false,
+      "resume": "OpenAI indique que son futur modèle Astra atteint, selon son Preparedness Framework, un niveau « Critical » de capacité cyber : il pourrait identifier des vulnérabilités inédites et concevoir des exploits contre des systèmes bien défendus avec peu d'aide humaine. La firme dit renforcer accès, surveillance et contrôles avant tout déploiement large.",
+      "angle": "Angle — L'IA franchit un seuil : des modèles capables d'attaquer seuls des systèmes protégés, un dilemme défense/attaque qui déborde largement la tech."
+    },
+    {
+      "categorie": "business",
+      "titre": "Uber supprime 3 300 postes (≈10 % des effectifs) pour financer le virage robotaxi",
+      "source": "Reuters",
+      "date": "2026-09-02",
+      "url": "https://techstartups.com/2026/09/02/top-tech-news-today-september-2-2026-anthropic-google-meta-nvidia-perplexity-openai-tencent-more/",
+      "paywall": false,
+      "resume": "Uber taille environ 10 % de ses effectifs mondiaux, aplatit sa hiérarchie et réduit le télétravail intégral. La direction présente ces coupes non comme la conséquence d'un effondrement de l'activité mais comme une réallocation vers la transition autonome (robotaxis) face à Waymo et consorts.",
+      "angle": "Angle — Les géants tech coupent dans le management tout en investissant massivement dans l'IA et l'autonome : une restructuration stratégique, pas une crise."
+    },
+    {
+      "categorie": "tech",
+      "titre": "Meta désactive à distance les caméras de milliers de lunettes connectées trafiquées",
+      "source": "Semafor",
+      "date": "2026-09-02",
+      "url": "https://techstartups.com/2026/09/02/top-tech-news-today-september-2-2026-anthropic-google-meta-nvidia-perplexity-openai-tencent-more/",
+      "paywall": false,
+      "resume": "Meta a désactivé la fonction caméra de milliers de paires de lunettes connectées après avoir détecté des utilisateurs qui avaient trafiqué le voyant lumineux signalant l'enregistrement (moins de 0,1 % des unités vendues). L'entreprise renforce le logiciel qui vérifie si la LED est masquée ou endommagée.",
+      "angle": "Angle — Le marché des lunettes IA dépendra autant de la confiance sociale autour des caméras que de leur utilité : Meta impose une protection de la vie privée par logiciel."
+    },
+    {
+      "categorie": "tech",
+      "titre": "Google intègre la mémoire Gemini à Find Hub sur Android (mise à jour de septembre)",
+      "source": "The Verge",
+      "date": "2026-09-02",
+      "url": "https://techstartups.com/2026/09/02/top-tech-news-today-september-2-2026-anthropic-google-meta-nvidia-perplexity-openai-tencent-more/",
+      "paywall": false,
+      "resume": "La mise à jour Android de septembre ajoute une fonction dopée à Gemini : dire à son téléphone où l'on a rangé un objet physique (passeport, clés…), avec photo optionnelle, pour le retrouver plus tard via la voix ou Find Hub. Un exemple de l'IA générative qui s'infiltre dans les fonctions ordinaires du système d'exploitation.",
+      "angle": "Angle — L'IA grand public disparaît dans le système : l'avantage concurrentiel se déplace vers la distribution et le contexte, plus que le modèle lui-même."
+    },
+    {
+      "categorie": "business",
+      "titre": "Chine : l'IPO du puciste IA Enflame (soutenu par Tencent) sursouscrite plus de 6 000 fois",
+      "source": "Reuters",
+      "date": "2026-09-02",
+      "url": "https://techstartups.com/2026/09/02/top-tech-news-today-september-2-2026-anthropic-google-meta-nvidia-perplexity-openai-tencent-more/",
+      "paywall": false,
+      "resume": "L'introduction en Bourse à Shanghai d'Enflame Technology, concepteur de GPU et accélérateurs IA soutenu par Tencent, a suscité une demande extraordinaire (offre en ligne sursouscrite plus de 6 000 fois) pour lever environ 900 M$. Un signe de l'appétit des investisseurs pour la souveraineté chinoise en calcul IA, sur fond de contrôles américains à l'export.",
+      "angle": "Angle — Pékin bâtit une pile de calcul IA parallèle : les investisseurs traitent la souveraineté des puces comme un marché stratégique de long terme."
+    },
+    {
+      "categorie": "tech",
+      "titre": "Perplexity lance une IA « hybride » qui garde les tâches sensibles en local sur Mac",
+      "source": "VentureBeat",
+      "date": "2026-09-02",
+      "url": "https://techstartups.com/2026/09/02/top-tech-news-today-september-2-2026-anthropic-google-meta-nvidia-perplexity-openai-tencent-more/",
+      "paywall": false,
+      "resume": "Perplexity dote son agent « Computer » d'un calcul hybride : une même tâche peut démarrer sur des modèles cloud puissants, puis basculer sur un modèle open-weight tournant en local (Apple Silicon) pour les étapes touchant des fichiers confidentiels, sans perdre le contexte. Une réponse à l'objection majeure des entreprises face aux agents autonomes : l'exposition des données.",
+      "angle": "Angle — Le routage cloud/local devient un argument central de l'IA d'entreprise : adopter des agents sans envoyer chaque document sensible dans le cloud."
+    }
+  ]
+}
