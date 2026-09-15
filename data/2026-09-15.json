@@ -1,0 +1,169 @@
+{
+  "date": "2026-09-15",
+  "pistes_edito": [
+    "France Inter fait grève contre l'un de ses propres nouveaux chroniqueurs. Céline Pigalle a recruté Charles Sapin, directeur adjoint de Valeurs actuelles, comme éditorialiste politique du week-end ; 70 % du personnel a débrayé les 13 et 14 septembre et la chronique n'a pas pu être diffusée. La direction défend le pluralisme (elle cite aussi des recrues du Nouvel Obs, d'Alternatives éco et du FT et assure que Sapin veut « faire bouger » sa rédaction) ; les syndicats y voient une banalisation de l'extrême droite sur le service public. Angle possible : jusqu'où va le pluralisme d'une antenne publique, et qui décide de ses limites — la direction, la rédaction, ou la rue ? Sujet d'autant plus vertigineux qu'il se joue sur l'antenne même de l'édito.",
+    "La semaine où le péage de l'IA se met en place. Le 15 septembre, Cloudflare bloque par défaut les robots d'IA « à usage mixte » sur les sites porteurs de pub et bascule vers un modèle « pay-per-use » ; le 17, la Cour d'appel de Paris examine le recours de Meta sur les droits voisins ; le 23, Google achève le déploiement des AI Overviews en France. Trois échéances rapprochées qui posent la même question : à l'ère des réponses générées par IA, qui paie l'information quand le clic disparaît ? Angle possible : la presse tente d'installer un péage là où Google et Meta avaient habitué à la gratuité — bascule historique ou combat d'arrière-garde ?"
+  ],
+  "items": [
+    {
+      "categorie": "media",
+      "titre": "Radio France en grève deux jours contre l'arrivée de Charles Sapin (Valeurs actuelles) sur France Inter",
+      "source": "franceinfo",
+      "date": "2026-09-14",
+      "url": "https://www.franceinfo.fr/economie/medias/programmes-perturbes-en-raison-d-un-mouvement-de-greve-les-13-et-14-septembre-2026_8191160.html",
+      "paywall": false,
+      "resume": "Les syndicats de Radio France ont appelé à la grève les 13 et 14 septembre pour obtenir le retrait de Charles Sapin, directeur adjoint de Valeurs actuelles, recruté comme éditorialiste politique du week-end sur France Inter. Jusqu'à 70 % du personnel a débrayé et sa chronique n'a pas pu être diffusée. La directrice Céline Pigalle défend le choix au nom du pluralisme, rappelant l'arrivée d'autres voix (Nouvel Obs, Alternatives économiques, Financial Times).",
+      "angle": "Angle — Le pluralisme du service public à l'épreuve : recruter une plume classée à droite est-il une ouverture ou une banalisation, et qui fixe la ligne rouge ?"
+    },
+    {
+      "categorie": "media",
+      "titre": "Cloudflare bascule au « pay-per-use » et bloque par défaut les crawlers IA à compter du 15 septembre",
+      "source": "The Next Web",
+      "date": "2026-09-15",
+      "url": "https://thenextweb.com/news/cloudflare-block-ai-crawlers-pay-publishers",
+      "paywall": false,
+      "resume": "À partir du 15 septembre, Cloudflare bloque par défaut les robots d'IA « à usage mixte » sur les pages porteuses de publicité (nouveaux clients, nouveaux sites et clients gratuits existants) et transforme son péage « Pay Per Crawl » en « Pay Per Use » : les éditeurs sont rémunérés quand leur contenu façonne une réponse d'IA, pas seulement quand il est aspiré. Premiers partenaires : Ceramic.ai et You.com.",
+      "angle": "Angle — L'infrastructure du web tente d'imposer un péage aux IA : Cloudflare se pose en douanier de l'accès aux contenus, à la place des éditeurs isolés."
+    },
+    {
+      "categorie": "media",
+      "titre": "Droits voisins : le recours de Meta examiné par la Cour d'appel de Paris le 17 septembre",
+      "source": "Société des droits voisins de la presse",
+      "date": "2026-09-01",
+      "url": "https://www.dvpresse.fr/droits-voisins-meta-conteste-la-decision-mais-demeure-tenue-dappliquer-les-mesures-obtenues-par-dvp/",
+      "paywall": false,
+      "resume": "Après les quatre mesures conservatoires prononcées le 8 juillet par l'Autorité de la concurrence, Meta a formé un recours qui sera examiné le 17 septembre. La plateforme reste tenue d'appliquer les injonctions ; le rattrapage porterait sur toute la période depuis février 2025, date à laquelle Meta a cessé de rémunérer la presse française.",
+      "angle": "Angle — Test juridique décisif : une plateforme peut-elle suspendre unilatéralement la rémunération de la presse en attendant les tribunaux ?"
+    },
+    {
+      "categorie": "media",
+      "titre": "AI Overviews : déploiement complet attendu en France vers le 23 septembre, la presse a saisi l'Autorité de la concurrence",
+      "source": "Blog du Modérateur / Apig",
+      "date": "2026-09-10",
+      "url": "https://www.blogdumoderateur.com/google-ai-overviews-presse-francaise-saisit-autorite-concurrence/",
+      "paywall": false,
+      "resume": "L'Alliance de la presse d'information générale (près de 300 titres) a saisi l'Autorité de la concurrence pour faire respecter les engagements de Google. Le déploiement complet des AI Overviews et de l'AI Mode en France est attendu autour du 23 septembre, avec rémunération au titre des droits voisins et option d'opt-out.",
+      "angle": "Angle — Les résumés IA de Google réécrivent le contrat moteur/éditeurs : le clic s'efface, le partage de la valeur devient existentiel."
+    },
+    {
+      "categorie": "media",
+      "titre": "Exportation de l'audiovisuel français : les recettes internationales chutent de 28 % en 2025",
+      "source": "CNC / Unifrance",
+      "date": "2026-09-12",
+      "url": "https://www.cnc.fr/professionnels/actualites/le-cnc-et-unifrance-devoilent-deux-etudes-sur-lexportation-et-la-diffusion-des-programmes-audiovisuels-francais-a-linternational-en-2025_2652914",
+      "paywall": false,
+      "resume": "Selon les études CNC/Unifrance présentées aux Rendez-Vous d'Unifrance au Havre, le total des programmes audiovisuels français exportés tombe à 282,7 M€ en 2025 (-28,1 % après le record de 393 M€ en 2024). La fiction reste en tête (54,9 M€, -27 %) ; l'animation recule de 30,3 %. En cause : baisse des engagements des diffuseurs et repli des plateformes VoD sur les productions locales.",
+      "angle": "Angle — Le « soft power » audiovisuel français décroche : quand les plateformes se relocalisent, la France exporte moins ses récits."
+    },
+    {
+      "categorie": "media",
+      "titre": "Chaînes d'info : CNews redevient leader à sa rentrée, devant BFMTV et LCI",
+      "source": "Jean-Marc Morandini",
+      "date": "2026-09-09",
+      "url": "https://www.jeanmarcmorandini.com/article-650720-audiences-cnews-est-redevenue-hier-large-leader-des-chaines-info-apres-sa-rentree-devant-bfmtv-et-lci-franceinfo-debute-sa-nouvelle-saison-a-1.html",
+      "paywall": false,
+      "resume": "Après sa rentrée, CNews retrouve la tête des chaînes d'information avec environ 186 000 téléspectateurs (3,1 % de part d'audience) en moyenne sur la journée, devant BFMTV et LCI. Franceinfo démarre sa nouvelle saison autour de 1 %.",
+      "angle": "Angle — La rentrée des chaînes info confirme l'ancrage de CNews : la ligne éditoriale la plus clivante est-elle devenue la plus rentable en audience ?"
+    },
+    {
+      "categorie": "media",
+      "titre": "Léa Salamé maintient son retrait du « 20 Heures » de France 2 le temps de la campagne de Raphaël Glucksmann",
+      "source": "franceinfo",
+      "date": "2026-08-24",
+      "url": "https://www.franceinfo.fr/economie/medias/lea-salame-annonce-son-retrait-de-la-presentation-du-20-heures-de-france-2-apres-la-candidature-a-la-presidentielle-de-son-compagnon-raphael-glucksmann_8159213.html",
+      "paywall": false,
+      "resume": "Un an après son arrivée, Léa Salamé s'est retirée de la présentation du « 20 Heures » de France 2, son compagnon Raphaël Glucksmann étant candidat à la présidentielle ; elle invoque la déontologie et la protection de la rédaction. Elle est remplacée par Jean-Baptiste Marteau. Le sujet reste vif à l'entrée d'une campagne où l'équité du temps de parole sera scrutée.",
+      "angle": "Angle — Cas d'école de déontologie à l'orée d'une présidentielle : comment l'audiovisuel public prévient les conflits d'intérêts de ses figures."
+    },
+    {
+      "categorie": "media",
+      "titre": "Même le New York Times « n'est pas immunisé » : baisse du trafic search, virage vers la vidéo",
+      "source": "Nieman Lab",
+      "date": "2026-08-05",
+      "url": "https://www.niemanlab.org/2026/08/even-the-new-york-times-isnt-immune-to-declining-search-traffic-one-reason-its-leaning-into-video/",
+      "paywall": false,
+      "resume": "Le NYT a ajouté 280 000 abonnés numériques au 2e trimestre 2026 (contre 310 000 au trimestre précédent), malgré une actualité chargée. Sa directrice générale Meredith Kopit Levien reconnaît que le groupe « n'est pas immunisé » contre l'effritement du trafic search et mise de plus en plus sur la vidéo pour capter et retenir l'audience.",
+      "angle": "Angle — Si même le titre le mieux armé du monde décroche, quelle stratégie de survie pour les autres à l'ère des réponses IA ?"
+    },
+    {
+      "categorie": "media",
+      "titre": "Trafic search : -33 % dans le monde, -38 % aux États-Unis ; des éditeurs songent à quitter Google",
+      "source": "Nieman Lab",
+      "date": "2026-07-30",
+      "url": "https://www.niemanlab.org/2026/07/search-traffic-has-declined-so-much-that-some-publishers-are-considering-opting-out-of-google-entirely/",
+      "paywall": false,
+      "resume": "Selon des données Chartbeat sur 2 500 sites, le trafic issu de la recherche Google a chuté d'un tiers dans le monde (-33 %) et de 38 % aux États-Unis ; Google Discover recule de 21 %. Certains éditeurs envisagent de sortir entièrement de Google, mais couper les robots signifie aussi disparaître du search classique.",
+      "angle": "Angle — Le dilemme impossible des éditeurs : rester visibles et se faire piller par l'IA, ou se protéger et devenir invisibles."
+    },
+    {
+      "categorie": "media",
+      "titre": "Presse contre IA : le NYT poursuit Perplexity, pendant que Meta multiplie les accords de licence",
+      "source": "Press Gazette",
+      "date": "2026-09-05",
+      "url": "https://pressgazette.co.uk/platforms/news-publisher-ai-deals-lawsuits-openai-google/",
+      "paywall": false,
+      "resume": "Le paysage se scinde en deux : d'un côté les procès (une douzaine de plaintes contre OpenAI, environ six contre Perplexity, dont celles du New York Times et du Chicago Tribune pour aspiration d'articles) ; de l'autre les accords de licence (Meta a signé avec CNN, Fox, USA Today, News Corp, Le Monde, Le Figaro, Süddeutsche Zeitung…).",
+      "angle": "Angle — Attaquer ou signer : deux stratégies opposées des éditeurs face à l'IA, et le pari sur qui, du tribunal ou du contrat, protégera le mieux la valeur."
+    },
+    {
+      "categorie": "media",
+      "titre": "Reuters Institute : 10 % de la population mondiale utilise déjà un chatbot IA pour s'informer (16 % chez les moins de 35 ans)",
+      "source": "Reuters Institute for the Study of Journalism",
+      "date": "2026-09-01",
+      "url": "https://reutersinstitute.politics.ox.ac.uk/news/ai-and-future-news-2026-what-we-learnt-about-its-impact-newsrooms-fact-checking-and-news",
+      "paywall": false,
+      "resume": "Le Digital News Report 2026 montre que 10 % de la population mondiale a utilisé un chatbot IA pour s'informer sur une semaine donnée, chiffre qui grimpe à 16 % chez les moins de 35 ans. La confiance dans le journalisme en général reste basse (environ 38 % se disent confiants). L'institut tient un événement sur l'IA et le journalisme du 22 au 25 septembre.",
+      "angle": "Angle — Le chatbot devient une porte d'entrée vers l'info pour les jeunes : la génération qui s'informe sans jamais visiter un site de presse."
+    },
+    {
+      "categorie": "business",
+      "titre": "Streaming : le rachat de Warner Bros. Discovery par Paramount Skydance attendu d'ici décembre, « ticking fee » dès le 30 septembre",
+      "source": "Wikipedia / dossier public",
+      "date": "2026-09-01",
+      "url": "https://en.wikipedia.org/wiki/Proposed_acquisition_of_Warner_Bros._Discovery",
+      "paywall": false,
+      "resume": "Après avoir écarté Netflix (indemnité de rupture de 2,8 Mds$), Paramount Skydance rachète WBD pour environ 110,9 Mds$ (31 $/action). La clôture est attendue entre septembre et décembre 2026, avec une « ticking fee » de 0,25 $ par action à compter du 30 septembre jusqu'à finalisation.",
+      "angle": "Angle — La consolidation d'Hollywood entre dans sa phase finale : un géant du divertissement se recompose sous pression réglementaire et calendaire."
+    },
+    {
+      "categorie": "business",
+      "titre": "Publicité en ligne : ChatGPT Ads passe à l'échelle, Google impose « AI Max », Meta pousse Advantage+",
+      "source": "FINN Partners (Media Pulse)",
+      "date": "2026-09-01",
+      "url": "https://www.finnpartners.com/news-insights/media-pulse-september-2026/",
+      "paywall": false,
+      "resume": "OpenAI a transformé ChatGPT Ads d'un pilote expérimental en canal publicitaire multi-marchés. Google migre de force ses campagnes Search vers « AI Max » pour défendre sa position, tandis que les modèles IA de Meta (GEM, Advantage+) bouleversent le ciblage et pourraient, selon l'analyse, faire jeu égal avec Google Search comme première plateforme d'ici fin 2026.",
+      "angle": "Angle — Le nerf de la guerre des médias, la pub, se reconfigure autour de l'IA : trois géants réécrivent les règles du ciblage et de l'achat d'espace."
+    },
+    {
+      "categorie": "tech",
+      "titre": "Sam Altman : OpenAI ne fera pas son entrée en Bourse en 2026",
+      "source": "AI-Weekly",
+      "date": "2026-09-15",
+      "url": "https://ai-weekly.ai/newsletter-09-15-2026/",
+      "paywall": false,
+      "resume": "Sam Altman a déclaré à Fortune qu'OpenAI ne s'introduira pas en Bourse en 2026, jugeant le moment « mal avisé » compte tenu des enjeux de sécurité. En parallèle, plusieurs dirigeants de labos (Amodei, Nadella) appellent publiquement à ralentir la course aux capacités et à encadrer la superintelligence.",
+      "angle": "Angle — L'entreprise la plus scrutée de la tech temporise sur son IPO : prudence stratégique ou aveu d'un modèle économique encore instable ?"
+    },
+    {
+      "categorie": "tech",
+      "titre": "Régulation de l'IA et droit d'auteur au cœur du projet stratégique 2026-2028 de l'Arcom",
+      "source": "Arcom",
+      "date": "2026-09-01",
+      "url": "https://www.arcom.fr/actualites/projet-strategique-2026-2028-de-larcom-une-regulation-du-numerique-plus-forte-proteger-les-francais",
+      "paywall": false,
+      "resume": "Le projet stratégique 2026-2028 de l'Arcom place l'effectivité des droits voisins des éditeurs et la protection du droit d'auteur face à l'IA parmi ses priorités : veille sur la transparence des plateformes, travaux sur la traçabilité des contenus et les mesures techniques d'identification. Si la loi le lui confie, l'Arcom pourrait fixer elle-même la rémunération due au titre des droits voisins en cas d'échec des négociations.",
+      "angle": "Angle — Le régulateur français se dote d'outils pour arbitrer le rapport de force presse/plateformes : vers un gendarme des droits voisins ?"
+    },
+    {
+      "categorie": "media",
+      "titre": "Mercato radio 2026 : recompositions des grilles et matinales après une saison en léger recul",
+      "source": "Direct-Radio",
+      "date": "2026-09-01",
+      "url": "https://direct-radio.fr/article/rentree-radio-2026-toutes-les-grilles-et-audience",
+      "paywall": false,
+      "resume": "La rentrée radio charrie d'importants mouvements (dont le départ de Nagui de France Inter après douze ans et plusieurs changements de matinales), sur fond d'audiences en léger repli : la radio a réuni 37,63 millions d'auditeurs quotidiens (13 ans et +) sur la vague avril-juin 2026, soit 20 000 de moins qu'un an plus tôt, plus mauvaise fin de saison jamais enregistrée par le média.",
+      "angle": "Angle — La radio recompose ses grilles au moment où son audience s'effrite : la bataille des matinales suffira-t-elle à enrayer l'érosion ?"
+    }
+  ]
+}
