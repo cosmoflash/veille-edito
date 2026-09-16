@@ -1,0 +1,179 @@
+{
+  "date": "2026-09-16",
+  "pistes_edito": [
+    "L'affaire Sapin s'installe et change de nature. Charles Sapin (directeur adjoint de Valeurs actuelles) est maintenu comme éditorialiste politique du week-end sur France Inter, et le conflit passe de la grève à la bataille symbolique : une nouvelle grève est annoncée pour le lundi 21 septembre à Radio France, tandis qu'une pétition signée par Annie Ernaux, Josiane Balasko, Lilian Thuram ou Yann Tiersen réclame dans Le Parisien le retrait de sa chronique. La direction tient bon au nom du pluralisme. Angle possible : quand une figure du service public devient l'objet même du conflit, qui tranche la ligne éditoriale d'une antenne publique — la direction, la rédaction, ou la pression extérieure ? Et surtout, la stratégie du pourrissement peut-elle tenir jusqu'à la présidentielle ?",
+    "Le jour où l'industrie des médias se réunit à Paris pour parler de sa survie face à l'IA. Le Paris AI Forum 2026 se tient les 15 et 16 septembre (« Scaling Up Fast, Building Smart Guardrails »), avec OpenAI et Microsoft à la table des éditeurs. En toile de fond, la même semaine : le Seattle Times et Newsday attaquent OpenAI et Microsoft, l'administration Trump prend fait et cause pour OpenAI en qualifiant l'entraînement des modèles de « fair use », et Amazon glisse des publicités dans ChatGPT. Angle possible : le rapport de force presse/IA se fige — d'un côté les procès et les droits voisins, de l'autre le fait accompli américain — et l'Europe joue sa partie sur le terrain réglementaire pendant que la valeur, elle, migre déjà vers les chatbots."
+  ],
+  "items": [
+    {
+      "categorie": "media",
+      "titre": "France Inter : Charles Sapin maintenu à l'antenne, nouvelle grève annoncée le 21 septembre et pétition d'artistes",
+      "source": "Puremédias / Ozap",
+      "date": "2026-09-15",
+      "url": "https://www.ozap.com/actu/charles-sapin-maintenu-a-lantenne-de-france-inter-une-nouvelle-greve-prevue-lundi-21-septembre/656984",
+      "paywall": false,
+      "resume": "Malgré deux jours de grève, la direction de Radio France maintient Charles Sapin, directeur adjoint de Valeurs actuelles, comme éditorialiste politique du week-end sur France Inter. Sa chronique du dimanche n'a de nouveau pas pu être diffusée et une nouvelle journée de grève est annoncée pour le lundi 21 septembre. En parallèle, une pétition signée par Annie Ernaux, Josiane Balasko, Lilian Thuram ou Yann Tiersen, publiée dans Le Parisien, réclame le retrait de sa chronique.",
+      "angle": "Angle — Épreuve de force qui dure : la direction mise sur le pourrissement au nom du pluralisme, la rédaction et une partie du monde culturel sur la mobilisation. Qui fixe la ligne d'une antenne publique ?"
+    },
+    {
+      "categorie": "media",
+      "titre": "Paris AI Forum 2026 : éditeurs, OpenAI et Microsoft face à l'« industrialisation » de l'IA dans les médias",
+      "source": "NewsLabs",
+      "date": "2026-09-15",
+      "url": "https://newslabs.io/blog/paris-ai-forum-2026-newslabs-joins-publishers-as-media-moves-to-industrial-scale-ai",
+      "paywall": false,
+      "resume": "Les 15 et 16 septembre à Paris (Auditorium Les Echos–Le Parisien), le Paris AI Forum réunit éditeurs et plateformes autour du thème « Scaling Up Fast, Building Smart Guardrails ». Au programme : passage à l'échelle de l'IA dans les rédactions, produits éditoriaux, workflows et surtout la recomposition du rapport de force entre éditeurs et plateformes technologiques, avec OpenAI et Microsoft à la table.",
+      "angle": "Angle — Le rendez-vous où la presse tente d'écrire les « garde-fous » de l'IA avant que les plateformes ne les imposent : coopération ou marché de dupes ?"
+    },
+    {
+      "categorie": "media",
+      "titre": "Le Seattle Times et Newsday attaquent OpenAI et Microsoft pour violation du droit d'auteur",
+      "source": "TechCrunch",
+      "date": "2026-09-05",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "paywall": false,
+      "resume": "Le Seattle Times et Newsday ont porté plainte devant la justice fédérale de New York, accusant OpenAI et Microsoft d'avoir aspiré des centaines de milliers d'articles — y compris derrière les paywalls — pour entraîner et alimenter ChatGPT, Copilot et la recherche IA de Bing. Ils invoquent aussi des atteintes à leurs marques (attributions erronées par « hallucination ») et réclament des dommages et la destruction des modèles concernés.",
+      "angle": "Angle — La vague de procès s'élargit à la presse locale américaine : après les grands titres, ce sont les quotidiens régionaux qui montent au front juridique."
+    },
+    {
+      "categorie": "media",
+      "titre": "Copyright et IA : l'administration Trump prend le parti d'OpenAI contre le New York Times",
+      "source": "Quartz",
+      "date": "2026-09-02",
+      "url": "https://qz.com/trump-administration-openai-new-york-times-copyright-lawsuit-090226",
+      "paywall": false,
+      "resume": "Dans un mémoire déposé devant le tribunal fédéral de Manhattan, le ministère américain de la Justice soutient OpenAI face au New York Times, estimant que l'entraînement de grands modèles de langage sur des contenus protégés relève généralement du « fair use ». C'est la première intervention du gouvernement fédéral dans la vague de procès sur l'IA ; le texte, sans valeur contraignante, met en avant l'intérêt national à préserver le leadership américain en IA.",
+      "angle": "Angle — Washington transforme une bataille de droit d'auteur en enjeu de souveraineté technologique : l'IA passe avant la rémunération des créateurs."
+    },
+    {
+      "categorie": "media",
+      "titre": "Presse : les coupes s'accélèrent (McClatchy, AP, BBC) sur fond d'IA et de bascule vers les créateurs",
+      "source": "Press Gazette",
+      "date": "2026-09-11",
+      "url": "https://pressgazette.co.uk/news/journalism-job-cuts-in-2026-updates/",
+      "paywall": false,
+      "resume": "Le 11 septembre, le groupe de presse locale américain McClatchy a supprimé plus de 90 postes dans au moins 13 titres (Miami Herald, Sacramento Bee, Charlotte Observer…). L'Associated Press a réduit sa rédaction de 60 personnes et la BBC prévoit environ 2 000 suppressions. En parallèle, journalistes licenciés et signatures reconnues migrent vers Substack, YouTube ou Patreon, accélérant le passage de l'ère des « méga-sites » à celle du créateur individuel.",
+      "angle": "Angle — La double lame : l'emploi rédactionnel fond dans les grands groupes pendant que la marque personnelle du journaliste devient parfois plus forte que le titre qui l'employait."
+    },
+    {
+      "categorie": "media",
+      "titre": "Submergée par les pitchs générés par IA, une publication ne prend plus les propositions que par téléphone",
+      "source": "Nieman Lab",
+      "date": "2026-08-27",
+      "url": "https://www.niemanlab.org/2026/08/facing-a-deluge-from-ai-this-publication-will-only-take-pitches-by-phone/",
+      "paywall": false,
+      "resume": "Face à un « déluge » de propositions d'articles générées ou dopées à l'IA, la publication The Food Section a décidé de ne plus accepter les pitchs que par téléphone à compter de septembre. Symptôme d'un problème plus large : rédactions et éditeurs voient leurs boîtes mail saturées de contenus synthétiques, brouillant la sélection éditoriale.",
+      "angle": "Angle — Quand l'IA sature les tuyaux d'entrée du journalisme, la voix humaine redevient un filtre : le retour du téléphone comme test d'authenticité."
+    },
+    {
+      "categorie": "media",
+      "titre": "Reuters Institute : ce que 2026 nous apprend de l'impact de l'IA sur les rédactions et le fact-checking",
+      "source": "Reuters Institute for the Study of Journalism",
+      "date": "2026-09-01",
+      "url": "https://reutersinstitute.politics.ox.ac.uk/news/ai-and-future-news-2026-what-we-learnt-about-its-impact-newsrooms-fact-checking-and-news",
+      "paywall": false,
+      "resume": "L'institut fait le point sur l'IA et l'avenir de l'information : environ 10 % de la population mondiale utilise déjà un chatbot pour s'informer chaque semaine (16 % chez les moins de 35 ans), la confiance dans le journalisme reste basse, et le fact-checking se réinvente face à une désinformation dopée à l'IA. Un événement dédié se tient du 22 au 25 septembre à Oxford.",
+      "angle": "Angle — Le chatbot devient une porte d'entrée de l'info pour les jeunes : toute une génération s'informe sans jamais passer par un site de presse."
+    },
+    {
+      "categorie": "media",
+      "titre": "Droits voisins et IA : deux textes décisifs pour les éditeurs avancent au Parlement",
+      "source": "Alliance de la presse d'information générale",
+      "date": "2026-09-01",
+      "url": "https://www.alliancepresse.fr/actualite/droits-voisins-et-ia-deux-textes-decisifs-pour-la-presse-avancent-au-parlement/",
+      "paywall": false,
+      "resume": "Deux textes progressent au Parlement pour renforcer les droits voisins de la presse et encadrer l'usage des contenus par l'IA. Le Sénat a notamment étendu les pouvoirs de l'Arcom, qui pourrait mettre en demeure les plateformes de transmettre les informations nécessaires à l'évaluation des droits et, en cas d'échec des négociations, fixer elle-même la rémunération due.",
+      "angle": "Angle — La France construit un « gendarme » des droits voisins : le rapport de force presse/plateformes pourrait bientôt se jouer devant un régulateur plutôt qu'en négociation privée."
+    },
+    {
+      "categorie": "media",
+      "titre": "Projet stratégique 2026-2028 de l'Arcom : droits voisins et protection du droit d'auteur face à l'IA en priorité",
+      "source": "Arcom",
+      "date": "2026-09-01",
+      "url": "https://www.arcom.fr/actualites/projet-strategique-2026-2028-de-larcom-une-regulation-du-numerique-plus-forte-proteger-les-francais",
+      "paywall": false,
+      "resume": "L'Arcom place l'effectivité des droits voisins des éditeurs et la protection du droit d'auteur face à l'IA parmi ses priorités 2026-2028 : surveillance de la transparence des plateformes, travaux sur la traçabilité des contenus et les mesures techniques d'identification pour encadrer l'utilisation des œuvres dans l'entraînement des systèmes d'IA.",
+      "angle": "Angle — Le régulateur français se réoutille pour arbitrer l'usage des contenus par l'IA : de la police de l'audiovisuel au douanier de la donnée."
+    },
+    {
+      "categorie": "media",
+      "titre": "Droits voisins : le recours de Meta examiné par la Cour d'appel de Paris le 17 septembre",
+      "source": "Société des droits voisins de la presse",
+      "date": "2026-09-01",
+      "url": "https://www.dvpresse.fr/droits-voisins-meta-conteste-la-decision-mais-demeure-tenue-dappliquer-les-mesures-obtenues-par-dvp/",
+      "paywall": false,
+      "resume": "Après les mesures conservatoires prononcées le 8 juillet par l'Autorité de la concurrence, Meta a formé un recours examiné le 17 septembre par la Cour d'appel de Paris. La plateforme reste tenue d'appliquer les injonctions ; le rattrapage porterait sur toute la période depuis février 2025, date à laquelle Meta a cessé de rémunérer la presse française.",
+      "angle": "Angle — Test juridique cette semaine : une plateforme peut-elle suspendre unilatéralement la rémunération de la presse en attendant les tribunaux ?"
+    },
+    {
+      "categorie": "media",
+      "titre": "AI Overviews : déploiement complet attendu en France vers le 23 septembre, la presse a saisi l'Autorité de la concurrence",
+      "source": "Blog du Modérateur / Apig",
+      "date": "2026-09-10",
+      "url": "https://www.blogdumoderateur.com/google-ai-overviews-presse-francaise-saisit-autorite-concurrence/",
+      "paywall": false,
+      "resume": "L'Alliance de la presse d'information générale (près de 300 titres) a saisi l'Autorité de la concurrence pour faire respecter les engagements de Google. Le déploiement complet des AI Overviews et de l'AI Mode en France est attendu autour du 23 septembre, avec rémunération au titre des droits voisins et option d'opt-out.",
+      "angle": "Angle — Les résumés IA de Google réécrivent le contrat moteur/éditeurs : le clic s'efface, le partage de la valeur devient existentiel."
+    },
+    {
+      "categorie": "media",
+      "titre": "Rentrée présidentielle : TF1 veut « sortir les politiques » de ses programmes",
+      "source": "CB News",
+      "date": "2026-09-01",
+      "url": "https://www.cbnews.fr/medias/changements-tetes-radio-tv-avec-rentree-2026-2027",
+      "paywall": false,
+      "resume": "À l'approche de la présidentielle de 2027, TF1 affiche une ligne de « rassemblement » : selon son directeur de l'information Thierry Thuillier et Anne-Claire Coudray, la chaîne entend limiter la présence des responsables politiques dans ses programmes pour « rassembler les Français plutôt que les diviser ». La rentrée voit par ailleurs peu de mouvements de visages, l'audiovisuel se calant sur la couverture de la campagne.",
+      "angle": "Angle — Choix éditorial risqué à l'entrée d'une campagne : moins de politiques à l'écran, est-ce du service public de l'apaisement ou une fuite devant le débat ?"
+    },
+    {
+      "categorie": "media",
+      "titre": "Sonia Mabrouk rejoint BFMTV pour la saison 2026-2027",
+      "source": "CB News",
+      "date": "2026-09-01",
+      "url": "https://www.cbnews.fr/medias/changements-tetes-radio-tv-avec-rentree-2026-2027",
+      "paywall": false,
+      "resume": "Parmi les rares mouvements marquants de la rentrée audiovisuelle, l'arrivée de Sonia Mabrouk sur BFMTV, alors que les rédactions se repositionnent en vue de la présidentielle. La saison est décrite comme relativement stable côté visages, la bataille se jouant surtout sur les lignes éditoriales des chaînes d'info.",
+      "angle": "Angle — Le mercato des chaînes d'info se lit à la lumière de 2027 : chaque recrutement dessine un positionnement pour la campagne."
+    },
+    {
+      "categorie": "business",
+      "titre": "Publicité : Amazon ouvre ChatGPT à ses annonceurs via un partenariat avec OpenAI",
+      "source": "CNBC",
+      "date": "2026-09-10",
+      "url": "https://www.cnbc.com/2026/09/10/amazon-chatgptads-open-ai.html",
+      "paywall": false,
+      "resume": "Amazon Ads a annoncé le 10 septembre un partenariat avec OpenAI permettant à des annonceurs sélectionnés (pilote américain) de diffuser des publicités dans ChatGPT : des formats texte ou image sous les réponses, visant les quelque 900 millions d'utilisateurs hebdomadaires. Amazon gère les campagnes avec ses données shopping, OpenAI contrôle la diffusion. L'activité publicitaire d'OpenAI atteint déjà 1 Md$ de run rate annualisé.",
+      "angle": "Angle — La pub, nerf de la guerre des médias, entre dans le chatbot : quand la réponse générée devient un espace publicitaire, que reste-t-il pour financer l'info ?"
+    },
+    {
+      "categorie": "business",
+      "titre": "Streaming : le rachat de Warner Bros. Discovery par Paramount Skydance en phase finale, « ticking fee » dès le 30 septembre",
+      "source": "Dossier public (Wikipedia)",
+      "date": "2026-09-01",
+      "url": "https://en.wikipedia.org/wiki/Proposed_acquisition_of_Warner_Bros._Discovery",
+      "paywall": false,
+      "resume": "Après avoir écarté Netflix (indemnité de rupture de 2,8 Mds$), Paramount Skydance rachète WBD pour environ 110,9 Mds$ (31 $/action). La clôture est attendue entre septembre et décembre 2026, avec une « ticking fee » de 0,25 $ par action à compter du 30 septembre jusqu'à finalisation.",
+      "angle": "Angle — La consolidation d'Hollywood entre dans sa dernière ligne droite : un géant du divertissement se recompose sous pression réglementaire et calendaire."
+    },
+    {
+      "categorie": "tech",
+      "titre": "Apps dans ChatGPT : six mois après, des partenaires déçus par le trafic et la découvrabilité",
+      "source": "PYMNTS",
+      "date": "2026-09-01",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-aims-to-improve-developer-experience-around-third-party-chatgpt-apps/",
+      "paywall": false,
+      "resume": "Six mois après l'ouverture des applications tierces dans ChatGPT (Zillow, Canva, Spotify…), l'expérience reçoit des retours mitigés : environ 300 intégrations sont disponibles mais peu visibles et génèrent peu de trafic vers les partenaires. OpenAI cherche à améliorer l'expérience développeur autour de son App Directory.",
+      "angle": "Angle — Le chatbot rêvé en « nouvel app store » peine à redistribuer l'audience : le même piège que le search, où la plateforme capte la valeur sans la partager."
+    },
+    {
+      "categorie": "tech",
+      "titre": "Cybersécurité des objets connectés : l'italien Exein lève 270 M$ à 1,7 Md$ de valorisation",
+      "source": "Techmeme / Financial Times",
+      "date": "2026-09-15",
+      "url": "https://www.techmeme.com/260915/p1",
+      "paywall": false,
+      "resume": "La start-up romaine Exein, spécialisée dans la sécurité des appareils connectés (voitures, routeurs domestiques…), a levé 270 M$ menés par Headline, pour une valorisation de 1,7 Md$. Signe de l'appétit persistant des investisseurs pour la cybersécurité embarquée, au moment où les objets connectés se multiplient dans les foyers et les véhicules.",
+      "angle": "Angle — L'Europe tech garde des pépites : la sécurité des objets connectés attire les capitaux quand la surface d'attaque du quotidien explose."
+    }
+  ]
+}
