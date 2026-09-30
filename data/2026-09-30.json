@@ -1,139 +1,170 @@
 {
-  "date": "2026-09-30",
-  "pistes_edito": [
-    "Même Ouest-France, premier quotidien de France, annonce 156 suppressions de postes (dont 116 en rédaction) avec recours à l'IA, après les DNA, L'Alsace ou le rachat de Sud Ouest par Rossel : la crise de la presse régionale n'épargne plus le leader. Mise en miroir possible avec la BBC qui coupe dans l'info locale (250 postes en moins dans sa division Nations d'ici 2027/28) : partout, l'information de proximité paie le prix.",
-    "Deux stratégies face à l'IA et aux plateformes : le FT, qui boucle une année record (566 M£, 1,47 million d'abonnés numériques) en misant sur la relation directe avec ses lecteurs, et NPR, qui achète un podcast vidéo tech et se réinvente en « vidéo d'abord ». Angle pour Radio France : que doit faire une radio publique pour garder son public quand l'audio se regarde ?"
-  ],
-  "items": [
-    {
-      "categorie": "media",
-      "titre": "TF1 leader 28 jours sur 28 en septembre, mais en baisse sur un an",
-      "source": "Puremédias (Ozap)",
-      "date": "2026-09-29",
-      "url": "https://www.ozap.com/actu/audiences-septembre-2026-tf1-leader-28-jours-sur-28-mais-en-baisse-sur-un-un-an-france-2-stagne-m6-ne-depasse-pas-les-8-mais-signe-sa-meilleure-rentree-depuis-3-ans/657196",
-      "paywall": false,
-      "resume": "Bilan Médiamétrie du 31 août au 27 septembre : TF1 à 19,1% de PDA (-0,3 pt sur un an), France 2 à 13,7% (stable sur un an, -1,7 pt sur un mois), France 3 à 9,3%, M6 à 8,0% (+0,2) et France 5 à 3,6%. Par groupe, France Télévisions (29,0%) devance le groupe TF1 (28,0%).",
-      "angle": "Angle — Une rentrée où le leader recule légèrement, où M6 signe sa meilleure rentrée depuis trois ans et où le service public passe devant TF1 en cumul groupe : lecture de la bataille des audiences."
-    },
-    {
-      "categorie": "media",
-      "titre": "BFMTV dénonce la réaction du maire de Saint-Denis après l'agression de son équipe",
-      "source": "Puremédias (Ozap)",
-      "date": "2026-09-29",
-      "url": "https://www.ozap.com/actu/un-elu-de-la-republique-ne-devrait-pas-soutenir-les-violences-contre-les-medias-bfmtv-denonce-la-reaction-de-bally-bagayoko-apres-lagression-de-journalistes-de-la-chaine/657206",
-      "paywall": false,
-      "resume": "Une équipe de BFMTV a été agressée mardi matin devant un lycée de Saint-Denis lors de la couverture d'un blocage étudiant. Le maire LFI Bally Bagayoko a commenté « Elle a raison ! » sous une vidéo critiquant la couverture ; la SDJ et la direction de la chaîne jugent cette réaction inacceptable et annoncent une plainte.",
-      "angle": "Angle — Sécurité des reporters sur le terrain et défiance envers les médias : quand un élu cautionne (ou est perçu comme cautionnant) la violence contre la presse."
-    },
-    {
-      "categorie": "media",
-      "titre": "TV payante : l'Autorité de la concurrence notifie des griefs à une entreprise non nommée",
-      "source": "CB News",
-      "date": "2026-09-29",
-      "url": "https://www.cbnews.fr/medias/tv-payante-autorite-concurrence-notifie-griefs-tait-nom-entreprise-visee",
-      "paywall": false,
-      "resume": "Dans son enquête ouverte d'office le 25 septembre 2024 sur la télévision payante et l'acquisition/diffusion d'œuvres cinématographiques, le rapporteur général a notifié des griefs pour abus de position dominante (conditions de transaction jugées « inéquitables »). L'entreprise visée n'est pas identifiée publiquement.",
-      "angle": "Angle — Le régulateur de la concurrence s'attaque à l'amont du marché de la TV payante, celui des droits cinéma ; le non-dit sur l'identité de l'entreprise alimente les spéculations."
-    },
-    {
-      "categorie": "media",
-      "titre": "Ouest-France prévoit 156 suppressions de postes, dont 116 en rédaction",
-      "source": "CB News",
-      "date": "2026-09-24",
-      "url": "https://www.cbnews.fr/medias/ouest-france-prevoit-suppression-156-postes-dont-116-les-redactions",
-      "paywall": false,
-      "resume": "Le premier quotidien français par la diffusion vise 15 M€ d'économies annuelles (environ 10% de la masse salariale) via le plan « Efficience 2 », sans licenciements : non-remplacement des départs et fins de CDD. Le titre a perdu 8,9 M€ en 2025 et vise l'équilibre en 2028 ; consultation jusqu'au 17 novembre. L'intersyndicale dénonce un plan « inacceptable », le premier de l'histoire du journal.",
-      "angle": "Angle — Après les DNA, L'Alsace et Sud Ouest, même Ouest-France cède : baisse du papier, publicité en recul et recours à l'IA pour « gagner en efficacité »."
-    },
-    {
-      "categorie": "media",
-      "titre": "BBC : coupes dans la radio locale et l'info régionale TV, 90 emplois menacés",
-      "source": "Press Gazette",
-      "date": "2026-09-28",
-      "url": "https://pressgazette.co.uk/news/bbc-to-cut-local-radio-and-regional-tv-news-with-90-jobs-at-risk/",
-      "paywall": false,
-      "resume": "Dans le cadre de 500 M£ d'économies annuelles sur trois ans, la BBC remplacera 18 matinales locales du samedi par un programme unique pour l'Angleterre, réduira les matinales du dimanche de 14 à 6 et diminuera les correspondants TV régionaux. Environ 250 postes en moins dans la division Nations d'ici 2027/28 ; le syndicat NUJ dénonce une « spirale de la mort évitable ».",
-      "angle": "Angle — Miroir britannique du débat français sur l'audiovisuel public : l'information de proximité est la première sacrifiée quand les budgets se resserrent."
-    },
-    {
-      "categorie": "media",
-      "titre": "Le Guardian crée 40 postes pour former des journalistes au métier de « content creator »",
-      "source": "Press Gazette",
-      "date": "2026-09-29",
-      "url": "https://pressgazette.co.uk/news/guardian-creates-40-jobs-to-train-journalists-as-content-creators/",
-      "paywall": false,
-      "resume": "Le « Digital Journalist Scheme » cible des journalistes avec 2-3 ans d'expérience : contrats de 18 mois, 20% du temps en formation, diplôme d'apprentissage en création de contenus (audio, vidéo, photo, écrit, audience). S'ajoutent 55 postes permanents au Royaume-Uni, aux États-Unis et en Australie ; le titre lance aussi Guardian Studios.",
-      "angle": "Angle — Pendant que d'autres coupent, le Guardian investit dans les profils hybrides journaliste/créateur pour aller chercher les jeunes publics sur les plateformes."
-    },
-    {
-      "categorie": "media",
-      "titre": "NPR, marque audio par excellence, s'adapte à un avenir « vidéo d'abord »",
-      "source": "Nieman Lab",
-      "date": "2026-09-29",
-      "url": "https://www.niemanlab.org/2026/09/npr-the-quintessential-audio-news-brand-adapts-to-a-video-first-future/",
-      "paywall": false,
-      "resume": "NPR a acquis le podcast vidéo Machine Gods de Casey Newton et Kevin Roose (ex-Hard Fork, New York Times), pour un montant rapporté proche de 5 M$. La nouvelle directrice des contenus Nadine Zylstra, venue de Pinterest et YouTube, pilote la bascule vers le numérique et la vidéo ; l'émission sera diffusée sur les antennes de radio à partir de janvier 2027.",
-      "angle": "Angle — Une radio publique achète un podcast vidéo tech : question de fond pour Radio France sur la vidéo, la possession de l'audience et les talents venus de la presse."
-    },
-    {
-      "categorie": "media",
-      "titre": "Financial Times : record de 566 M£ de revenus en 2025, 3,5 millions d'abonnés",
-      "source": "Press Gazette",
-      "date": "2026-09-25",
-      "url": "https://pressgazette.co.uk/media_business/financial-times-revenue-2025/",
-      "paywall": false,
-      "resume": "Le groupe FT enregistre 566 M£ de revenus (+5%) et 51,8 M£ de résultat d'exploitation (+23%). Le FT compte 1,47 million d'abonnés numériques (+9%), la publicité représente 24% des revenus et les événements FT Live progressent de 61% à 60 M£. Le directeur général Jon Slade met en avant la relation directe avec les lecteurs.",
-      "angle": "Angle — Le modèle abonnement d'abord, hors dépendance aux plateformes, reste celui qui résiste le mieux à la baisse du trafic Google."
-    },
-    {
-      "categorie": "media",
-      "titre": "Boston Globe : un seul article fait gagner plusieurs milliers d'abonnés en 72 heures",
-      "source": "Nieman Lab",
-      "date": "2026-09-25",
-      "url": "https://www.niemanlab.org/2026/09/the-boston-globes-western-mass-lesbian-bar-story-pulled-in-several-thousand-new-subscribers-in-four-days/",
-      "paywall": false,
-      "resume": "Un récit long format du Globe Magazine sur un bar lesbien du Massachusetts occidental a généré 1 000 abonnements le premier jour et « plusieurs milliers » en 72 heures. Le Globe n'offre pas de liens cadeaux partageables, contrairement au New York Times.",
-      "angle": "Angle — La preuve par l'exemple que le journalisme narratif de qualité reste un moteur d'abonnement, même à l'ère de l'IA."
-    },
-    {
-      "categorie": "media",
-      "titre": "RTL ressuscite des émissions cultes pour ses 60 ans",
-      "source": "CB News",
-      "date": "2026-09-29",
-      "url": "https://www.cbnews.fr/medias/bonne-touche-les-routiers-sont-sympa-rtl-ressuscite-emissions-ses-60-ans",
-      "paywall": false,
-      "resume": "Pour son anniversaire, la station fait revivre des programmes de son histoire, dont « La bonne touche » et « Les routiers sont sympa ». Détails limités à ce que la page permettait de vérifier.",
-      "angle": "Angle — La nostalgie comme outil de marque : la radio puise dans ses archives pour fédérer ses auditeurs."
-    },
-    {
-      "categorie": "tech",
-      "titre": "OpenAI double son soutien aux fellowships IA et presse locale de Lenfest",
-      "source": "Nieman Lab",
-      "date": "2026-09-28",
-      "url": "https://www.niemanlab.org/2026/09/openai-doubles-support-for-lenfests-ai-and-local-news-fellowships/",
-      "paywall": false,
-      "resume": "OpenAI ajoute 10 M$ (5 M$ en cash, 5 M$ en crédits) au programme du Lenfest Institute, qui a placé des ingénieurs IA dans 11 rédactions locales depuis octobre 2024 (Philadelphia Inquirer, Baltimore Banner, Minnesota Star Tribune). Le programme s'ouvre aux télévisions locales ; Microsoft n'a pas confirmé son renouvellement pour 2027.",
-      "angle": "Angle — Les géants de l'IA financent des rédactions qu'ils concurrencent aussi : mécénat, dépendance, ou prix de la paix avec la presse ?"
-    },
-    {
-      "categorie": "tech",
-      "titre": "Google conteste devant la justice européenne ses obligations issues du DMA (données de recherche, Android)",
-      "source": "CB News",
-      "date": "2026-09-29",
-      "url": "https://www.cbnews.fr/digital/concurrence-android-recherche-ligne-google-attaque-decisions-bruxelles",
-      "paywall": false,
-      "resume": "Google fait appel de décisions de Bruxelles prises au titre du Digital Markets Act : partager des données de recherche avec des concurrents d'ici janvier 2027 et ouvrir les fonctions clés d'Android aux assistants IA tiers sous un an. Il invoque la vie privée et la sécurité ; la Commission affirme avoir tenu compte de ces enjeux.",
-      "angle": "Angle — Le DMA face à son premier grand test contentieux, avec en toile de fond la concurrence des assistants IA."
-    },
-    {
-      "categorie": "business",
-      "titre": "L'action Shein chute de plus de 11% après des résultats pénalisés par le durcissement réglementaire en Europe",
-      "source": "franceinfo",
-      "date": "2026-09-29",
-      "url": "https://www.franceinfo.fr/economie/entreprises/shein/l-action-shein-devisse-de-plus-de-11-en-bourse-apres-des-resultats-mines-par-les-durcissements-reglementaires_8214281.html",
-      "paywall": true,
-      "resume": "Selon les titres des dépêches, l'action Shein cède 11,6% à la Bourse de Hong Kong après des résultats affectés par des durcissements réglementaires, notamment en Europe. Seul le titre a pu être vérifié.",
-      "angle": "Angle — L'Europe régulatrice a un coût mesurable pour les plateformes étrangères : un cas concret pour nourrir le débat sur le numérique et la souveraineté."
-    }
-  ]
+ "date": "2026-09-30",
+ "pistes_edito": [
+  "Même Ouest-France, premier quotidien de France, annonce 156 suppressions de postes (dont 116 en rédaction) avec recours à l'IA, après les DNA, L'Alsace ou le rachat de Sud Ouest par Rossel : la crise de la presse régionale n'épargne plus le leader. Mise en miroir possible avec la BBC qui coupe dans l'info locale (250 postes en moins dans sa division Nations d'ici 2027/28) : partout, l'information de proximité paie le prix.",
+  "Deux stratégies face à l'IA et aux plateformes : le FT, qui boucle une année record (566 M£, 1,47 million d'abonnés numériques) en misant sur la relation directe avec ses lecteurs, et NPR, qui achète un podcast vidéo tech et se réinvente en « vidéo d'abord ». Angle pour Radio France : que doit faire une radio publique pour garder son public quand l'audio se regarde ?",
+  "Violence contre les journalistes : après l'agression d'une équipe de BFMTV à Saint-Denis, et à quelques jours du boycott de la chaîne par LFI, la défiance envers les médias change de nature. Angle court et actuel, à traiter avec prudence (plainte déposée, faits contestés sur la réaction du maire)."
+ ],
+ "items": [
+  {
+   "categorie": "media",
+   "titre": "TF1 leader 28 jours sur 28 en septembre, mais en baisse sur un an",
+   "source": "Puremédias (Ozap)",
+   "date": "2026-09-29",
+   "url": "https://www.ozap.com/actu/audiences-septembre-2026-tf1-leader-28-jours-sur-28-mais-en-baisse-sur-un-an-france-2-stagne-m6-ne-depasse-pas-les-8-mais-signe-sa-meilleure-rentree-depuis-3-ans/657196",
+   "paywall": false,
+   "resume": "Bilan Médiamétrie du 31 août au 27 septembre : TF1 à 19,1% de PDA (-0,3 pt sur un an), France 2 à 13,7% (stable sur un an, -1,7 pt sur un mois), France 3 à 9,3%, M6 à 8,0% (+0,2) et France 5 à 3,6%. Par groupe, France Télévisions (29,0%) devance le groupe TF1 (28,0%).",
+   "angle": "Angle — Une rentrée où le leader recule légèrement, où M6 signe sa meilleure rentrée depuis trois ans et où le service public passe devant TF1 en cumul groupe : lecture de la bataille des audiences."
+  },
+  {
+   "categorie": "media",
+   "titre": "BFMTV dénonce la réaction du maire de Saint-Denis après l'agression de son équipe",
+   "source": "Puremédias (Ozap)",
+   "date": "2026-09-29",
+   "url": "https://www.ozap.com/actu/un-elu-de-la-republique-ne-devrait-pas-soutenir-les-violences-contre-les-medias-bfmtv-denonce-la-reaction-de-bally-bagayoko-apres-lagression-de-journalistes-de-la-chaine/657206",
+   "paywall": false,
+   "resume": "Une équipe de BFMTV a été agressée mardi matin devant un lycée de Saint-Denis lors de la couverture d'un blocage étudiant. Le maire LFI Bally Bagayoko a commenté « Elle a raison ! » sous une vidéo critiquant la couverture ; la SDJ et la direction de la chaîne jugent cette réaction inacceptable et annoncent une plainte.",
+   "angle": "Angle — Sécurité des reporters sur le terrain et défiance envers les médias : quand un élu cautionne (ou est perçu comme cautionnant) la violence contre la presse."
+  },
+  {
+   "categorie": "media",
+   "titre": "TV payante : l'Autorité de la concurrence notifie des griefs à une entreprise non nommée",
+   "source": "CB News",
+   "date": "2026-09-29",
+   "url": "https://www.cbnews.fr/medias/tv-payante-autorite-concurrence-notifie-griefs-tait-nom-entreprise-visee",
+   "paywall": false,
+   "resume": "Dans son enquête ouverte d'office le 25 septembre 2024 sur la télévision payante et l'acquisition/diffusion d'œuvres cinématographiques, le rapporteur général a notifié des griefs pour abus de position dominante (conditions de transaction jugées « inéquitables »). L'entreprise visée n'est pas identifiée publiquement.",
+   "angle": "Angle — Le régulateur de la concurrence s'attaque à l'amont du marché de la TV payante, celui des droits cinéma ; le non-dit sur l'identité de l'entreprise alimente les spéculations."
+  },
+  {
+   "categorie": "media",
+   "titre": "Ouest-France prévoit 156 suppressions de postes, dont 116 en rédaction",
+   "source": "CB News",
+   "date": "2026-09-24",
+   "url": "https://www.cbnews.fr/medias/ouest-france-prevoit-suppression-156-postes-dont-116-les-redactions",
+   "paywall": false,
+   "resume": "Le premier quotidien français par la diffusion vise 15 M€ d'économies annuelles (environ 10% de la masse salariale) via le plan « Efficience 2 », sans licenciements : non-remplacement des départs et fins de CDD. Le titre a perdu 8,9 M€ en 2025 et vise l'équilibre en 2028 ; consultation jusqu'au 17 novembre. L'intersyndicale dénonce un plan « inacceptable », le premier de l'histoire du journal.",
+   "angle": "Angle — Après les DNA, L'Alsace et Sud Ouest, même Ouest-France cède : baisse du papier, publicité en recul et recours à l'IA pour « gagner en efficacité »."
+  },
+  {
+   "categorie": "media",
+   "titre": "BBC : coupes dans la radio locale et l'info régionale TV, 90 emplois menacés",
+   "source": "Press Gazette",
+   "date": "2026-09-28",
+   "url": "https://pressgazette.co.uk/news/bbc-to-cut-local-radio-and-regional-tv-news-with-90-jobs-at-risk/",
+   "paywall": false,
+   "resume": "Dans le cadre de 500 M£ d'économies annuelles sur trois ans, la BBC remplacera 18 matinales locales du samedi par un programme unique pour l'Angleterre, réduira les matinales du dimanche de 14 à 6 et diminuera les correspondants TV régionaux. Environ 250 postes en moins dans la division Nations d'ici 2027/28 ; le syndicat NUJ dénonce une « spirale de la mort évitable ».",
+   "angle": "Angle — Miroir britannique du débat français sur l'audiovisuel public : l'information de proximité est la première sacrifiée quand les budgets se resserrent."
+  },
+  {
+   "categorie": "media",
+   "titre": "Le Guardian crée 40 postes pour former des journalistes au métier de « content creator »",
+   "source": "Press Gazette",
+   "date": "2026-09-29",
+   "url": "https://pressgazette.co.uk/news/guardian-creates-40-jobs-to-train-journalists-as-content-creators/",
+   "paywall": false,
+   "resume": "Le « Digital Journalist Scheme » cible des journalistes avec 2-3 ans d'expérience : contrats de 18 mois, 20% du temps en formation, diplôme d'apprentissage en création de contenus (audio, vidéo, photo, écrit, audience). S'ajoutent 55 postes permanents au Royaume-Uni, aux États-Unis et en Australie ; le titre lance aussi Guardian Studios.",
+   "angle": "Angle — Pendant que d'autres coupent, le Guardian investit dans les profils hybrides journaliste/créateur pour aller chercher les jeunes publics sur les plateformes."
+  },
+  {
+   "categorie": "media",
+   "titre": "NPR, marque audio par excellence, s'adapte à un avenir « vidéo d'abord »",
+   "source": "Nieman Lab",
+   "date": "2026-09-29",
+   "url": "https://www.niemanlab.org/2026/09/npr-the-quintessential-audio-news-brand-adapts-to-a-video-first-future/",
+   "paywall": false,
+   "resume": "NPR a acquis le podcast vidéo Machine Gods de Casey Newton et Kevin Roose (ex-Hard Fork, New York Times), pour un montant rapporté proche de 5 M$. La nouvelle directrice des contenus Nadine Zylstra, venue de Pinterest et YouTube, pilote la bascule vers le numérique et la vidéo ; l'émission sera diffusée sur les antennes de radio à partir de janvier 2027.",
+   "angle": "Angle — Une radio publique achète un podcast vidéo tech : question de fond pour Radio France sur la vidéo, la possession de l'audience et les talents venus de la presse."
+  },
+  {
+   "categorie": "media",
+   "titre": "Financial Times : record de 566 M£ de revenus en 2025, 3,5 millions d'abonnés",
+   "source": "Press Gazette",
+   "date": "2026-09-25",
+   "url": "https://pressgazette.co.uk/media_business/financial-times-revenue-2025/",
+   "paywall": false,
+   "resume": "Le groupe FT enregistre 566 M£ de revenus (+5%) et 51,8 M£ de résultat d'exploitation (+23%). Le FT compte 1,47 million d'abonnés numériques (+9%), la publicité représente 24% des revenus et les événements FT Live progressent de 61% à 60 M£. Le directeur général Jon Slade met en avant la relation directe avec les lecteurs.",
+   "angle": "Angle — Le modèle abonnement d'abord, hors dépendance aux plateformes, reste celui qui résiste le mieux à la baisse du trafic Google."
+  },
+  {
+   "categorie": "media",
+   "titre": "Boston Globe : un seul article fait gagner plusieurs milliers d'abonnés en 72 heures",
+   "source": "Nieman Lab",
+   "date": "2026-09-25",
+   "url": "https://www.niemanlab.org/2026/09/the-boston-globes-western-mass-lesbian-bar-story-pulled-in-several-thousand-new-subscribers-in-four-days/",
+   "paywall": false,
+   "resume": "Un récit long format du Globe Magazine sur un bar lesbien du Massachusetts occidental a généré 1 000 abonnements le premier jour et « plusieurs milliers » en 72 heures. Le Globe n'offre pas de liens cadeaux partageables, contrairement au New York Times.",
+   "angle": "Angle — La preuve par l'exemple que le journalisme narratif de qualité reste un moteur d'abonnement, même à l'ère de l'IA."
+  },
+  {
+   "categorie": "media",
+   "titre": "RTL ressuscite des émissions cultes pour ses 60 ans",
+   "source": "CB News",
+   "date": "2026-09-29",
+   "url": "https://www.cbnews.fr/medias/bonne-touche-les-routiers-sont-sympa-rtl-ressuscite-emissions-ses-60-ans",
+   "paywall": false,
+   "resume": "Pour son anniversaire, la station fait revivre des programmes de son histoire, dont « La bonne touche » et « Les routiers sont sympa ». Détails limités à ce que la page permettait de vérifier.",
+   "angle": "Angle — La nostalgie comme outil de marque : la radio puise dans ses archives pour fédérer ses auditeurs."
+  },
+  {
+   "categorie": "tech",
+   "titre": "OpenAI double son soutien aux fellowships IA et presse locale de Lenfest",
+   "source": "Nieman Lab",
+   "date": "2026-09-28",
+   "url": "https://www.niemanlab.org/2026/09/openai-doubles-support-for-lenfests-ai-and-local-news-fellowships/",
+   "paywall": false,
+   "resume": "OpenAI ajoute 10 M$ (5 M$ en cash, 5 M$ en crédits) au programme du Lenfest Institute, qui a placé des ingénieurs IA dans 11 rédactions locales depuis octobre 2024 (Philadelphia Inquirer, Baltimore Banner, Minnesota Star Tribune). Le programme s'ouvre aux télévisions locales ; Microsoft n'a pas confirmé son renouvellement pour 2027.",
+   "angle": "Angle — Les géants de l'IA financent des rédactions qu'ils concurrencent aussi : mécénat, dépendance, ou prix de la paix avec la presse ?"
+  },
+  {
+   "categorie": "tech",
+   "titre": "Google conteste devant la justice européenne ses obligations issues du DMA (données de recherche, Android)",
+   "source": "CB News",
+   "date": "2026-09-29",
+   "url": "https://www.cbnews.fr/digital/concurrence-android-recherche-ligne-google-attaque-decisions-bruxelles",
+   "paywall": false,
+   "resume": "Google fait appel de décisions de Bruxelles prises au titre du Digital Markets Act : partager des données de recherche avec des concurrents d'ici janvier 2027 et ouvrir les fonctions clés d'Android aux assistants IA tiers sous un an. Il invoque la vie privée et la sécurité ; la Commission affirme avoir tenu compte de ces enjeux.",
+   "angle": "Angle — Le DMA face à son premier grand test contentieux, avec en toile de fond la concurrence des assistants IA."
+  },
+  {
+   "categorie": "business",
+   "titre": "L'action Shein chute de plus de 11% après des résultats pénalisés par le durcissement réglementaire en Europe",
+   "source": "franceinfo",
+   "date": "2026-09-29",
+   "url": "https://www.franceinfo.fr/economie/entreprises/shein/l-action-shein-devisse-de-plus-de-11-en-bourse-apres-des-resultats-mines-par-les-durcissements-reglementaires_8214281.html",
+   "paywall": true,
+   "resume": "Selon les titres des dépêches, l'action Shein cède 11,6% à la Bourse de Hong Kong après des résultats affectés par des durcissements réglementaires, notamment en Europe. Seul le titre a pu être vérifié.",
+   "angle": "Angle — L'Europe régulatrice a un coût mesurable pour les plateformes étrangères : un cas concret pour nourrir le débat sur le numérique et la souveraineté."
+  },
+  {
+   "categorie": "media",
+   "titre": "Lycées bloqués : des journalistes de BFMTV agressés à Saint-Denis, la chaîne porte plainte",
+   "source": "Stratégies",
+   "date": "2026-09-30",
+   "url": "https://www.strategies.fr/actualites/medias/LQ6671559C/tensions-entre-bfmtv-des-lyceens-et-le-maire-de-saint-denis.html",
+   "paywall": true,
+   "resume": "Le 29 septembre, deux journalistes de BFMTV ont été pris à partie par des lycéens lors d'un blocage à Saint-Denis ; la chaîne a déposé plainte. Le maire LFI Bally Bagayoko a réagi de façon jugée favorable aux lycéens, ce que BFMTV a dénoncé ; la ministre de la Culture y voit une atteinte à la liberté de la presse.",
+   "angle": "Angle — Après le boycott de la chaîne par LFI plus tôt en septembre, l'hostilité envers certains médias passe de la joute politique à la violence physique : où s'arrête la critique légitime des médias ?"
+  },
+  {
+   "categorie": "media",
+   "titre": "La Commission européenne consulte les éditeurs sur l'opt-out IA proposé par Google",
+   "source": "Brand Icon Image",
+   "date": "2026-09-30",
+   "url": "https://www.brandiconimage.com/2026/09/eu-seeks-publishers-views-on-google-ai.html",
+   "paywall": false,
+   "resume": "Dans son enquête antitrust, la Commission interroge les éditeurs sur le mécanisme proposé par Google pour exclure leurs contenus des fonctions IA de la recherche sans pénalité de classement. Les réponses pèseront sur l'issue d'une procédure qui pourrait déboucher sur de nouvelles amendes.",
+   "angle": "Angle — Le vrai test pour la presse : peut-elle refuser d'être résumée par l'IA de Google sans disparaître de la recherche ?"
+  },
+  {
+   "categorie": "business",
+   "titre": "Anthropic : le projet de prospectus d'IPO révèle 4,6 Md$ de revenus 2025 et des engagements de calcul massifs",
+   "source": "Tech Startups",
+   "date": "2026-09-29",
+   "url": "https://techstartups.com/2026/09/29/top-tech-news-today-september-29-2026-anthropic-bytedance-google-meta-openai-samsung-more/",
+   "paywall": false,
+   "resume": "Selon ce récapitulatif, le projet de prospectus d'Anthropic fait état de 4,6 Md$ de revenus en 2025, de pertes très élevées et de plus de 500 Md$ d'engagements de calcul à venir. Information issue d'un agrégateur, à recouper avec la presse économique.",
+   "angle": "Angle — L'économie de l'IA repose sur des paris d'infrastructure sans précédent, dont dépendent les futurs partenaires des médias."
+  }
+ ]
 }
