@@ -1,0 +1,209 @@
+{
+ "date": "2026-10-08",
+ "pistes_edito": [
+  "La régulation change de camp : l'Arcom, par la voix de Martin Ajdari, veut aligner les plateformes sur les règles de l'audiovisuel et appelle à la consolidation des groupes français, alors que Canal+ menace films et abonnements face à la TVA, que Paramount-Warner devient Skydance et que les médias n'auraient plus que 15 à 20 % de la pub en 2030. Qui doit payer pour l'information ?",
+  "Les plateformes font payer l'accès au public : Facebook teste deux liens gratuits par mois (presse épargnée pour l'instant), Google gagne contre Penske sur les AI Overviews faute d'« accord formel », tandis que la Californie finance l'emploi de journalistes locaux (jusqu'à 40 M$ par an). Contraste avec les 66 % de Français qui écoutent la radio chaque jour."
+ ],
+ "items": [
+  {
+   "categorie": "media",
+   "titre": "Martin Ajdari veut que les plateformes s'alignent sur la réglementation audiovisuelle",
+   "source": "Stratégies",
+   "date": "2026-10-07",
+   "url": "https://www.strategies.fr/actualites/medias/LQ6704806C/martin-ajdari-veut-que-plateformes-s-alignent-sur-la-reglementation-audiovisuelle.html",
+   "paywall": false,
+   "resume": "Au colloque NPA du 2 octobre, le président de l'Arcom estime que les médias d'information et de création ne capteraient plus que 15 à 20 % du marché publicitaire en 2030, contre 50 % en 2018. Il plaide pour la consolidation des groupes audiovisuels français, une évolution de la loi Léotard et une révision du décret de 1992 sur la publicité TV.",
+   "angle": "Angle — Le régulateur change de discours : moins protéger les acteurs historiques, davantage soumettre les plateformes aux mêmes règles, avec la refonte de la directive SMA en toile de fond."
+  },
+  {
+   "categorie": "media",
+   "titre": "Hausse de la TVA : Canal+ dénonce une décision politique et brandit la menace d'un plan social",
+   "source": "Stratégies",
+   "date": "2026-10-06",
+   "url": "https://www.strategies.fr/actualites/medias/LQ6701194C/hausse-de-la-tva-canal-denonce-une-decision-politique-et-brandit-la-menace-d-un-plan-social.html",
+   "paywall": false,
+   "resume": "Maxime Saada juge « absurde » le projet de doublement de la TVA sur la TV payante et évoque un plan social. Ozap rapporte qu'il menace aussi de réduire fortement le nombre de films financés et de relever les abonnements d'environ 10 %.",
+   "angle": "Angle — Bras de fer fiscal où le financement du cinéma français sert de levier de négociation."
+  },
+  {
+   "categorie": "media",
+   "titre": "QuotaClimat et la Fondation Jean-Jaurès pointent les déficiences de CNews sur l'environnement",
+   "source": "Stratégies",
+   "date": "2026-10-08",
+   "url": "https://www.strategies.fr/actualites/medias/LQ6718112C/quotaclimat-et-la-fondation-jean-jaures-pointent-les-deficiences-de-cnews-sur-l-environnement.html",
+   "paywall": false,
+   "resume": "Les deux organisations ont saisi l'Arcom le 5 octobre pour demander une mise en demeure de CNews. Leur étude (près de 70 h de programmes de juillet 2025) attribue à CNews 63 des 98 cas de désinformation climatique relevés. CNews conteste le périmètre et la méthode.",
+   "angle": "Angle — Nouvelle épreuve pour l'Arcom sur le pluralisme, CNews ayant déjà été mise en demeure en juin 2026."
+  },
+  {
+   "categorie": "media",
+   "titre": "Cyril Hanouna lance son hebdo TV « Tout beau tout news »",
+   "source": "Stratégies",
+   "date": "2026-10-08",
+   "url": "https://www.strategies.fr/actualites/medias/LQ6719713C/cyril-hanouna-lance-un-hebdo-tv-tout-beau-tout-news.html",
+   "paywall": false,
+   "resume": "Paru le 5 octobre, ce magazine de 132 pages (1,70 €, tirage initial 180 000 exemplaires) est animé par l'équipe de l'émission d'Hanouna et monté avec Michel Moulin (Paru Vendu). Objectif : se stabiliser autour de 100 000 exemplaires.",
+   "angle": "Angle — Une vedette de la télé se lance dans la presse papier : pari à contre-courant ou extension de marque ?"
+  },
+  {
+   "categorie": "media",
+   "titre": "Les deux tiers des Français écoutent la radio chaque jour (Médiamétrie Année Audio)",
+   "source": "Stratégies",
+   "date": "2026-10-07",
+   "url": "https://www.strategies.fr/actualites/medias/LQ6706558C/la-radio-represente-53-du-temps-d-ecoute-audio-des-francais.html",
+   "paywall": false,
+   "resume": "83 % des Français écoutent de l'audio chaque jour, dont 53 % la radio (66 % la radio chaque jour, 2 h 47 par auditeur). À 8 h, 11,9 millions d'auditeurs, dont 7 millions sur une matinale d'info nationale. 48 % écoutent un podcast chaque mois ; 27 % de l'écoute radio est numérique.",
+   "angle": "Angle — La radio résiste et la matinale d'info reste un rendez-vous massif, alors que la vidéo gagne le podcast."
+  },
+  {
+   "categorie": "media",
+   "titre": "Paramount Skydance finalise le rachat de Warner Bros Discovery : le groupe s'appellera Skydance",
+   "source": "Stratégies",
+   "date": "2026-10-07",
+   "url": "https://www.strategies.fr/actualites/medias/LQ6716351C/un-nouveau-groupe-nomme-skydance-ne-de-labsorption-de-warner-par-paramount.html",
+   "paywall": false,
+   "resume": "Opération d'environ 110 milliards de dollars, avec près de 52 milliards de dette nouvelle et 6 milliards d'économies visées par an. Le groupe réunit HBO Max, Paramount+, CBS et CNN ; un conseil sur l'indépendance éditoriale a été créé pour les chaînes d'info.",
+   "angle": "Angle — Concentration hollywoodienne et avenir de CNN sous la famille Ellison, alors que Canal+ se rêve consolidateur européen."
+  },
+  {
+   "categorie": "media",
+   "titre": "Comment les IA voient l'élection présidentielle de 2027",
+   "source": "Stratégies",
+   "date": "2026-10-07",
+   "url": "https://www.strategies.fr/actualites/medias/LQ6707706C/comment-les-ia-voient-l-election-presidentielle-de-2027.html",
+   "paywall": true,
+   "resume": "Stratégies s'intéresse à la manière dont les assistants IA présentent la présidentielle de 2027 (chapô seul lu : l'élection « ne se fera pas sans les IA »).",
+   "angle": "Angle — Les chatbots deviennent un nouvel intermédiaire d'information politique, hors cadre Arcom."
+  },
+  {
+   "categorie": "media",
+   "titre": "Le groupe NRJ lance dix nouvelles chaînes FAST",
+   "source": "Stratégies",
+   "date": "2026-10-07",
+   "url": "https://www.strategies.fr/actualites/medias/LQ6707264C/le-groupe-nrj-lance-10-nouvelles-chaines-fast.html",
+   "paywall": true,
+   "resume": "NRJ se renforce dans le digital avec dix chaînes FAST (télé gratuite financée par la pub, diffusée en streaming). Seul le chapô a été lu.",
+   "angle": "Angle — Les groupes radio cherchent leur place sur la télé connectée."
+  },
+  {
+   "categorie": "media",
+   "titre": "Audiences : Hanouna et Barthès au coude à coude à 20 h, Nagui au-dessus de 2 millions sur France 2",
+   "source": "Ozap",
+   "date": "2026-10-07",
+   "url": "https://www.ozap.com/actu/audiences-access-20h-au-coude-a-coude-hier-cyril-hanouna-et-yann-barthes-ont-ils-reussi-a-se-departager-sur-w9-et-tmc/657343",
+   "paywall": true,
+   "resume": "Ozap compare les audiences de W9 et TMC à 20 h, tandis que « N'oubliez pas les paroles » dépasse pour la première fois de la saison 2 millions de téléspectateurs sur France 2. Chapôs seuls lus.",
+   "angle": "Angle — Le duel de l'access prime time se joue désormais entre TNT et service public."
+  },
+  {
+   "categorie": "media",
+   "titre": "Penske : la plainte contre les AI Overviews de Google rejetée faute d'« accord formel »",
+   "source": "Press Gazette",
+   "date": "2026-10-01",
+   "url": "https://pressgazette.co.uk/news/penske-ai-overviews-lawsuit-dismissed-because-no-formal-bargain-struck-with-google/",
+   "paywall": false,
+   "resume": "Le juge fédéral Amit Mehta a rejeté la plainte antitrust de Penske Media : l'espoir de trafic n'est pas un contrat, et recherche classique et AI Overviews forment une seule expérience. Au Royaume-Uni, la CMA impose à Google une option de retrait des fonctions IA.",
+   "angle": "Angle — Aux États-Unis, la voie judiciaire se ferme pour les éditeurs ; en Europe, droits voisins et régulateurs restent les leviers."
+  },
+  {
+   "categorie": "media",
+   "titre": "Facebook teste un plafond de deux liens gratuits par mois pour les pages",
+   "source": "Press Gazette",
+   "date": "2026-10-07",
+   "url": "https://pressgazette.co.uk/platforms/facebook-cash-for-links-scheme-excludes-publishers-for-now/",
+   "paywall": false,
+   "resume": "Meta teste sur certaines pages une limite de deux liens externes par mois sans abonnement Meta One (de ~37 £ à plus de 376 £/mois au-delà). Les éditeurs de presse sont exclus du test pour l'instant, sans annonce officielle.",
+   "angle": "Angle — Faire payer le droit d'envoyer du trafic hors de Facebook : la presse est épargnée, mais pour combien de temps ?"
+  },
+  {
+   "categorie": "media",
+   "titre": "La Californie adopte sa grande loi d'aide à la presse locale (AB 2222)",
+   "source": "Nieman Lab",
+   "date": "2026-10-01",
+   "url": "https://www.niemanlab.org/2026/10/californias-big-local-news-bill-becomes-law/",
+   "paywall": false,
+   "resume": "Signée le 30 septembre par Gavin Newsom, la loi accorde des crédits d'impôt par journaliste employé (20 000 $ jusqu'à cinq, 15 000 $ au-delà), jusqu'à 40 M$ par an, dès le 1er janvier 2027. Newsom reconnaît que des structures de fonds ou de milliardaires pourront en bénéficier.",
+   "angle": "Angle — L'aide publique à l'emploi journalistique arrive aux États-Unis, là où la France l'a toujours pratiquée."
+  },
+  {
+   "categorie": "media",
+   "titre": "Ex-Panorama editor Rachel Jupp nommée prochaine patronne de BBC News",
+   "source": "Press Gazette",
+   "date": "2026-10-05",
+   "url": "https://pressgazette.co.uk/the-wire/media-jobs-uk-news/ex-panorama-editor-rachel-jupp-named-next-bbc-news-boss/",
+   "paywall": true,
+   "resume": "L'ancienne rédactrice en chef de Panorama est nommée à la tête de BBC News. Seul le titre et le teaser ont été lus.",
+   "angle": "Angle — Changement de direction à la BBC, référence du service public."
+  },
+  {
+   "categorie": "media",
+   "titre": "Une appli de brief audio générée par IA devient la première appli d'info d'Argentine",
+   "source": "Nieman Lab",
+   "date": "2026-10-06",
+   "url": "https://www.niemanlab.org/2026/10/two-23-year-olds-used-ai-to-create-a-daily-audio-briefing-its-now-the-top-news-app-in-argentina/",
+   "paywall": false,
+   "resume": "Deux fondateurs de 23 ans ont créé un briefing audio quotidien généré par IA, devenu la première appli d'actualité du pays, avec l'idée de restaurer la confiance via des formats actuels.",
+   "angle": "Angle — Un format audio court, façon matinale, produit par IA : concurrent ou inspiration pour la radio ?"
+  },
+  {
+   "categorie": "media",
+   "titre": "Une étude sur les rédactions à but non lucratif : le public se méfie des présentateurs générés par IA",
+   "source": "Nieman Lab",
+   "date": "2026-10-06",
+   "url": "https://www.niemanlab.org/2026/10/a-study-of-nonprofit-newsrooms-reveals-some-cracks-in-the-models-foundation/",
+   "paywall": false,
+   "resume": "L'étude relève des fragilités du modèle non lucratif, la méfiance du public envers des présentateurs d'actualité générés par IA, et un désenchantement répandu dans la profession.",
+   "angle": "Angle — Le public accepte mal la voix et le visage artificiels de l'info."
+  },
+  {
+   "categorie": "tech",
+   "titre": "ChatGPT ajoute de vraies signatures de dessinateurs à de faux dessins du New Yorker",
+   "source": "Nieman Lab",
+   "date": "2026-10-06",
+   "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+   "paywall": false,
+   "resume": "ChatGPT imite le style du New Yorker et attribue à tort à de vrais dessinateurs des images générées par IA.",
+   "angle": "Angle — Après le texte, l'attribution fausse d'œuvres : un risque de désinformation et de droit d'auteur."
+  },
+  {
+   "categorie": "tech",
+   "titre": "OpenAI lance GPT-6 dans ChatGPT avec une interface « Intelligent UI »",
+   "source": "Techmeme / TechCrunch",
+   "date": "2026-10-07",
+   "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+   "paywall": true,
+   "resume": "ChatGPT devient plus visuel avec des graphiques et éléments interactifs (annonce OpenAI relayée par TechCrunch et Wired). Seul le titre vu via Techmeme.",
+   "angle": "Angle — Les réponses IA remplacent de plus en plus la visite du site d'origine."
+  },
+  {
+   "categorie": "tech",
+   "titre": "Common Sense Media juge « ChatGPT for Teens » à risque inacceptable",
+   "source": "The Verge",
+   "date": "2026-10-07",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+   "paywall": true,
+   "resume": "L'ONG estime que les garde-fous ne tiennent pas les promesses d'OpenAI ; selon Reuters, OpenAI affirme que les ados y passent moins de 15 minutes par jour, ce que contestent des observateurs.",
+   "angle": "Angle — La régulation des IA grand public passe par la protection des mineurs."
+  },
+  {
+   "categorie": "tech",
+   "titre": "Meta, Walmart, Shopify, Stripe publient un protocole pour les agents IA",
+   "source": "Techmeme / CNBC",
+   "date": "2026-10-06",
+   "url": "https://www.techmeme.com/261006/p31",
+   "paywall": true,
+   "resume": "Le Personal Agent Protocol vise à standardiser et sécuriser les interactions entre agents IA et entreprises. Seul le titre Techmeme a été lu.",
+   "angle": "Angle — Les agents IA vont devenir des intermédiaires de consommation, y compris pour l'info."
+  },
+  {
+   "categorie": "business",
+   "titre": "Anthropic lance Claude Haiku 5.5 avant son introduction en bourse prévue",
+   "source": "Techmeme / SiliconANGLE",
+   "date": "2026-10-07",
+   "url": "https://siliconangle.com/2026/10/07/anthropic-releases-claude-haiku-5-5-small-model-and-halves-sonnet-5-5-cache-read-prices/",
+   "paywall": true,
+   "resume": "Troisième modèle de la gamme 5.5, vendu 0,10 $/0,50 $ par million de tokens, avec baisse de moitié des prix de cache de Sonnet 5.5 (d'après les titres Techmeme).",
+   "angle": "Angle — La guerre des prix de l'IA fait baisser le coût de production de l'info automatisée."
+  }
+ ]
+}
