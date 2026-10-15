@@ -1,0 +1,259 @@
+{
+  "date": "2026-10-15",
+  "pistes_edito": [
+    "L'IA et les droits des médias : la coalition SPUR (Radio France, AFP, L'Équipe, New York Times, Economist…) approche les 80 membres. Angle : les médias cessent de négocier en ordre dispersé face aux géants de l'IA ; en miroir, ChatGPT qui appose de fausses signatures de vrais dessinateurs du New Yorker montre ce qui est en jeu (valeur, attribution, rémunération).",
+    "La radio, média fragilisé qui se défend : le Sénat vote l'obligation FM/DAB+ dans les voitures neuves (audience en recul de 18 % entre 2015 et 2025) pendant que Radio France lance des offres jeunesse (Mon petit France Inter, 1 an). Angle : à l'ère des plateformes, la radio doit-elle être protégée par la loi dans l'habitacle, le dernier écran où elle règne ?"
+  ],
+  "items": [
+    {
+      "categorie": "media",
+      "titre": "IA : l'AFP, L'Équipe, Locales.tv… une quarantaine de nouveaux adhérents à la coalition internationale SPUR",
+      "source": "CB News",
+      "date": "2026-10-13",
+      "url": "https://www.cbnews.fr/medias/ia-afp-localestv-equipe-quarantaine-nouveaux-adherents-coalition-internationale-spur",
+      "paywall": false,
+      "resume": "L'AFP, L'Équipe et Locales.tv rejoignent la coalition SPUR, qui compte désormais près de 80 acteurs des médias, dont le New York Times et The Economist. Lancée en 2026 par cinq médias britanniques, elle vise un cadre responsable et transparent pour l'usage des contenus médias par les IA. Le PDG de l'AFP estime que la valeur créée à la source doit être « reconnue, citée et rémunérée ».",
+      "angle": "Angle — Les médias s'organisent collectivement face à l'IA ; Radio France fait partie de la coalition (voir Media Leader)."
+    },
+    {
+      "categorie": "media",
+      "titre": "Radio France rejoint la coalition internationale SPUR sur l'IA et l'éthique",
+      "source": "The Media Leader France",
+      "date": "2026-10-13",
+      "url": "https://fr.themedialeader.com/radio-france-rejoint-la-coalition-internationale-spur-sur-lia-et-lethique/",
+      "paywall": true,
+      "resume": "Radio France adhère à SPUR, coalition internationale de médias sur l'IA et l'éthique. Seul le titre a pu être vérifié ; le détail de l'adhésion est repris dans l'article de CB News sur l'élargissement de la coalition.",
+      "angle": "Angle — Un sujet qui touche directement la maison : positionnement de l'audiovisuel public face à l'IA générative."
+    },
+    {
+      "categorie": "media",
+      "titre": "Radio : les sénateurs veulent un récepteur hertzien dans chaque voiture neuve",
+      "source": "CB News",
+      "date": "2026-10-14",
+      "url": "https://www.cbnews.fr/medias/senat-adopte-proposition-loi-moderniser-radio",
+      "paywall": false,
+      "resume": "Le Sénat a adopté en première lecture la proposition de loi de Laurent Lafon : récepteurs FM ou DAB+ obligatoires dans les véhicules neufs (mise en compatibilité DAB+ sous deux ans) et allègement de certains messages sanitaires publicitaires. Le texte, soutenu par la ministre de la Culture, doit passer à l'Assemblée alors que l'audience de la radio a reculé de 18 % entre 2015 et 2025.",
+      "angle": "Angle — Le législateur protège la radio dans la voiture face aux écrans et aux plateformes audio."
+    },
+    {
+      "categorie": "media",
+      "titre": "Matthieu Pigasse entre dans la course à la TNT",
+      "source": "CB News",
+      "date": "2026-10-12",
+      "url": "https://www.cbnews.fr/medias/matthieu-pigasse-entre-course-tnt",
+      "paywall": false,
+      "resume": "Combat Media, le groupe de Matthieu Pigasse (Radio Nova, Les Inrockuptibles, festivals), veut décrocher une fréquence TNT fin 2027 pour une chaîne mêlant télé et réseaux sociaux, « média des cultures qui viennent ». L'Arcom a ouvert un appel à candidatures sur six fréquences, dépôt avant le 15 décembre, face aux groupes TF1, M6, Amaury et CMA CGM.",
+      "angle": "Angle — La bataille de la TNT s'ouvre : un acteur indépendant et culturel contre les grands groupes installés."
+    },
+    {
+      "categorie": "media",
+      "titre": "Valeurs Actuelles fait peau neuve et revendique son statut de « journal de conviction »",
+      "source": "CB News",
+      "date": "2026-10-14",
+      "url": "https://www.cbnews.fr/medias/valeurs-actuelles-fait-peau-neuve-revendique-son-statut-journal-conviction",
+      "paywall": false,
+      "resume": "L'hebdomadaire, racheté en 2025 par un trio d'investisseurs, lance une nouvelle maquette en deux blocs, au prix inchangé de 6,90 €. Il promet plus d'enquêtes et de contradictoire, une page de libre expression et affirme ne soutenir aucun candidat. Son directeur présente la relance comme une nécessité économique après 2,5 M€ de pertes en 2025.",
+      "angle": "Angle — Presse d'opinion et présidentielle qui approche : la « conviction » comme modèle économique."
+    },
+    {
+      "categorie": "media",
+      "titre": "30 médias indépendants commercialisés par la nouvelle régie Quatrième Pouvoir",
+      "source": "CB News",
+      "date": "2026-10-13",
+      "url": "https://www.cbnews.fr/medias/30-medias-independants-commercialises-nouvelle-regie-quatrieme-pouvoir",
+      "paywall": false,
+      "resume": "Fondée par Rémy Angel (ex-CMI Media), la régie mutualise les inventaires de 30 médias indépendants et revendique 30 millions de contacts mensuels. Une étude Iligo indique que 77 % de leurs lecteurs acceptent la publicité qui finance leurs médias.",
+      "angle": "Angle — Les indépendants se regroupent pour peser face aux régies des grands groupes et des plateformes."
+    },
+    {
+      "categorie": "media",
+      "titre": "Netflix Ads France défend un « CPM premium »",
+      "source": "CB News",
+      "date": "2026-10-14",
+      "url": "https://www.cbnews.fr/medias/netflix-ads-france-defend-cpm-premium",
+      "paywall": false,
+      "resume": "Lors de son premier Upfront français, Netflix Ads a revendiqué 7,20 € de ventes par euro investi (étude Ekimetrics) et la 1re place pour toucher les 18-34 ans. L'offre avec publicité sera étendue à neuf marchés européens supplémentaires le 1er mars 2027.",
+      "angle": "Angle — Netflix devient un concurrent publicitaire direct de la télévision linéaire en France."
+    },
+    {
+      "categorie": "media",
+      "titre": "TF1+ enregistre une hausse de 30 % de ses heures vues avec Netflix",
+      "source": "The Media Leader France",
+      "date": "2026-10-14",
+      "url": "https://fr.themedialeader.com/tf1-enregistre-une-hausse-de-30-de-ses-heures-vues-avec-netflix/",
+      "paywall": false,
+      "resume": "Trois mois après le partenariat de distribution avec Netflix, TF1 annonce +30 % d'heures vues sur TF1+ (chiffres internes) ; près de la moitié des abonnés Netflix auraient vu au moins un programme TF1+. Secret Story et Koh-Lanta All Stars entrent dans le Top 10 Netflix.",
+      "angle": "Angle — Le pari TF1 : se diffuser sur son concurrent. Cannibalisation ou nouvelle audience ?"
+    },
+    {
+      "categorie": "media",
+      "titre": "PLF 2027 : une rallonge de 10 millions € pour France Médias Monde adoptée en commission",
+      "source": "CB News",
+      "date": "2026-10-14",
+      "url": "https://www.cbnews.fr/medias/plf-2027-rallonge-10-millions-eu-france-medias-monde-adoptee-commission",
+      "paywall": false,
+      "resume": "La commission des affaires étrangères de l'Assemblée a adopté un amendement de Bruno Fuchs ajoutant 10 M€ à France Médias Monde (dotation prévue : 307 M€ en 2027), compensés par un prélèvement équivalent sur France Télévisions, présenté comme technique. L'arbitrage final dépend de l'examen en séance.",
+      "angle": "Angle — Budget de l'audiovisuel public : un jeu de vases communicants entre sociétés publiques."
+    },
+    {
+      "categorie": "media",
+      "titre": "Mon petit France Inter célèbre son premier anniversaire",
+      "source": "CB News",
+      "date": "2026-10-13",
+      "url": "https://www.cbnews.fr/medias/mon-petit-france-inter-celebre-son-premier-anniversaire",
+      "paywall": false,
+      "resume": "L'offre jeunesse gratuite et sans publicité lancée par Radio France en octobre 2025 élargit sa grille : matinale 7h-9h, talk-show « Badaboum » le samedi, concerts en direct, nouvelles saisons et journée spéciale sur France Inter le 14 octobre.",
+      "angle": "Angle — Conquérir les plus jeunes par une offre dédiée, enjeu de renouvellement des auditeurs."
+    },
+    {
+      "categorie": "media",
+      "titre": "Mediawan et Reese Witherspoon rachètent la société de production Hello Sunshine",
+      "source": "CB News",
+      "date": "2026-10-14",
+      "url": "https://www.cbnews.fr/medias/mediawan-reese-witherspoon-rachetent-societe-production-hello-sunshine",
+      "paywall": false,
+      "resume": "Le groupe français Mediawan et Reese Witherspoon rachètent conjointement Hello Sunshine à Candle Media ; prix non communiqué. Les deux acquéreurs siègeront au conseil pour explorer de nouveaux formats et modes de distribution.",
+      "angle": "Angle — Un géant français de la production s'implante davantage à Hollywood."
+    },
+    {
+      "categorie": "business",
+      "titre": "Netflix supprime environ 6 % de ses effectifs (~1 000 postes), ses plus gros licenciements depuis 2022",
+      "source": "Wall Street Journal (via Techmeme)",
+      "date": "2026-10-14",
+      "url": "https://www.wsj.com/business/media/netflix-eliminates-about-6-of-staff-in-biggest-cuts-since-2022-0a2d8ec3",
+      "paywall": true,
+      "resume": "D'après le WSJ relayé par Techmeme, Netflix coupe environ 1 000 postes dans la tech, le produit, le juridique et les RH, sur fond de ralentissement de la croissance. Seul le titre/chapô a été lu.",
+      "angle": "Angle — Le même jour, Netflix tient son Upfront français et licencie : la maturité du streaming."
+    },
+    {
+      "categorie": "tech",
+      "titre": "YouTube Shopping arrive en France : « L'attention ne s'achète plus, elle se gagne »",
+      "source": "The Media Leader France",
+      "date": "2026-10-13",
+      "url": "https://fr.themedialeader.com/youtube-shopping-arrive-en-france-les-ventes-mondiales-x13/",
+      "paywall": false,
+      "resume": "YouTube lance en France son programme d'affiliation Shopping : les créateurs recommandent des produits achetables en un clic. Les ventes mondiales ont été multipliées par 13 entre le T1 2024 et le T1 2026, 1,3 million de créateurs inscrits ; YouTube dit reverser 55 % des budgets média aux créateurs.",
+      "angle": "Angle — YouTube transforme les créateurs en vendeurs et capte les budgets publicitaires des médias."
+    },
+    {
+      "categorie": "tech",
+      "titre": "ChatGPT ajoute les signatures de vrais dessinateurs à de faux dessins « New Yorker »",
+      "source": "Nieman Lab",
+      "date": "2026-10-14",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "paywall": false,
+      "resume": "Interrogé pour un dessin « style New Yorker », ChatGPT produit des cartoons signés de noms de vrais dessinateurs (Brendan Loper, Emily Flake, Pat Byrnes) qui ne les ont pas réalisés. OpenAI dit corriger des bugs et a ajouté un avertissement, mais certaines signatures persistent ; Loper parle d'une « violation de [sa] personne ».",
+      "angle": "Angle — Attribution et droits d'auteur : l'IA fabrique de fausses signatures, symbole du débat sur la valeur de la création."
+    },
+    {
+      "categorie": "media",
+      "titre": "Two 23-year-olds used AI to create a daily audio briefing. It's now the top news app in Argentina",
+      "source": "Nieman Lab",
+      "date": "2026-10-14",
+      "url": "https://www.niemanlab.org/2026/10/two-23-year-olds-used-ai-to-create-a-daily-audio-briefing-its-now-the-top-news-app-in-argentina/",
+      "paywall": false,
+      "resume": "Deux étudiants de 23 ans ont lancé en août Lisa AI, une appli gratuite de briefings audio de 10 minutes générés à partir de médias argentins, avec attribution des sources. Elle est devenue numéro un des applis d'actualité sur l'App Store argentin fin septembre ; pas de monétisation prévue.",
+      "angle": "Angle — Un format audio d'actualité assemblé par IA : opportunité d'audience ou concurrence pour la radio d'information ?"
+    },
+    {
+      "categorie": "business",
+      "titre": "California's big local news bill becomes law",
+      "source": "Nieman Lab",
+      "date": "2026-10-14",
+      "url": "https://www.niemanlab.org/2026/10/californias-big-local-news-bill-becomes-law/",
+      "paywall": false,
+      "resume": "La Californie adopte l'AB 2222 : crédits d'impôt aux rédactions selon le nombre de journalistes (20 000 $ jusqu'à cinq, 15 000 $ ensuite). Jusqu'à 40 M$ par an, effet au 1er janvier 2027, crédits à partir de 2028. Newsom note que le dispositif profite aussi à des médias déjà bien financés.",
+      "angle": "Angle — Soutenir l'information locale par l'impôt plutôt que par les plateformes : un modèle comparé au débat français."
+    },
+    {
+      "categorie": "tech",
+      "titre": "OpenAI accusée d'avoir licencié trois chercheurs en sécurité",
+      "source": "The Media Leader France",
+      "date": "2026-10-13",
+      "url": "https://fr.themedialeader.com/openai-accusee-davoir-licencie-trois-chercheurs-securite/",
+      "paywall": false,
+      "resume": "Trois chercheurs qui surveillaient les modèles d'OpenAI disent avoir été licenciés après avoir alerté sur les risques de l'IA ; l'entreprise invoque une violation des règles sur les informations sensibles. Ils craignent un prétexte pour écarter des auditeurs indépendants.",
+      "angle": "Angle — La gouvernance de la sécurité de l'IA et la place des lanceurs d'alerte."
+    },
+    {
+      "categorie": "media",
+      "titre": "« L'Infiltré » : deux semaines après son lancement, le rédacteur en chef adjoint quitte le média d'Erik Tegnér",
+      "source": "Puremédias / Ozap (d'après La Lettre)",
+      "date": "2026-10-14",
+      "url": "https://www.ozap.com/actu/linfiltre-2-semaines-seulement-apres-son-lancement-le-redacteur-en-chef-adjoint-du-titre-lance-par-erik-tegner-claque-la-porte/657450",
+      "paywall": false,
+      "resume": "Selon La Lettre, Sébastien Lignier, ancien chef du service politique de Valeurs actuelles, quitte le titre. Le premier numéro promettait l'identité de la taupe du RN, que la rédaction a renoncé à révéler le 29 septembre. Le média, vendu sur abonnement chaque mardi, se voulait un héritier de droite du Canard enchaîné.",
+      "angle": "Angle — Un lancement qui trébuche sur sa promesse de scoops, dans l'orbite de Frontières et de Bolloré."
+    },
+    {
+      "categorie": "media",
+      "titre": "Florence Paracuellos (France Inter) se paye une infographie « d'une absurdité surréaliste » du Parisien",
+      "source": "Puremédias / Ozap",
+      "date": "2026-10-14",
+      "url": "https://www.ozap.com/actu/florence-paracuellos-france-inter-se-paye-une-infographie-dune-absurdite-surrealiste-du-parisien/657461",
+      "paywall": false,
+      "resume": "Dans sa revue de presse du 14 octobre, la matinalière de France Inter ironise sur l'infographie du Parisien « Comment survivre à une rencontre avec un tigre », publiée après la mort d'un visiteur dans un parc animalier du Yorkshire. Elle réclame ensuite une infographie sur l'attaque d'un chamois à Besançon.",
+      "angle": "Angle — Quand la presse recycle le fait divers en « service » : la revue de presse comme regard critique sur les pratiques éditoriales."
+    },
+    {
+      "categorie": "media",
+      "titre": "Qui poursuit l'IA, qui signe : Reach rejoint le programme IA de Google, USA Today Co poursuit OpenAI",
+      "source": "Press Gazette",
+      "date": "2026-10-12",
+      "url": "https://pressgazette.co.uk/platforms/news-publisher-ai-deals-lawsuits-openai-google/",
+      "paywall": false,
+      "resume": "Le 12 octobre, Reach (Mirror, Express) rejoint le programme pilote IA de Google, aux côtés du FT, Der Spiegel, El País, du Guardian et du Washington Post. Le 9 octobre, USA Today Co réclame 250 M$ à OpenAI pour l'usage de contenus de ses 19 publications. Le tableau de suivi mêle accords de licence et procès.",
+      "angle": "Angle — Deux stratégies face à l'IA : signer ou attaquer, souvent les deux à la fois."
+    },
+    {
+      "categorie": "media",
+      "titre": "USA Today Co. défend son accord avec Palantir malgré l'opposition de 800 salariés",
+      "source": "Nieman Lab",
+      "date": "2026-10-08",
+      "url": "https://www.niemanlab.org/2026/10/were-in-their-shit-theyre-not-in-ours-usa-today-co-execs-defend-palantir-deal/",
+      "paywall": false,
+      "resume": "Les dirigeants du premier groupe de presse quotidienne américain maintiennent leur partenariat avec Palantir (insertion automatisée de liens d'affiliation, extension possible à la stratégie sociale) malgré la contestation de plus de 800 salariés de 31 rédactions. Le PDG veut faire du groupe une « intelligence organization ».",
+      "angle": "Angle — Une rédaction, un fournisseur controversé : où passe la frontière entre données et indépendance ?"
+    },
+    {
+      "categorie": "media",
+      "titre": "2026, « une année super El Niño pour l'info locale » aux États-Unis",
+      "source": "Nieman Lab (rapport Medill)",
+      "date": "2026-10-13",
+      "url": "https://www.niemanlab.org/2026/10/from-bad-to-worse-2026-is-shaping-up-to-be-a-super-el-nino-year-for-local-news/",
+      "paywall": false,
+      "resume": "Selon le rapport Medill : 26 nouveaux déserts d'information en un an (contre 6 l'an passé), 170 journaux fermés, prix du papier journal en hausse d'environ 18 %, trafic des sites locaux en baisse d'environ 30 %. La fusion Nexstar-Tegna est en cours d'examen.",
+      "angle": "Angle — Le recul de la presse locale américaine, miroir pour la PQR française."
+    },
+    {
+      "categorie": "media",
+      "titre": "Fox News attaque les médias toutes les 15 minutes, CNN toutes les 140 minutes (étude Duke)",
+      "source": "Nieman Lab",
+      "date": "2026-10-08",
+      "url": "https://www.niemanlab.org/2026/10/fox-news-attacks-the-media-roughly-every-15-minutes-our-study-finds-cnn-every-140-minutes/",
+      "paywall": false,
+      "resume": "Une étude du DeWitt Wallace Center (Duke) sur 15 ans de transcriptions de CNN, Fox News et MSNBC montre que Fox dénigre les autres médias toutes les 14,5 minutes, MSNBC toutes les 61 minutes, CNN toutes les 140 minutes. Les auteurs parlent de « anti-media media ».",
+      "angle": "Angle — Mesurer le journalisme qui s'attaque au journalisme."
+    },
+    {
+      "categorie": "media",
+      "titre": "« Uber agents », faux profils IA : comment les rédactions utilisent l'IA dans leurs enquêtes",
+      "source": "Nieman Lab",
+      "date": "2026-10-07",
+      "url": "https://www.niemanlab.org/2026/10/uber-agents-undercover-ai-personas-and-other-ways-newsrooms-are-using-ai-in-investigations/",
+      "paywall": false,
+      "resume": "Compte rendu d'un forum au New York Times : analyse de documents par LLM, outils de recherche sur les fichiers Epstein, faux profils générés par IA créés par The Markup. Les intervenants soulignent hallucinations et coûts, et insistent sur la vérification humaine.",
+      "angle": "Angle — L'IA comme outil d'enquête : des pistes oui, des preuves non."
+    },
+    {
+      "categorie": "tech",
+      "titre": "OpenAI : un ingénieur arrêté pour avoir installé un enregistreur dans une salle de direction",
+      "source": "SF Standard",
+      "date": "2026-10-13",
+      "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+      "paywall": false,
+      "resume": "Selon le ministère de la Justice américain, un ingénieur aurait piégé une salle de conférence de la direction ; le dispositif, repéré vers le 30 septembre, était une carte de développement vendue environ 14 dollars. Lu via le résumé de Techmeme, article non vérifié en détail.",
+      "angle": "Angle — Espionnage interne dans l'IA : la sécurité d'une entreprise devenue stratégique."
+    }
+  ]
+}
