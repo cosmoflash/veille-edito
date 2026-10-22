@@ -1,0 +1,149 @@
+{
+ "date": "2026-10-22",
+ "pistes_edito": [
+  "L'impartialité du service public sous contrat : le décret du 20 octobre impose une charte, un traitement des plaintes et une mesure annuelle à Radio France et France TV, au moment où le 20 h de France 2 s'excuse pour un reportage sans contexte sur le 17 octobre. Que doit-on au public : un commentaire, une charte, des excuses ?",
+  "Plateformes et éditeurs, rapport de force : Google paie 400 médias pour son pilote IA, Meta pourra aspirer leurs sites dès le 30 octobre, OpenAI vend de la pub dans ChatGPT. Qui décide de la valeur de l'info ?"
+ ],
+ "items": [
+  {
+   "categorie": "media",
+   "titre": "Impartialité : France Télévisions et Radio France devront publier une charte éditoriale",
+   "source": "Stéphane Larue",
+   "date": "2026-10-22",
+   "url": "https://stephanelarue.com/impartialite-france-televisions-et-radio-france-devront-publier-une-charte-editoriale/",
+   "paywall": false,
+   "resume": "Un décret du 20 octobre (JO du 21) oblige France Télévisions, Radio France et France Médias Monde à publier une charte déontologique, à traiter les plaintes du public et à mesurer chaque année la perception de leur impartialité. Il renforce les comités d'éthique et le rôle des médiateurs, reprenant le rapport Lasserre. L'Arcom évoque 2027 pour la mise en œuvre.",
+   "angle": "Angle — le service public (dont Radio France) sommé de rendre des comptes sur son impartialité, sur fond de polémiques sur le traitement de l'actualité."
+  },
+  {
+   "categorie": "media",
+   "titre": "Reportage immersif : France TV présente ses excuses",
+   "source": "La Lettre de l'audiovisuel",
+   "date": "2026-10-21",
+   "url": "https://lettreaudiovisuel.com/reportage-immersif-france-tv-presente-ses-excuses/",
+   "paywall": true,
+   "resume": "Le reportage tout en images du 20 h de France 2 sur les manifestations du 17 octobre a mal été reçu par les téléspectateurs. Philippe Corbé, directeur de l'information, reconnaît un défaut de contextualisation et présente des excuses.",
+   "angle": "Angle — comment filmer la violence sans la mettre en scène, et la question du commentaire dans le journal télévisé."
+  },
+  {
+   "categorie": "media",
+   "titre": "France 2 : la CGT réclame la démission de l'équipe du 20 h de Laurent Delahousse",
+   "source": "Le Mediascope",
+   "date": "2026-10-21",
+   "url": "https://lemediascope.fr/france-2-la-demission-de-lequipe-du-20h-de-laurent-delahousse-reclamee-par-la-cgt-de-france-tv-apres-le-traitement-des-emeutes-du-17-octobre/",
+   "paywall": false,
+   "resume": "Le syndicat CGT de France Télévisions reproche à l'édition du 18 octobre d'avoir traité les émeutes du 17 octobre surtout sous l'angle des violences et réclame la démission de l'équipe. Il demande des explications à Philippe Corbé.",
+   "angle": "Angle — un conflit social et éditorial qui prolonge le débat sur la responsabilité des rédactions face aux images."
+  },
+  {
+   "categorie": "media",
+   "titre": "Christiane Amanpour va quitter CNN",
+   "source": "La Lettre de l'audiovisuel",
+   "date": "2026-10-21",
+   "url": "https://lettreaudiovisuel.com/christiane-amanpour-va-quitter-cnn/",
+   "paywall": true,
+   "resume": "La journaliste vedette de CNN a annoncé sa démission le 19 octobre, environ deux semaines après le rachat de la maison mère de la chaîne par Paramount Skydance. Les raisons ne sont pas détaillées dans le chapô.",
+   "angle": "Angle — le départ d'une figure de l'info internationale juste après un rachat : que devient l'indépendance éditoriale sous un nouveau propriétaire ?"
+  },
+  {
+   "categorie": "media",
+   "titre": "Londres envisage d'étendre la redevance de la BBC à YouTube et Netflix",
+   "source": "Télé Satellite et Numérique",
+   "date": "2026-10-20",
+   "url": "https://www.telesatellite.com/actu/69987-royaume-uni-une-taxe-youtube-pour-financer-la-bbc.html",
+   "paywall": false,
+   "resume": "Selon une source gouvernementale, le Royaume-Uni étudie l'élargissement de la redevance (180 £/an) aux plateformes de streaming. Le ministère de la Culture indique qu'aucune décision n'est prise ; un livre blanc sur la future charte de la BBC est attendu avant Noël.",
+   "angle": "Angle — comment financer l'audiovisuel public quand les usages basculent vers les plateformes, un débat aussi français."
+  },
+  {
+   "categorie": "media",
+   "titre": "Raphaël Porte quitte la direction de RMC BFM Ads après six ans",
+   "source": "The Media Leader France",
+   "date": "2026-10-21",
+   "url": "https://fr.themedialeader.com/raphael-porte-quitte-la-direction-generale-de-rmc-bfm-ads/",
+   "paywall": false,
+   "resume": "Le DG de la régie de CMA Media part fin octobre ; Camille Andrieu reprend la publicité et la distribution. Ce départ suit la victoire de la régie pour la commercialisation nationale du réseau Indés Radios, devant TF1 Pub et six autres.",
+   "angle": "Angle — la bataille des régies publicitaires radio et la concentration autour du réseau Indés Radios."
+  },
+  {
+   "categorie": "media",
+   "titre": "TF1 interrompt Tracker en pleine saison 3 au profit d'Esprits criminels",
+   "source": "Puremédias (Ozap)",
+   "date": "2026-10-21",
+   "url": "https://www.ozap.com/actu/tracker-surprise-tf1-annonce-larret-de-la-diffusion-de-la-saison-3/657575",
+   "paywall": false,
+   "resume": "TF1 retire la série avec Justin Hartley avant la fin de la saison 3, sans explication. Elle sera remplacée dès le 11 novembre par Esprits criminels : Evolution ; la saison complète reste disponible sur Disney+.",
+   "angle": "Angle — la grille linéaire face au streaming : on déprogramme quand la série est déjà disponible ailleurs."
+  },
+  {
+   "categorie": "business",
+   "titre": "Le programme « News AI » de Google s'étend à plus de 400 publications",
+   "source": "Nieman Lab",
+   "date": "2026-10-15",
+   "url": "https://www.niemanlab.org/2026/10/googles-news-ai-pilot-expands-to-over-400-publications-including-u-s-local-news-outlets/",
+   "paywall": false,
+   "resume": "Lancé en décembre, ce pilote licencie des contenus d'éditeurs pour des fonctionnalités d'IA dans Google News. Parmi les nouveaux partenaires : CNN, le Financial Times, Axios, Forbes et des médias locaux américains. Google ne détaille pas les conditions financières.",
+   "angle": "Angle — des licences au cas par cas plutôt qu'un cadre : qui fixe le prix de l'info à l'ère de l'IA ?"
+  },
+  {
+   "categorie": "media",
+   "titre": "Meta impose de nouvelles conditions de scraping aux comptes professionnels",
+   "source": "NetInfluencer (d'après Nieman Lab)",
+   "date": "2026-10-19",
+   "url": "https://www.netinfluencer.com/meta-imposes-new-scraping-terms-on-business-accounts-raising-publisher-concerns/",
+   "paywall": false,
+   "resume": "À partir du 30 octobre, les conditions de Meta l'autorisent à explorer les sites associés aux comptes professionnels Facebook, Instagram et WhatsApp, soit la plupart des éditeurs. Des juristes y voient une porte ouverte à l'entraînement d'IA ; Meta parle d'une simple consolidation et dit respecter robots.txt. Pas d'option de refus.",
+   "angle": "Angle — les éditeurs pris en otage : renoncer à Meta ou laisser aspirer leurs contenus."
+  },
+  {
+   "categorie": "tech",
+   "titre": "OpenAI étend les publicités dans ChatGPT à 83 pays",
+   "source": "The Information (via Techmeme)",
+   "date": "2026-10-21",
+   "url": "https://www.theinformation.com/briefings/openai-expands-chatgpt-ads-26-countries-says-100-000-advertisers",
+   "paywall": true,
+   "resume": "OpenAI ajoute 26 pays à son dispositif publicitaire dans ChatGPT, pour 83 au total, et revendique plus de 100 000 annonceurs.",
+   "angle": "Angle — l'assistant IA devient un média publicitaire, nouveau concurrent des éditeurs pour le budget des annonceurs."
+  },
+  {
+   "categorie": "media",
+   "titre": "Pew : 20 % des Américains s'informent régulièrement sur TikTok",
+   "source": "Pew Research Center (via Techmeme)",
+   "date": "2026-10-19",
+   "url": "https://www.pewresearch.org/short-reads/2026/10/19/1-in-5-americans-regularly-get-news-on-tiktok-2/",
+   "paywall": true,
+   "resume": "Selon Pew, 20 % des adultes américains s'informent régulièrement sur TikTok, contre 3 % en 2020, avec des taux bien plus élevés chez les jeunes (chapô relayé par Techmeme ; page non lue).",
+   "angle": "Angle — l'info migre vers les plateformes vidéo, y compris chez les moins jeunes."
+  },
+  {
+   "categorie": "tech",
+   "titre": "Le régulateur australien veut poursuivre Meta, TikTok, Snap et YouTube sur l'interdiction des réseaux sociaux aux moins de 16 ans",
+   "source": "Bloomberg (via Techmeme)",
+   "date": "2026-10-20",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-20/australia-to-sue-facebook-tiktok-for-alleged-breaches-of-ban",
+   "paywall": true,
+   "resume": "L'eSafety Commissioner australien prévoit d'attaquer en justice quatre plateformes pour non-respect présumé de l'interdiction.",
+   "angle": "Angle — un test grandeur nature de la régulation de l'accès des jeunes aux réseaux, observé de près en Europe."
+  },
+  {
+   "categorie": "tech",
+   "titre": "Un tribunal du Nouveau-Mexique condamne Meta à 25 milliards de dollars",
+   "source": "CNBC (via Techmeme)",
+   "date": "2026-10-21",
+   "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+   "paywall": true,
+   "resume": "Un tribunal ordonne à Meta de payer 25 Md$ pour avoir trompé les résidents sur ses pratiques de données (affaire Cambridge Analytica).",
+   "angle": "Angle — l'ampleur de la sanction face aux plateformes, en écho aux conditions de scraping de Meta."
+  },
+  {
+   "categorie": "tech",
+   "titre": "L'UE ouvre une enquête DSA sur Booking.com",
+   "source": "Reuters (via Techmeme)",
+   "date": "2026-10-21",
+   "url": "https://www.reuters.com/business/media-telecom/bookingcom-targeted-eu-investigation-into-phishing-scams-fraudulent-listings-2026-10-21/",
+   "paywall": true,
+   "resume": "Bruxelles examine si Booking.com en fait assez contre la fraude et le phishing via de fausses annonces.",
+   "angle": "Angle — le DSA s'étend au-delà des réseaux sociaux."
+  }
+ ]
+}
