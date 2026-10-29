@@ -1,20 +1,119 @@
 {
-  "date": "2026-07-16",
-  "pistes_edito": [
-    "Presse contre OpenAI, l'affaire se durcit : le New York Times et une quinzaine de médias demandent des sanctions, accusant OpenAI d'avoir dissimulé sa capacité à repérer les articles copiés dans ChatGPT et effacé des milliards de conversations. À croiser avec l'arrivée d'AI Overviews en France le 23 septembre (rémunération droits voisins) et l'enquête de l'autorité de la concurrence japonaise sur 370 médias : l'angle du jour, c'est le rapport de force mondial entre presse et IA — qui paie l'info quand la machine la résume ?",
-    "La radio à un tournant : Médiamétrie signe la pire fin de saison de son histoire (37,6 M d'auditeurs quotidiens) pendant que Radio France reconfigure sa FM — Mouv' quitte la bande le 31 août pour le tout-numérique, France Info récupère des émetteurs, opérations le 21 juillet. Angle « la FM se vide, le DAB+ prend le relais » : que reste-t-il de la radio hertzienne, et France Inter reste leader mais repasse sous les 7 millions."
-  ],
-  "items": [
-    {"categorie":"media","titre":"Le New York Times et des éditeurs réclament des sanctions contre OpenAI dans le procès du copyright","source":"TechCrunch","date":"2026-07-09","url":"https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/","paywall":false,"resume":"Le NYT, le New York Daily News et une quinzaine de médias ont déposé une requête devant un tribunal fédéral de Manhattan demandant des sanctions contre OpenAI. Ils l'accusent d'avoir affirmé faussement ne pas pouvoir rechercher les contenus protégés dans ses systèmes, alors qu'une ingénieure a révélé que ces recherches internes avaient déjà eu lieu, et d'avoir supprimé ou rendu inaccessibles des milliards de conversations ChatGPT. OpenAI dément et accuse le Times de vouloir accéder aux échanges privés des utilisateurs.","angle":"Le bras de fer presse/IA passe au pénal de la procédure : ce n'est plus seulement une question de droit d'auteur mais de loyauté et de destruction de preuves. Un dossier qui peut faire jurisprudence sur l'entraînement des modèles."},
-    {"categorie":"media","titre":"Google déploiera AI Overviews et le Mode IA en France d'ici le 23 septembre, avec rémunération au titre des droits voisins","source":"Leto / Alliance de la presse","date":"2026-06-29","url":"https://www.leto.legal/news/google-fonctionnalites-ia-retard-france-droits-voisins-2026","paywall":false,"resume":"Dans un courrier daté du 29 juin, Google a annoncé aux éditeurs l'arrivée d'AI Overviews et du Mode IA en France d'ici le 23 septembre. Trois engagements structurent le dispositif : contrôle (opt-out par éditeur), transparence (impressions IA dissociées du search classique) et rémunération au titre des droits voisins pour environ 450 médias sous accord. Rappel : 21,4 M€ collectés en 2025, 56,3 M€ sur trois ans.","angle":"Le nerf de la guerre côté français : qui rémunère l'info quand l'IA la résume sans clic ? Un cas concret de régulation qui avance là où les procès américains s'enlisent."},
-    {"categorie":"media","titre":"Audiences radio : France Inter leader sous les 7 millions, Radio Nova crée la surprise, NRJ décroche","source":"Puremédias (Ozap)","date":"2026-07-10","url":"https://www.ozap.com/actu/audiences-radio-france-inter-leader-sous-les-7-millions-dauditeurs-nouvelle-gamelle-pour-nrj-ici-quitte-le-top-10-radio-nova-dejoue-tous-les-pronostics/655985","paywall":false,"resume":"Médiamétrie a publié le 10 juillet la vague avril-juin 2026, la pire fin de saison de l'histoire de la radio (37,63 M d'auditeurs quotidiens en moyenne, -20 000 sur un an). France Inter reste leader avec 6,91 M mais repasse sous les 7 millions, devant RTL (4,86 M). Radio Nova bondit de +1,2 M, NRJ décroche et ICI quitte le top 10.","angle":"Lecture de marché : érosion générale de la radio, France Inter tient son rang, et la vraie surprise est la percée de Nova qui bouscule les pronostics sur la radio musicale."},
-    {"categorie":"media","titre":"Radio France reconfigure sa FM : Mouv' quitte la bande le 31 août, France Info gagne des émetteurs","source":"Arcom","date":"2026-07-08","url":"https://www.arcom.fr/presse/larcom-autorise-les-evolutions-du-reseau-de-diffusion-fm-de-radio-france","paywall":false,"resume":"En réunion plénière du 8 juillet, l'Arcom a autorisé la refonte du réseau FM de Radio France. France Musique et France Info permutent partiellement leurs fréquences (opérations le 21 juillet), ce qui étend la couverture FM de France Info. Mouv' cessera sa diffusion FM le 31 août pour devenir exclusivement numérique (DAB+ et internet) ; 30 fréquences restituées sont remises en appel aux candidatures pour les radios privées.","angle":"La bascule vers le numérique se matérialise : la FM se réorganise, une antenne du service public quitte la bande. Angle « que reste-t-il de la radio hertzienne à l'ère du DAB+ ? » — très parlant sur France Inter."},
-    {"categorie":"media","titre":"L'autorité de la concurrence japonaise enquête sur 370 médias et l'usage de leurs articles par les IA","source":"Nippon.com","date":"2026-07-08","url":"https://www.nippon.com/en/news/yjj2026070801068/japan-ftc-to-conduct-media-survey-over-ai-article-use","paywall":false,"resume":"La Japan Fair Trade Commission a lancé une enquête auprès de quelque 370 entreprises de presse exploitant des sites d'information, pour documenter l'usage non autorisé de leurs articles par les moteurs de recherche dopés à l'IA générative et la question des redevances. Des auditions ont eu lieu avec des géants comme Google et LY Corp. (Yahoo! Japan, Line).","angle":"L'offensive presse/IA se mondialise : après l'Europe et les États-Unis, le Japon ouvre le front concurrentiel. Signe que la rémunération des contenus par les IA devient un sujet réglementaire global."},
-    {"categorie":"media","titre":"Audiovisuel : les médias mobilisés pour « Nous sommes la France » du 14 au 21 juillet","source":"Arcom","date":"2026-07-14","url":"https://www.arcom.fr/actualites/nous-sommes-la-france-les-medias-audiovisuels-mobilises-pour-une-juste-representation-de-la-diversite-de-la-societe-francaise","paywall":false,"resume":"Du 14 au 21 juillet, chaînes de télévision et stations de radio diffusent aux heures de grande écoute des messages de sensibilisation en faveur d'une représentation plus inclusive et sans stéréotypes de la société française, dans le cadre d'une opération portée par l'Arcom.","angle":"La représentation de la diversité à l'antenne, marronnier ou vrai chantier ? Occasion d'interroger l'efficacité de ces campagnes et l'engagement réel des diffuseurs."},
-    {"categorie":"media","titre":"AI and the Future of News 2026 (Reuters Institute) : l'IA s'installe dans les rédactions, deux stratégies opposées","source":"Reuters Institute for the Study of Journalism","date":"2026-06-30","url":"https://reutersinstitute.politics.ox.ac.uk/news/ai-and-future-news-2026-what-we-learnt-about-its-impact-newsrooms-fact-checking-and-news","paywall":false,"resume":"Le rapport annuel du Reuters Institute (280 responsables de rédactions, 51 pays) décrit deux voies : remonter en gamme (marque, journalistes vedettes, relation directe au lecteur) ou miser sur l'IA pour produire plus. Exemple cité : Newsquest et ses 30+ « reporters assistés par IA ». 97 % jugent l'automatisation de bout en bout essentielle, mais 62 % estiment que les médias n'investissent pas assez.","angle":"Fracture stratégique dans les rédactions : l'IA comme outil d'efficacité contre l'IA comme menace pour la valeur. Angle prospectif sur ce que devient le métier de journaliste."},
-    {"categorie":"business","titre":"La FTC valide le rachat de New York Magazine et Vox par James Murdoch (plus de 300 M$)","source":"TheWrap","date":"2026-07-07","url":"https://www.thewrap.com/industry-news/business/ftc-greenlights-james-murdochs-vox-new-york-magazine-acquisition/","paywall":false,"resume":"La Federal Trade Commission a donné son feu vert le 7 juillet au rachat, par Lupa Systems (James Murdoch), de New York Magazine, du réseau de podcasts de Vox Media et de Vox.com, pour plus de 300 M$. L'ensemble inclut The Cut, Vulture, Intelligencer, Curbed, ainsi que des podcasts comme « Pivot » de Kara Swisher et Scott Galloway. Jim Bankoff reste à la tête de l'entité.","angle":"Un Murdoch dissident bâtit son propre pôle média « libéral » : recomposition capitalistique de la presse américaine, à rebours de l'image familiale. Angle business et pouvoir médiatique."},
-    {"categorie":"tech","titre":"Android : Google ouvre le Play Store aux boutiques d'applications rivales dès le 22 juillet aux États-Unis","source":"9to5Google","date":"2026-07-15","url":"https://9to5google.com/2026/07/15/google-play-store-third-party-android-app-store-changes-july/","paywall":false,"resume":"Google et Epic ont retiré le 15 juillet leur projet de règlement alternatif, laissant s'appliquer l'injonction de 2024. À partir du 22 juillet, les boutiques d'applications tierces deviennent téléchargeables depuis le Play Store aux États-Unis, et le catalogue US leur est ouvert (sauf opt-out des développeurs). Frais : 5 000 $ à l'entrée puis 5 000 $/an, ventes limitées aux États-Unis.","angle":"Fin de la forteresse Android : sous pression judiciaire, Google entrouvre son magasin. Précédent qui résonne avec le débat européen sur le DMA et l'ouverture des écosystèmes."},
-    {"categorie":"tech","titre":"Spotify lance « Talk to Spotify », un assistant conversationnel dans l'app","source":"Spotify Newsroom","date":"2026-07-14","url":"https://newsroom.spotify.com/2026-07-14/talk-to-spotify-announcement-beta/","paywall":false,"resume":"Spotify déploie en bêta « Talk to Spotify », une fonction conversationnelle (voix ou texte) permettant de piloter l'écoute, créer et affiner des playlists, explorer son historique, podcasts et livres audio, sans quitter l'app. Réservée aux abonnés Premium de 18 ans et plus aux États-Unis, en Irlande et en Suède, en anglais.","angle":"La voix et le chatbot deviennent l'interface de l'audio : après l'AI DJ, Spotify verrouille l'usage chez lui plutôt que de laisser les assistants IA capter la découverte musicale."},
-    {"categorie":"tech","titre":"Demis Hassabis (DeepMind) appelle les États à pouvoir imposer un ralentissement de l'IA de pointe","source":"Techmeme","date":"2026-07-14","url":"https://www.techmeme.com/260714/p14","paywall":false,"resume":"Le PDG de Google DeepMind a plaidé pour que les gouvernements puissent intervenir sur les modèles d'IA de pointe, voire ordonner un ralentissement si les risques deviennent élevés. Une régulation qui s'appliquerait aux modèles « frontière » quel que soit leur pays d'origine et qu'ils soient ouverts ou fermés.","angle":"Un des grands patrons de l'IA réclame lui-même un frein d'urgence étatique. Angle « les créateurs demandent des garde-fous » : rare et politiquement fort à l'heure de la course à la puissance."}
-  ]
+ "date": "2026-07-16",
+ "pistes_edito": [
+  "Presse contre OpenAI, l'affaire se durcit : le New York Times et une quinzaine de médias demandent des sanctions, accusant OpenAI d'avoir dissimulé sa capacité à repérer les articles copiés dans ChatGPT et effacé des milliards de conversations. À croiser avec l'arrivée d'AI Overviews en France le 23 septembre (rémunération droits voisins) et l'enquête de l'autorité de la concurrence japonaise sur 370 médias : l'angle du jour, c'est le rapport de force mondial entre presse et IA — qui paie l'info quand la machine la résume ?",
+  "La radio à un tournant : Médiamétrie signe la pire fin de saison de son histoire (37,6 M d'auditeurs quotidiens) pendant que Radio France reconfigure sa FM — Mouv' quitte la bande le 31 août pour le tout-numérique, France Info récupère des émetteurs, opérations le 21 juillet. Angle « la FM se vide, le DAB+ prend le relais » : que reste-t-il de la radio hertzienne, et France Inter reste leader mais repasse sous les 7 millions."
+ ],
+ "items": [
+  {
+   "categorie": "media",
+   "titre": "Le New York Times et des éditeurs réclament des sanctions contre OpenAI dans le procès du copyright",
+   "source": "TechCrunch",
+   "date": "2026-07-09",
+   "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+   "paywall": false,
+   "resume": "Le NYT, le New York Daily News et une quinzaine de médias ont déposé une requête devant un tribunal fédéral de Manhattan demandant des sanctions contre OpenAI. Ils l'accusent d'avoir affirmé faussement ne pas pouvoir rechercher les contenus protégés dans ses systèmes, alors qu'une ingénieure a révélé que ces recherches internes avaient déjà eu lieu, et d'avoir supprimé ou rendu inaccessibles des milliards de conversations ChatGPT. OpenAI dément et accuse le Times de vouloir accéder aux échanges privés des utilisateurs.",
+   "angle": "Le bras de fer presse/IA passe au pénal de la procédure : ce n'est plus seulement une question de droit d'auteur mais de loyauté et de destruction de preuves. Un dossier qui peut faire jurisprudence sur l'entraînement des modèles."
+  },
+  {
+   "categorie": "media",
+   "titre": "Google déploiera AI Overviews et le Mode IA en France d'ici le 23 septembre, avec rémunération au titre des droits voisins",
+   "source": "Leto / Alliance de la presse",
+   "date": "2026-06-29",
+   "url": "https://www.leto.legal/news/google-fonctionnalites-ia-retard-france-droits-voisins-2026",
+   "paywall": false,
+   "resume": "Dans un courrier daté du 29 juin, Google a annoncé aux éditeurs l'arrivée d'AI Overviews et du Mode IA en France d'ici le 23 septembre. Trois engagements structurent le dispositif : contrôle (opt-out par éditeur), transparence (impressions IA dissociées du search classique) et rémunération au titre des droits voisins pour environ 450 médias sous accord. Rappel : 21,4 M€ collectés en 2025, 56,3 M€ sur trois ans.",
+   "angle": "Le nerf de la guerre côté français : qui rémunère l'info quand l'IA la résume sans clic ? Un cas concret de régulation qui avance là où les procès américains s'enlisent."
+  },
+  {
+   "categorie": "media",
+   "titre": "Audiences radio : France Inter leader sous les 7 millions, Radio Nova crée la surprise, NRJ décroche",
+   "source": "Puremédias (Ozap)",
+   "date": "2026-07-10",
+   "url": "https://www.ozap.com/actu/audiences-radio-france-inter-leader-sous-les-7-millions-dauditeurs-nouvelle-gamelle-pour-nrj-ici-quitte-le-top-10-radio-nova-dejoue-tous-les-pronostics/655985",
+   "paywall": false,
+   "resume": "Médiamétrie a publié le 10 juillet la vague avril-juin 2026, la pire fin de saison de l'histoire de la radio (37,63 M d'auditeurs quotidiens en moyenne, -20 000 sur un an). France Inter reste leader avec 6,91 M mais repasse sous les 7 millions, devant RTL (4,86 M). Radio Nova bondit de +1,2 M, NRJ décroche et ICI quitte le top 10.",
+   "angle": "Lecture de marché : érosion générale de la radio, France Inter tient son rang, et la vraie surprise est la percée de Nova qui bouscule les pronostics sur la radio musicale."
+  },
+  {
+   "categorie": "media",
+   "titre": "Radio France reconfigure sa FM : Mouv' quitte la bande le 31 août, France Info gagne des émetteurs",
+   "source": "Arcom",
+   "date": "2026-07-08",
+   "url": "https://www.arcom.fr/presse/larcom-autorise-les-evolutions-du-reseau-de-diffusion-fm-de-radio-france",
+   "paywall": false,
+   "resume": "En réunion plénière du 8 juillet, l'Arcom a autorisé la refonte du réseau FM de Radio France. France Musique et France Info permutent partiellement leurs fréquences (opérations le 21 juillet), ce qui étend la couverture FM de France Info. Mouv' cessera sa diffusion FM le 31 août pour devenir exclusivement numérique (DAB+ et internet) ; 30 fréquences restituées sont remises en appel aux candidatures pour les radios privées.",
+   "angle": "La bascule vers le numérique se matérialise : la FM se réorganise, une antenne du service public quitte la bande. Angle « que reste-t-il de la radio hertzienne à l'ère du DAB+ ? » — très parlant sur France Inter."
+  },
+  {
+   "categorie": "media",
+   "titre": "L'autorité de la concurrence japonaise enquête sur 370 médias et l'usage de leurs articles par les IA",
+   "source": "Nippon.com",
+   "date": "2026-07-08",
+   "url": "https://www.nippon.com/en/news/yjj2026070801068/japan-ftc-to-conduct-media-survey-over-ai-article-use",
+   "paywall": false,
+   "resume": "La Japan Fair Trade Commission a lancé une enquête auprès de quelque 370 entreprises de presse exploitant des sites d'information, pour documenter l'usage non autorisé de leurs articles par les moteurs de recherche dopés à l'IA générative et la question des redevances. Des auditions ont eu lieu avec des géants comme Google et LY Corp. (Yahoo! Japan, Line).",
+   "angle": "L'offensive presse/IA se mondialise : après l'Europe et les États-Unis, le Japon ouvre le front concurrentiel. Signe que la rémunération des contenus par les IA devient un sujet réglementaire global."
+  },
+  {
+   "categorie": "media",
+   "titre": "Audiovisuel : les médias mobilisés pour « Nous sommes la France » du 14 au 21 juillet",
+   "source": "Arcom",
+   "date": "2026-07-14",
+   "url": "https://www.arcom.fr/actualites/nous-sommes-la-france-les-medias-audiovisuels-mobilises-pour-une-juste-representation-de-la-diversite-de-la-societe-francaise",
+   "paywall": false,
+   "resume": "Du 14 au 21 juillet, chaînes de télévision et stations de radio diffusent aux heures de grande écoute des messages de sensibilisation en faveur d'une représentation plus inclusive et sans stéréotypes de la société française, dans le cadre d'une opération portée par l'Arcom.",
+   "angle": "La représentation de la diversité à l'antenne, marronnier ou vrai chantier ? Occasion d'interroger l'efficacité de ces campagnes et l'engagement réel des diffuseurs."
+  },
+  {
+   "categorie": "media",
+   "titre": "AI and the Future of News 2026 (Reuters Institute) : l'IA s'installe dans les rédactions, deux stratégies opposées",
+   "source": "Reuters Institute for the Study of Journalism",
+   "date": "2026-06-30",
+   "url": "https://reutersinstitute.politics.ox.ac.uk/news/ai-and-future-news-2026-what-we-learnt-about-its-impact-newsrooms-fact-checking-and-news",
+   "paywall": false,
+   "resume": "Le rapport annuel du Reuters Institute (280 responsables de rédactions, 51 pays) décrit deux voies : remonter en gamme (marque, journalistes vedettes, relation directe au lecteur) ou miser sur l'IA pour produire plus. Exemple cité : Newsquest et ses 30+ « reporters assistés par IA ». 97 % jugent l'automatisation de bout en bout essentielle, mais 62 % estiment que les médias n'investissent pas assez.",
+   "angle": "Fracture stratégique dans les rédactions : l'IA comme outil d'efficacité contre l'IA comme menace pour la valeur. Angle prospectif sur ce que devient le métier de journaliste."
+  },
+  {
+   "categorie": "business",
+   "titre": "La FTC valide le rachat de New York Magazine et Vox par James Murdoch (plus de 300 M$)",
+   "source": "TheWrap",
+   "date": "2026-07-07",
+   "url": "https://www.thewrap.com/industry-news/business/ftc-greenlights-james-murdochs-vox-new-york-magazine-acquisition/",
+   "paywall": false,
+   "resume": "La Federal Trade Commission a donné son feu vert le 7 juillet au rachat, par Lupa Systems (James Murdoch), de New York Magazine, du réseau de podcasts de Vox Media et de Vox.com, pour plus de 300 M$. L'ensemble inclut The Cut, Vulture, Intelligencer, Curbed, ainsi que des podcasts comme « Pivot » de Kara Swisher et Scott Galloway. Jim Bankoff reste à la tête de l'entité.",
+   "angle": "Un Murdoch dissident bâtit son propre pôle média « libéral » : recomposition capitalistique de la presse américaine, à rebours de l'image familiale. Angle business et pouvoir médiatique."
+  },
+  {
+   "categorie": "tech",
+   "titre": "Android : Google ouvre le Play Store aux boutiques d'applications rivales dès le 22 juillet aux États-Unis",
+   "source": "9to5Google",
+   "date": "2026-07-15",
+   "url": "https://9to5google.com/2026/07/15/google-play-store-third-party-android-app-store-changes-july/",
+   "paywall": false,
+   "resume": "Google et Epic ont retiré le 15 juillet leur projet de règlement alternatif, laissant s'appliquer l'injonction de 2024. À partir du 22 juillet, les boutiques d'applications tierces deviennent téléchargeables depuis le Play Store aux États-Unis, et le catalogue US leur est ouvert (sauf opt-out des développeurs). Frais : 5 000 $ à l'entrée puis 5 000 $/an, ventes limitées aux États-Unis.",
+   "angle": "Fin de la forteresse Android : sous pression judiciaire, Google entrouvre son magasin. Précédent qui résonne avec le débat européen sur le DMA et l'ouverture des écosystèmes."
+  },
+  {
+   "categorie": "tech",
+   "titre": "Spotify lance « Talk to Spotify », un assistant conversationnel dans l'app",
+   "source": "Spotify Newsroom",
+   "date": "2026-07-14",
+   "url": "https://newsroom.spotify.com/2026-07-14/talk-to-spotify-announcement-beta/",
+   "paywall": false,
+   "resume": "Spotify déploie en bêta « Talk to Spotify », une fonction conversationnelle (voix ou texte) permettant de piloter l'écoute, créer et affiner des playlists, explorer son historique, podcasts et livres audio, sans quitter l'app. Réservée aux abonnés Premium de 18 ans et plus aux États-Unis, en Irlande et en Suède, en anglais.",
+   "angle": "La voix et le chatbot deviennent l'interface de l'audio : après l'AI DJ, Spotify verrouille l'usage chez lui plutôt que de laisser les assistants IA capter la découverte musicale."
+  },
+  {
+   "categorie": "tech",
+   "titre": "Demis Hassabis (DeepMind) appelle les États à pouvoir imposer un ralentissement de l'IA de pointe",
+   "source": "Techmeme",
+   "date": "2026-07-14",
+   "url": "https://www.techmeme.com/260714/p14",
+   "paywall": false,
+   "resume": "Le PDG de Google DeepMind a plaidé pour que les gouvernements puissent intervenir sur les modèles d'IA de pointe, voire ordonner un ralentissement si les risques deviennent élevés. Une régulation qui s'appliquerait aux modèles « frontière » quel que soit leur pays d'origine et qu'ils soient ouverts ou fermés.",
+   "angle": "Un des grands patrons de l'IA réclame lui-même un frein d'urgence étatique. Angle « les créateurs demandent des garde-fous » : rare et politiquement fort à l'heure de la course à la puissance."
+  }
+ ]
 }
