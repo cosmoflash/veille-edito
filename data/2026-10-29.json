@@ -1,0 +1,199 @@
+{
+ "date": "2026-10-29",
+ "pistes_edito": [
+  "Médias et pouvoir à six mois de la présidentielle : une quarantaine de rédactions (dont Radio France) font front commun après l'incident de Mediapart au congrès du RN, pendant que Franceinfo défend ses journalistes après l'interview de Sarah Knafo — jusqu'où protéger le travail journalistique sans se laisser dicter les conditions ?",
+  "IA : procès ou licences ? Les éditeurs canadiens attaquent Anthropic, Google recrute 400 titres, et un chercheur montre que ChatGPT semble placer en tête les résumés des partenaires sous licence — la rémunération achète-t-elle de la visibilité ? Avec en toile de fond la coalition presse UE-Canada au sommet de Montréal."
+ ],
+ "items": [
+  {
+   "categorie": "media",
+   "titre": "Congrès RN : quelque 40 rédactions demandent de « pouvoir travailler librement »",
+   "source": "CB News",
+   "date": "2026-10-27",
+   "url": "https://www.cbnews.fr/medias/congres-rn-quelque-40-redactions-demandent-pouvoir-travailler-librement",
+   "paywall": false,
+   "resume": "Une quarantaine de médias (BFMTV, Le Monde, Le Figaro, Radio France, AFP…) signent une tribune commune après l'exfiltration musclée d'une équipe de Mediapart par le service de sécurité du RN lors de son congrès et le malmenage d'un journaliste de Politis. Le RN s'est excusé pour le premier incident.",
+   "angle": "Angle — Front commun inhabituel de la presse à six mois de la présidentielle : comment couvrir un parti qui entrave les journalistes."
+  },
+  {
+   "categorie": "media",
+   "titre": "Franceinfo dément s'être excusée et soutient ses journalistes après l'interview tendue de Sarah Knafo",
+   "source": "Puremédias",
+   "date": "2026-10-28",
+   "url": "https://www.ozap.com/actu/franceinfo-ne-sest-pas-excusee-la-radio-apporte-son-soutien-a-simon-le-baron-et-audrey-tison-apres-linterview-musclee-de-sarah-knafo/657703",
+   "paywall": false,
+   "resume": "Après un entretien très crispé dans la matinale de 8h30, Sarah Knafo a dénoncé un « comportement militant d'extrême gauche ». Franceinfo dément avoir présenté des excuses, rappelle qu'une interview politique relève du travail journalistique et condamne les attaques visant ses journalistes sur les réseaux.",
+   "angle": "Angle — La radio publique face à la pression politique et au harcèlement en ligne, en pleine précampagne."
+  },
+  {
+   "categorie": "media",
+   "titre": "Des éditeurs de presse européens et canadiens créent une coalition face aux géants technologiques",
+   "source": "CB News",
+   "date": "2026-10-27",
+   "url": "https://www.cbnews.fr/medias/editeurs-presse-europeens-canadiens-creent-coalition-face-aux-geants-technologiques",
+   "paywall": false,
+   "resume": "Sept organisations (ENPA, EMMA, News Media Europe, News Media Canada…) lancent une alliance transatlantique à la veille du sommet UE-Canada de Montréal (29-30 octobre). Elles réclament un droit voisin renforcé, l'application de l'AI Act et de l'Online News Act, plus de transparence sur l'usage des contenus et des licences avec rémunération équitable.",
+   "angle": "Angle — La presse s'organise à l'échelle internationale face aux plateformes et à l'IA, avec le sommet de Montréal comme tribune."
+  },
+  {
+   "categorie": "media",
+   "titre": "PLF 2027 : des députés veulent renforcer l'audiovisuel public et écartent les coupes massives",
+   "source": "CB News",
+   "date": "2026-10-25",
+   "url": "https://www.cbnews.fr/medias/plf-2027-deputes-veulent-renforcer-audiovisuel-public-ecartent-les-coupes-massives",
+   "paywall": false,
+   "resume": "Des commissions de l'Assemblée adoptent des amendements ajoutant 46,8 M€ (dont 43,8 M€ pour France Télévisions et 2,4 M€ pour Radio France) et rejettent de fortes baisses de dotations ; un amendement d'appel chiffre à 125,66 M€ le besoin pour maintenir les dotations 2026. Ces votes ne préjugent pas des arbitrages finaux.",
+   "angle": "Angle — Le budget de l'audiovisuel public, entre rejet des coupes en commission et arbitrage final incertain."
+  },
+  {
+   "categorie": "media",
+   "titre": "PLF 2027 : 16,3 millions d'euros supplémentaires pour la presse, plusieurs projets de réforme écartés",
+   "source": "CB News",
+   "date": "2026-10-26",
+   "url": "https://www.cbnews.fr/medias/plf-2027-163-millions-eu-supplementaires-presse-plusieurs-projets-reforme-ecartes",
+   "paywall": false,
+   "resume": "La commission des finances adopte trois amendements (10 M€ pour le portage, 3 M€ pour la presse ultramarine, 3,3 M€ pour le FSDP) et rejette une coupe de 30 M€ et une refonte des aides autour d'un programme de 260 M€. La hausse du FSDP masque une baisse des moyens de modernisation, 5 M€ allant à l'accompagnement social.",
+   "angle": "Angle — Aides à la presse : un coup de pouce en trompe-l'œil qui consacre le statu quo."
+  },
+  {
+   "categorie": "media",
+   "titre": "PLF 2027 : vers une taxation des plateformes pour financer les créateurs de contenus ?",
+   "source": "CB News",
+   "date": "2026-10-26",
+   "url": "https://www.cbnews.fr/medias/plf-2027-taxation-plateformes-financer-les-createurs-contenus",
+   "paywall": false,
+   "resume": "La commission des finances adopte un amendement de Denis Masséglia demandant au gouvernement, sous six mois, un rapport sur un fonds de soutien aux créateurs financé par une taxe sur les revenus des plateformes gratuites non reversés aux créateurs. Aucun prélèvement n'est créé pour l'instant.",
+   "angle": "Angle — Les créateurs de contenus s'invitent dans le débat sur le financement de l'information et de la création."
+  },
+  {
+   "categorie": "media",
+   "titre": "DAB+ : Radio France étend sa couverture avec 21 nouveaux émetteurs",
+   "source": "CB News",
+   "date": "2026-10-28",
+   "url": "https://www.cbnews.fr/medias/dab-radio-france-etend-sa-couverture-avec-21-nouveaux-emetteurs",
+   "paywall": false,
+   "resume": "Depuis le 27 octobre, 21 émetteurs supplémentaires couvrent notamment Amboise, Nevers ou Melun ; Dieppe, Neufchâtel et Vesoul suivront. Radio France a aussi lancé en DAB+ sa station jeunesse Mon petit France Inter et annonce 700 000 auditeurs potentiels supplémentaires.",
+   "angle": "Angle — Le DAB+ avance malgré une promotion publique modeste (600 000 € au PLF 2027) ; quel avenir pour la FM ?"
+  },
+  {
+   "categorie": "media",
+   "titre": "Fabien Namias : BFMTV ne fait « pas de politique » et souhaite « refroidir les esprits »",
+   "source": "CB News",
+   "date": "2026-10-28",
+   "url": "https://www.cbnews.fr/medias/fabien-namias-bfmtv-ne-fait-pas-politique-souhaite-refroidir-les-esprits",
+   "paywall": true,
+   "resume": "Le directeur de BFMTV défend la ligne de la chaîne d'info en continu dans un climat politique tendu (titre et chapô uniquement).",
+   "angle": "Angle — Les chaînes d'info face à la polarisation avant la présidentielle."
+  },
+  {
+   "categorie": "media",
+   "titre": "« J'ai vécu un cauchemar pendant 3 mois » : Laurent Ruquier cash sur sa courte expérience sur BFMTV",
+   "source": "Puremédias",
+   "date": "2026-10-28",
+   "url": "https://www.ozap.com/actu/jai-vecu-un-cauchemar-pendant-3-mois-laurent-ruquier-cash-sur-sa-courte-experience-sur-bfmtv/657699",
+   "paywall": true,
+   "resume": "Laurent Ruquier revient sans filtre sur son passage de trois mois à BFMTV (titre et chapô uniquement).",
+   "angle": "Angle — L'info en continu, cimetière des formats de débat."
+  },
+  {
+   "categorie": "media",
+   "titre": "CNews, JDNews… quand les médias de Vincent Bolloré font la promotion du livre du fils d'un des rédacteurs en chef du JDD",
+   "source": "Puremédias",
+   "date": "2026-10-25",
+   "url": "https://www.ozap.com/actu/cnews-jdnews-quand-les-medias-de-vincent-bollore-font-la-promotion-du-livre-du-fils-dun-des-redacteurs-en-chef-du-jdd/657562",
+   "paywall": true,
+   "resume": "Puremédias relève la promotion croisée d'un livre dans l'écosystème Bolloré (titre uniquement).",
+   "angle": "Angle — Intégration verticale et circulation des contenus dans la galaxie Bolloré."
+  },
+  {
+   "categorie": "media",
+   "titre": "France 2 « a franchi un cap que même BFM n'aurait imaginé » : les syndicats de France Télévisions furieux contre un reportage du 20 Heures",
+   "source": "Puremédias",
+   "date": "2026-10-21",
+   "url": "https://www.ozap.com/actu/france-2-a-franchi-un-cap-que-meme-bfm-naurait-imagine-les-syndicats-de-france-televisions-furieux-contre-un-reportage-diffuse-dans-le-20-heures-de-laurent-delahousse/657576",
+   "paywall": true,
+   "resume": "Les syndicats de France Télévisions dénoncent un reportage du 20 Heures (titre uniquement).",
+   "angle": "Angle — Tensions internes sur la ligne éditoriale du service public."
+  },
+  {
+   "categorie": "media",
+   "titre": "Publishers prepare to be « squeezed » : OpenAI appears to give licensed publishers a hidden head start in ChatGPT",
+   "source": "Tomorrow's Publisher",
+   "date": "2026-10-27",
+   "url": "https://tomorrowspublisher.today/news/openai-appears-to-give-licensed-publishers-a-hidden-head-start-in-chatgpt-9cd57958d42f/index.html",
+   "paywall": false,
+   "resume": "Un chercheur (Peec AI) a identifié un pipeline distinct dans ChatGPT : les contenus d'éditeurs partenaires (Condé Nast, Hearst, Axel Springer, News Corp, Reuters, AP) arrivent sous forme de résumés pré-générés, placés en tête (70 % des positions 1 à 3 sur 1 000 cas, 23 % aux positions 7 à 10). OpenAI n'a pas communiqué sur ce point.",
+   "angle": "Angle — Les licences IA achètent-elles de la visibilité ? Un classement opaque dans les moteurs de réponse."
+  },
+  {
+   "categorie": "media",
+   "titre": "Who's suing AI and who's signing : des éditeurs canadiens attaquent Anthropic, Reach et CNN rejoignent le pilote IA de Google",
+   "source": "Press Gazette",
+   "date": "2026-10-21",
+   "url": "https://pressgazette.co.uk/platforms/news-publisher-ai-deals-lawsuits-openai-google/",
+   "paywall": false,
+   "resume": "Postmedia, Torstar, Globe and Mail et Canadian Press poursuivent Anthropic pour violation de copyright (21 oct.). Google annonce plus de 400 publications dans son pilote IA, dont Reach et CNN (16 oct.) ; USA Today Co réclame 250 M$ à OpenAI (9 oct.).",
+   "angle": "Angle — Procès d'un côté, licences de l'autre : la double stratégie des éditeurs face à l'IA."
+  },
+  {
+   "categorie": "media",
+   "titre": "The Centre Daily Times unionizes after backlash to McClatchy's AI tool",
+   "source": "Nieman Lab",
+   "date": "2026-10-28",
+   "url": "https://www.niemanlab.org/",
+   "paywall": false,
+   "resume": "Le quotidien de Pennsylvanie est la première rédaction de la NewsGuild-CWA à se syndiquer en réaction à l'adoption d'un outil d'IA par McClatchy. Nieman Lab publie aussi un rapport INN : plus de 80 % des médias non lucratifs utilisaient des outils d'IA en 2025.",
+   "angle": "Angle — L'IA en rédaction devient un sujet social et syndical. (URL : page d'accueil Nieman Lab)"
+  },
+  {
+   "categorie": "business",
+   "titre": "Google étend les publicités dans AI Overviews et AI Mode à de nouveaux pays alors que la croissance de la recherche ralentit",
+   "source": "TechCrunch",
+   "date": "2026-10-28",
+   "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+   "paywall": true,
+   "resume": "Google déploie des annonces dans ses réponses IA à l'international. Selon Techmeme, les revenus de la recherche progressent de 12 % au T3 (contre 14,5 %), Google invoquant une moindre monétisation d'AI Mode.",
+   "angle": "Angle — Le modèle publicitaire de la recherche à l'épreuve de l'IA, avec l'effet sur le trafic des éditeurs."
+  },
+  {
+   "categorie": "business",
+   "titre": "Google struggles to make AI Mode searches pay",
+   "source": "The Register",
+   "date": "2026-10-29",
+   "url": "https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181",
+   "paywall": true,
+   "resume": "The Register relève que la monétisation d'AI Mode peine à égaler celle de la recherche classique (titre uniquement).",
+   "angle": "Angle — Qui paie la réponse sans clic ? Un enjeu direct pour les éditeurs."
+  },
+  {
+   "categorie": "tech",
+   "titre": "AI disinformation spreads on social media ahead of the US midterms",
+   "source": "The Guardian",
+   "date": "2026-10-27",
+   "url": "https://www.theguardian.com/us-news/2026/oct/27/ai-disinformation-social-media-midterm-elections",
+   "paywall": false,
+   "resume": "Des chercheurs indiquent que les outils génératifs permettent de produire à bas coût de multiples variantes d'une fausse information, tandis que la réduction des équipes de modération et la modération plus faible hors anglais compliquent les corrections.",
+   "angle": "Angle — Désinformation par IA et modération allégée : quelle leçon pour la présidentielle française ?"
+  },
+  {
+   "categorie": "tech",
+   "titre": "Bluesky blocks links to a major leak of DHS data",
+   "source": "Wired",
+   "date": "2026-10-28",
+   "url": "https://www.wired.com/story/bluesky-blocks-links-to-major-leak-of-dhs-data/",
+   "paywall": true,
+   "resume": "Bluesky bloque les liens vers une archive de données personnelles de plus de 41 000 employés et prestataires du DHS, jugée « partagée sans autorisation ».",
+   "angle": "Angle — Modération de liens et responsabilité des plateformes face aux fuites de données."
+  },
+  {
+   "categorie": "tech",
+   "titre": "Reddit is the latest platform to embrace the « For You » feed",
+   "source": "TechCrunch",
+   "date": "2026-10-28",
+   "url": "https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/",
+   "paywall": true,
+   "resume": "Reddit déploie des flux « Pour vous » et « Abonnements », comme TikTok ou Instagram.",
+   "angle": "Angle — L'algorithme gagne partout, au détriment du choix éditorial de l'internaute."
+  }
+ ]
+}
