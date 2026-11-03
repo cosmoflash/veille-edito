@@ -1,0 +1,109 @@
+{
+ "date": "2026-11-03",
+ "pistes_edito": [
+  "Pétition contre CNews à 500 000 signatures, lettre de 160 salariés de Nextprod chez BFMTV, audiences records : que peut vraiment l'opinion face aux chaînes d'info, alors que le pouvoir de régulation reste à l'Arcom ?",
+  "Anthropic, OpenAI, Google et Microsoft acceptent un signal commun pour que les éditeurs refusent le scraping : un vrai droit de dire non à l'IA, ou une réponse technique pour éviter la loi ?"
+ ],
+ "items": [
+  {
+   "categorie": "media",
+   "titre": "Pétition « supprimer CNews » : plus de 500 000 signatures",
+   "source": "Ozap",
+   "date": "2026-11-02",
+   "url": "https://www.ozap.com/actu/supprimer-cnews-cnews-denonce-une-petition-politique-alors-que-linitiative-citoyenne-vient-de-depasser-les-500000-signatures/657801",
+   "paywall": false,
+   "resume": "La pétition lancée en juin sur le site de l'Assemblée nationale a franchi les 500 000 signatures. Au-delà de ce seuil un débat en séance est possible, mais une commission doit d'abord décider de la classer ou de l'examiner dans un rapport. CNews n'a pas commenté et parle d'une « pétition politique ».",
+   "angle": "Angle — Du clic citoyen à l'hémicycle : que peut réellement une pétition contre une chaîne, alors que la régulation relève de l'Arcom ?"
+  },
+  {
+   "categorie": "media",
+   "titre": "BFMTV : 160 salariés de Nextprod dénoncent la banalisation de l'extrême droite à l'antenne",
+   "source": "Ozap",
+   "date": "2026-11-02",
+   "url": "https://www.ozap.com/actu/160-salaries-de-bfmtv-denoncent-linstallation-et-la-banalisation-progressive-des-idees-dextreme-droite-sur-lantenne/657800",
+   "paywall": false,
+   "resume": "Environ 160 salariés de Nextprod, société qui travaille pour BFMTV en régie et production, ont adressé un courrier à leur direction. Ils pointent des invités condamnés et des chroniqueurs aux propos réactionnaires et réclament un « rééquilibrage éditorial ». Aucune réponse de la direction n'est rapportée.",
+   "angle": "Angle — La contestation vient de l'intérieur, des techniciens et non des journalistes : la pression éditoriale sur les chaînes d'info change de camp."
+  },
+  {
+   "categorie": "media",
+   "titre": "Canal+ : les députés rejettent le doublement de la TVA sur la télévision payante",
+   "source": "Ozap",
+   "date": "2026-11-02",
+   "url": "https://www.ozap.com/actu/canal-apres-la-colere-de-maxime-saada-les-deputes-rejettent-le-doublement-de-la-tva-sur-la-television-payante/657802",
+   "paywall": false,
+   "resume": "Le gouvernement voulait porter de 10 % à 20 % la TVA des chaînes payantes (400 M€ attendus). Lors du budget 2027, les députés ont supprimé la mesure par 45 voix contre 15. Maxime Saada dénonçait une décision fragilisant le financement du cinéma français et évoquait hausse des tarifs et plan social.",
+   "angle": "Angle — Quand le budget de l'État devient un levier sur le financement du cinéma : le lobbying de Canal+ face à Bercy."
+  },
+  {
+   "categorie": "media",
+   "titre": "Audiences d'octobre : BFMTV et CNews à égalité en tête des chaînes d'info",
+   "source": "Ozap",
+   "date": "2026-11-02",
+   "url": "https://www.ozap.com/actu/audiences-octobre-2026-au-plus-haut-depuis-4-ans-et-demi-bfmtv-se-partage-encore-la-premiere-place-avec-cnews-plus-grosse-progression-sur-un-1-an-pour-lci/657793",
+   "paywall": false,
+   "resume": "BFMTV (3,633 %) et CNews (3,635 %) sont séparées de deux millièmes de point. BFMTV réalise son meilleur score depuis avril 2022 (+0,4 pt sur un an), CNews perd 0,4 pt. LCI est à 2,8 % et franceinfo égale son record à 1,2 %.",
+   "angle": "Angle — Une audience au plus haut en pleine polémique sur CNews et BFMTV : la controverse nourrit-elle l'audience ?"
+  },
+  {
+   "categorie": "media",
+   "titre": "France 2 s'excuse après une pancarte menaçante diffusée au « 13 Heures »",
+   "source": "Ozap",
+   "date": "2026-11-02",
+   "url": "https://www.ozap.com/actu/ce-message-naurait-pas-du-se-retrouver-a-lecran-france-2-sexcuse-apres-la-diffusion-lors-du-13-heures-dune-pancarte-au-texte-menacant/657796",
+   "paywall": false,
+   "resume": "Le 30 octobre, une pancarte « Jordan T mort », vraisemblablement visant Jordan Bardella, est brièvement apparue dans un reportage du « 13 Heures ». France Télévisions a reconnu le 2 novembre que ce message n'aurait pas dû être diffusé et rappelé aux rédactions de contrôler les images.",
+   "angle": "Angle — Le contrôle des images dans un journal : une erreur de vigilance devenue affaire politique pour le service public."
+  },
+  {
+   "categorie": "tech",
+   "titre": "Anthropic, OpenAI, Google et Microsoft faciliteront le refus du scraping par les éditeurs",
+   "source": "Nieman Lab",
+   "date": "2026-11-02",
+   "url": "https://www.niemanlab.org/2026/11/anthropic-openai-google-and-microsoft-will-make-it-easier-for-publishers-to-opt-out-of-being-scraped/",
+   "paywall": false,
+   "resume": "Les quatre groupes soutiendront un signal commun dans le robots.txt pour refuser l'entraînement de l'IA auprès de plusieurs acteurs à la fois. Anthropic le gère déjà, OpenAI dans les prochains mois, Google et Microsoft l'an prochain. Meta salue une étape importante mais est critiquée pour ses conditions commerciales.",
+   "angle": "Angle — Le droit de dire non devient un réglage technique : une avancée pour les éditeurs, ou une façon d'éviter la régulation ?"
+  },
+  {
+   "categorie": "media",
+   "titre": "Grokipedia, l'encyclopédie IA de Musk, truffée d'erreurs, mais Wikipédia peut en apprendre",
+   "source": "Nieman Lab",
+   "date": "2026-11-02",
+   "url": "https://www.niemanlab.org/2026/11/elon-musks-grokipedia-is-littered-with-mistakes-but-wikipedia-could-still-learn-some-things-from-it/",
+   "paywall": false,
+   "resume": "Bill Adair relève 32 erreurs dans l'article que Grokipedia lui consacre, tout en reconnaissant que l'outil sait dénicher des informations obscures. Pour lui, l'IA ne remplace pas le jugement des bénévoles de Wikipédia mais peut les aider à chercher et rédiger.",
+   "angle": "Angle — L'IA fabrique de la fausse certitude : ce que ça dit de la valeur de la vérification humaine."
+  },
+  {
+   "categorie": "media",
+   "titre": "Press Forward : 20 M$ à 205 rédactions locales américaines, et après ?",
+   "source": "Nieman Lab",
+   "date": "2026-10-30",
+   "url": "https://www.niemanlab.org/2026/10/press-forward-gave-20-million-to-205-local-newsrooms-over-two-years-heres-how-some-of-them-spent-it/",
+   "paywall": false,
+   "resume": "Principalement des subventions de 100 000 $ sur deux ans, utilisées pour éponger des déficits, acheter du matériel, imprimer ou recruter. Beaucoup jugent la somme insuffisante pour durer et craignent l'après-subvention.",
+   "angle": "Angle — La philanthropie comme béquille de la presse locale : un modèle durable ou un sursis ?"
+  },
+  {
+   "categorie": "tech",
+   "titre": "Anthropic avertit dans son S-1 révisé qu'elle pourrait bientôt atteindre l'auto-amélioration récursive",
+   "source": "TechCrunch",
+   "date": "2026-11-02",
+   "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+   "paywall": false,
+   "resume": "Dans son dépôt révisé en vue de son introduction en Bourse, Anthropic dit pouvoir bientôt atteindre le seuil où une IA accélère fortement ses propres capacités, tout en affirmant qu'aucun modèle actuel ne l'a franchi. Des sceptiques y voient aussi un support de communication.",
+   "angle": "Angle — L'information financière devient le lieu où se disent les risques de l'IA : comment les médias lisent-ils ces documents ?"
+  },
+  {
+   "categorie": "business",
+   "titre": "Anthropic : chiffre d'affaires du T3 multiplié par 12 sur un an, selon le S-1 mis à jour",
+   "source": "Bloomberg (via Techmeme)",
+   "date": "2026-11-02",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-revenue-hits-nearly-17-billion-before-blockbuster-ipo",
+   "paywall": true,
+   "resume": "Selon Techmeme, le dépôt fait état d'un chiffre d'affaires proche de 17 Md$ au T3, en hausse de 12x sur un an, et d'une perte nette de 23,3 Md$. Seuls le titre et le résumé de l'agrégateur ont été lus.",
+   "angle": "Angle — L'économie de l'IA : croissance vertigineuse et pertes colossales, de quoi nourrir la bulle ou la rassurer."
+  }
+ ]
+}
