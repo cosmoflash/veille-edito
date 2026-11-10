@@ -1,0 +1,149 @@
+{
+  "date": "2026-11-10",
+  "pistes_edito": [
+    "Droits voisins : le vote final à l'Assemblée (12 nov.) puis au Sénat (19 nov.) donnerait à l'Arcom le pouvoir de fixer la rémunération (jusqu'à 1 % du CA mondial en sanction). Sept ans après la loi de 2019, pourquoi les plateformes paient-elles si peu, et que change vraiment la contrainte ? À rapprocher de l'avis de l'avocat général de la CJUE sur les chatbots et la presse.",
+    "Scraping et IA : Meta retire ses nouvelles conditions face aux éditeurs, et Google, Microsoft, OpenAI et Anthropic promettent un signal commun de refus dans robots.txt. Mais la mesure est volontaire et sans effet rétroactif : victoire d'étape ou rideau de fumée ? Contrepoint : le New York Times, qui dépense 36,7 M$ en procès contre l'IA tout en gagnant 420 000 abonnés."
+  ],
+  "items": [
+    {
+      "categorie": "media",
+      "titre": "Droits voisins : députés et sénateurs trouvent un accord pour renforcer la loi de 2019",
+      "source": "CB News",
+      "date": "2026-11-04",
+      "url": "https://www.cbnews.fr/medias/droits-voisins-deputes-senateurs-trouvent-accord-renforcer-loi-2019",
+      "paywall": false,
+      "resume": "Une commission mixte paritaire (7 députés, 7 sénateurs) s'est accordée le 4 novembre sur la proposition de loi renforçant les droits voisins de la presse, sept ans après la loi de 2019. Le texte oblige les plateformes à plus de transparence sur les données d'usage et renforce les pouvoirs de l'Arcom. Il doit encore être voté à l'Assemblée le 12 novembre et au Sénat le 19.",
+      "angle": "Angle — Le bilan décevant de la loi de 2019 et le passage au rapport de force : un régulateur qui peut trancher la rémunération des éditeurs."
+    },
+    {
+      "categorie": "media",
+      "titre": "Google, Meta et les autres plateformes bientôt davantage contraints de rémunérer la presse",
+      "source": "Siècle Digital",
+      "date": "2026-11-05",
+      "url": "https://siecledigital.fr/2026/11/05/google-meta-et-les-autres-plateformes-bientot-davantage-contraints-de-remunerer-la-presse/",
+      "paywall": false,
+      "resume": "Selon le texte issu de la CMP, les plateformes devraient partager leurs données d'usage ; l'Arcom pourrait sanctionner jusqu'à 1 % du chiffre d'affaires mondial et fixer elle-même le montant dû si aucun accord n'est trouvé sous trois mois. Les éditeurs reprochent à la loi de 2019 de ne pas leur donner les données nécessaires pour calculer ce qui leur est dû.",
+      "angle": "Angle — Les chiffres concrets du dispositif (1 % du CA mondial, 3 mois) et ce qu'ils changent face aux géants du numérique."
+    },
+    {
+      "categorie": "media",
+      "titre": "IA et droit d'auteur : les syndicats d'éditeurs partagés après l'avis de l'avocat général de la CJUE (Like Company / Google)",
+      "source": "Mind Media",
+      "date": "2026-11-05",
+      "url": "https://www.mind.eu.com/media/article/droit-dauteur-et-ia-les-syndicats-dediteurs-partages-entre-deception-prudence-et-satisfaction-apres-lavis-de-lavocat-general-de-la-cjue-like-company-c-google/",
+      "paywall": false,
+      "resume": "Dans ses conclusions du 3 novembre, l'avocat général de la CJUE estime que la reprise de contenus de presse par des chatbots peut porter atteinte aux droits des éditeurs, mais seulement dans certaines circonstances, et propose des critères (notamment pour la technique RAG). Les syndicats d'éditeurs sont divisés : certains y voient un signal préoccupant. La décision finale reste attendue.",
+      "angle": "Angle — Un premier cadre européen pour dire quand un chatbot qui cite la presse viole ou non le droit voisin."
+    },
+    {
+      "categorie": "tech",
+      "titre": "Face à la controverse, Meta retire les conditions d'utilisation qui devaient soutenir sa stratégie médias et IA",
+      "source": "San José Inside",
+      "date": "2026-11-06",
+      "url": "https://www.sanjoseinside.com/business/facing-backlash-meta-pulls-down-terms-of-service-that-pushed-new-ai-media-strategy/",
+      "paywall": false,
+      "resume": "Meta a reporté sans date de nouvelles conditions commerciales qui l'auraient autorisé à explorer les sites web de comptes professionnels, dont des médias, notamment pour entraîner ses produits d'IA. Éditeurs américains et européens, un sénateur américain et des associations de presse y voyaient une violation du Digital Markets Act ; des tribunaux norvégien et brésilien ont suspendu ces conditions et l'autorité britannique de la concurrence a ouvert une enquête.",
+      "angle": "Angle — Un géant qui recule face à la mobilisation des éditeurs : rare victoire d'étape sur le scraping."
+    },
+    {
+      "categorie": "tech",
+      "titre": "Google et Microsoft rejoignent le plan d'OpenAI pour une norme de refus du scraping",
+      "source": "TechRadar",
+      "date": "2026-11-08",
+      "url": "https://www.techradar.com/pro/google-and-microsoft-among-those-signing-up-to-openais-plan-for-a-new-website-crawling-standard-including-opting-out-of-internet-scraping",
+      "paywall": false,
+      "resume": "Google, Microsoft, OpenAI et Anthropic s'engagent à respecter une même ligne du fichier robots.txt permettant aux sites de refuser l'entraînement de modèles d'IA. La mesure est volontaire, n'est pas une norme officielle et ne concerne pas les contenus déjà collectés ; Microsoft doit l'appliquer en février 2027, Google en 2027, Meta n'a pas d'engagement ferme (Nieman Lab, 2 nov.).",
+      "angle": "Angle — Un simple interrupteur « non merci » pour les éditeurs : utile, mais volontaire et sans effet rétroactif."
+    },
+    {
+      "categorie": "business",
+      "titre": "Le New York Times reste en bonne voie pour atteindre 15 millions d'abonnés d'ici fin 2027",
+      "source": "Nieman Lab",
+      "date": "2026-11-04",
+      "url": "https://www.niemanlab.org/2026/11/the-new-york-times-stays-on-track-to-reach-15-million-subscribers-by-the-end-of-2027/",
+      "paywall": false,
+      "resume": "Le Times a gagné 420 000 abonnés numériques au troisième trimestre, pour un total de 13,76 millions (dont 13,22 millions en numérique seul) ; le print recule à 540 000. Le groupe a dépensé 3,8 millions de dollars dans son procès contre OpenAI sur la période, 36,7 millions depuis 2024 pour les litiges d'IA générative.",
+      "angle": "Angle — Un titre qui prospère grâce à l'abonnement tout en finançant un procès contre l'IA : le prix de la défense du droit d'auteur."
+    },
+    {
+      "categorie": "media",
+      "titre": "Le Canada renouvelle l'Initiative de journalisme local et étend son crédit d'impôt pour le journalisme",
+      "source": "Nieman Lab",
+      "date": "2026-11-09",
+      "url": "https://www.niemanlab.org/2026/11/its-either-this-or-death-frankly-canada-renews-the-local-journalism-initiative-and-extends-journalism-tax-credit/",
+      "paywall": false,
+      "resume": "Le projet de budget fédéral canadien ajoute 501 millions de dollars au crédit d'impôt pour le journalisme, désormais ouvert aux médias audio et audiovisuels, et renouvelle l'Initiative de journalisme local. Une étude relève toutefois que deux tiers des journalistes financés s'inquiètent d'un possible conflit d'intérêts.",
+      "angle": "Angle — Aide publique à la presse : le modèle canadien comme point de comparaison avec le débat français."
+    },
+    {
+      "categorie": "media",
+      "titre": "Hugo Décrypte toujours en tête des podcasts (classement ACPM d'octobre)",
+      "source": "La Lettre de l'audiovisuel",
+      "date": "2026-11-09",
+      "url": "https://lettreaudiovisuel.com/hugo-decrypte-toujours-en-tete-des-podcasts/",
+      "paywall": true,
+      "resume": "Le podcast « Les Actus du jour » d'Hugo Décrypte reste premier du classement ACPM d'octobre avec 2,78 millions de téléchargements, devant « L'Heure du Monde » et « Transfert ». Article réservé aux abonnés : seul le chapô a été lu.",
+      "angle": "Angle — Un créateur né sur les réseaux qui domine l'info audio, devant les médias historiques."
+    },
+    {
+      "categorie": "media",
+      "titre": "BFMTV : Robert Ménard prend la défense de Sonia Mabrouk",
+      "source": "La Lettre de l'audiovisuel",
+      "date": "2026-11-09",
+      "url": "https://lettreaudiovisuel.com/bfmtv-robert-menard-prend-la-defense-de-sonia-mabrouk/",
+      "paywall": true,
+      "resume": "Invité de « 100 % Mabrouk » sur BFMTV le dimanche 8 novembre, le maire de Béziers a vivement mis en cause des journalistes politiques. Article réservé aux abonnés : seul le chapô a été lu.",
+      "angle": "Angle — Les nouvelles émissions d'opinion de l'info en continu et leurs tensions avec le journalisme politique."
+    },
+    {
+      "categorie": "media",
+      "titre": "LaScam réaffirme l'impératif de préserver l'audiovisuel public",
+      "source": "La Lettre de l'audiovisuel",
+      "date": "2026-11-09",
+      "url": "https://lettreaudiovisuel.com/lascam-reaffirme-limperatif-de-preserver-laudiovisuel-public/",
+      "paywall": true,
+      "resume": "La société d'auteurs multimédia LaScam estime que l'audiovisuel public doit conserver ses moyens financiers pour continuer à soutenir le documentaire et l'information. Article réservé aux abonnés : résumé fondé sur le seul chapô.",
+      "angle": "Angle — Le financement de l'audiovisuel public vu par les auteurs de documentaires."
+    },
+    {
+      "categorie": "media",
+      "titre": "Sophie Binet recadre CNews",
+      "source": "La Lettre de l'audiovisuel",
+      "date": "2026-11-09",
+      "url": "https://lettreaudiovisuel.com/sophie-binet-recadre-cnews/",
+      "paywall": true,
+      "resume": "Lors d'un point presse à la sortie de Matignon, la secrétaire générale de la CGT a demandé à un journaliste de CNews de s'écarter. Article réservé aux abonnés : seul le chapô a été lu.",
+      "angle": "Angle — Les relations entre responsables syndicaux et chaînes d'opinion, mises en scène lors des points presse."
+    },
+    {
+      "categorie": "media",
+      "titre": "M6 décroche malgré le succès de ses émissions",
+      "source": "La Lettre de l'audiovisuel",
+      "date": "2026-11-09",
+      "url": "https://lettreaudiovisuel.com/m6-decroche-malgre-le-succes-de-ses-emissions/",
+      "paywall": true,
+      "resume": "Sur la semaine du 2 au 8 novembre, TF1 gagne du terrain, France 3 se maintient, France 2 stagne et M6 ne profite pas du record de saison de « L'amour est dans le pré » (3,4 puis 3,1 millions de téléspectateurs). Article réservé aux abonnés : seul le chapô a été lu.",
+      "angle": "Angle — Un record d'audience sur un programme qui ne suffit pas à tirer la chaîne."
+    },
+    {
+      "categorie": "tech",
+      "titre": "La Grokipedia d'Elon Musk regorge d'erreurs, mais Wikipédia peut en tirer des leçons",
+      "source": "Nieman Lab",
+      "date": "2026-11-02",
+      "url": "https://www.niemanlab.org/2026/11/elon-musks-grokipedia-is-littered-with-mistakes-but-wikipedia-could-still-learn-some-things-from-it/",
+      "paywall": false,
+      "resume": "Le journaliste Bill Adair a relevé des dizaines d'erreurs dans les deux articles que la Grokipedia lui consacre, dont une confusion avec un homonyme joueur de baseball. Il reconnaît pourtant que l'IA sait retrouver des informations oubliées ; pour lui le jugement humain reste indispensable.",
+      "angle": "Angle — L'encyclopédie écrite par une IA : un test grandeur nature de la fiabilité de l'information générée."
+    },
+    {
+      "categorie": "business",
+      "titre": "Le plan de The Onion pour relancer son journal papier : sponsoriser un bowl universitaire",
+      "source": "Nieman Lab",
+      "date": "2026-11-05",
+      "url": "https://www.niemanlab.org/2026/11/the-onions-new-plan-to-market-its-print-newspaper-sponsoring-a-bowl-game/",
+      "paywall": false,
+      "resume": "Le PDG de The Onion, Ben Collins, annonce vouloir acheter les droits de nommage d'un bowl de football américain universitaire, qui s'appellerait « The Onion Bowl ». L'opération vise à pousser les abonnements papier (75 dollars par an) au-delà de 100 000, ce qui dépasserait le tirage imprimé du Washington Post.",
+      "angle": "Angle — Le papier comme objet de marque : un média satirique réinvente son marketing."
+    }
+  ]
+}
