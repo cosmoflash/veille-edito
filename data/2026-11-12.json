@@ -1,31 +1,259 @@
 {
-"date": "2026-11-12",
-"pistes_edito": [
-"Le Point : Étienne Gernelle, directeur depuis 2014, démis après avoir critiqué publiquement deux recrutements imposés par le PDG Bertrand Gié (groupe Pinault), avec Valérie Toranian également écartée. Derrière l'affaire de gouvernance, la question de l'indépendance des directions de rédaction face aux actionnaires, et celle d'un hebdo dont la diffusion papier glisse (263 000 ex. contre 286 000 en 2024) et dont l'audience numérique recule.",
-"L'IA, coupable idéale ? Au Web Summit, Louis Dreyfus (Le Monde) juge que l'IA est un « bouc émissaire » commode pour expliquer la baisse d'audience et affirme que les lecteurs venus de ChatGPT s'abonnent 13 fois plus que ceux venus de Google. Le même jour, la DVP saisit l'Autorité de la concurrence contre les AI Overviews de Google, et le Reuters Institute montre que 38 % des gens s'informent déjà via l'IA mais que 12 % seulement acceptent une info entièrement produite par elle. Et ce jeudi, vote final des députés sur la réforme des droits voisins."
-],
-"items": [
-{"categorie":"media","titre":"Le Point : Étienne Gernelle est démis de ses fonctions","source":"CB News","date":"2026-11-10","url":"https://www.cbnews.fr/medias/point-etienne-gernelle-est-demis-ses-fonctions","paywall":false,"resume":"Étienne Gernelle, à la tête du Point depuis 2014, a été démis mardi après avoir critiqué publiquement l'embauche, sans son accord, de Jacques-Olivier Martin et Florent Barraco par le PDG Bertrand Gié. La directrice éditoriale Valérie Toranian est aussi écartée. Les nouveaux venus doivent relancer une audience numérique en forte baisse, tandis que la diffusion papier est tombée à 263 000 exemplaires (286 000 en 2024).","angle":"Angle — un conflit de gouvernance qui pose la question du pouvoir de l'actionnaire (Artémis, François Pinault) sur la direction de la rédaction d'un grand hebdo."},
-{"categorie":"media","titre":"La Russie bannit deux élus et deux journalistes français","source":"La Lettre de l'audiovisuel","date":"2026-11-11","url":"https://lettreaudiovisuel.com/la-russie-bannit-deux-elus-et-deux-journalistes-francais/","paywall":true,"resume":"Moscou interdit d'entrée sur son territoire les députés Sacha Houlié et Arthur Delaporte ainsi que les journalistes Ariane Chemin et Paul Pogo. La diplomatie russe présente la mesure comme une riposte à l'expulsion de France de la chroniqueuse Xenia Fedorova. Le directeur du Monde dénonce une nouvelle entrave à la liberté d'informer.","angle":"Angle — la logique de représailles réciproques entre Paris et Moscou s'étend aux journalistes, après l'affaire Fedorova."},
-{"categorie":"media","titre":"Énorme clash sur BFMTV : face à Alexis Corbière, une étudiante quitte le plateau et dit avoir été piégée","source":"Ozap / Puremédias","date":"2026-11-11","url":"https://www.ozap.com/actu/enorme-clash-sur-bfmtv-face-a-alexis-corbiere-une-etudiante-quitte-le-plateau-et-dit-avoir-ete-piegee-par-la-chaine/657930","paywall":false,"resume":"Dans l'émission de Sonia Mabrouk sur BFMTV, la responsable de l'UNI Bordeaux Louise Montangon et Alexis Corbière se sont violemment opposés ; la jeune femme a quitté le plateau. Elle a ensuite affirmé sur CNews avoir été « piégée », disant qu'on lui avait annoncé un entretien seule avec la présentatrice.","angle":"Angle — l'arrivée de l'ex-figure de CNews sur BFMTV continue de faire des vagues, et la séquence circule désormais d'une chaîne info à l'autre."},
-{"categorie":"media","titre":"BFMTV tente d'éteindre l'incendie Mabrouk","source":"La Lettre de l'audiovisuel","date":"2026-11-11","url":"https://lettreaudiovisuel.com/bfmtv-tente-deteindre-lincendie-mabrouk/","paywall":true,"resume":"Selon Le Canard enchaîné, BFMTV confie son émission dominicale « Sur le terrain » (30 minutes) à son service reportage. Une décision présentée comme un moyen d'apaiser les tensions au sein de la rédaction depuis l'arrivée de Sonia Mabrouk.","angle":"Angle — la direction cherche à donner des gages à une rédaction en malaise."},
-{"categorie":"media","titre":"La justice américaine rejette le recours de la BBC contre la plainte de Donald Trump","source":"La Lettre de l'audiovisuel","date":"2026-11-11","url":"https://lettreaudiovisuel.com/la-justice-americaine-rejette-le-recours-de-la-bbc-contre-la-plainte-de-donald-trump/","paywall":true,"resume":"Un juge fédéral américain a refusé mardi 10 novembre la demande de la BBC visant à faire rejeter la plainte en diffamation de Donald Trump, liée au montage d'un discours dans Panorama. La procédure, qui réclame des milliards de dollars, se poursuit donc.","angle":"Angle — un service public européen durablement exposé à la justice américaine et à la stratégie judiciaire du président contre les médias."},
-{"categorie":"media","titre":"David Pujadas lance sa propre chaîne YouTube","source":"La Lettre de l'audiovisuel","date":"2026-11-11","url":"https://lettreaudiovisuel.com/david-pujadas-lance-sa-propre-chaine-youtube/","paywall":true,"resume":"Le présentateur de « 24 H Pujadas » sur LCI a annoncé mercredi le lancement de sa propre chaîne YouTube. Les détails du projet (format, rythme, lien avec LCI) sont réservés aux abonnés.","angle":"Angle — après d'autres figures de la télé, un visage historique du JT mise sur une audience en propre hors antenne."},
-{"categorie":"media","titre":"AI Overviews : la DVP saisit à son tour l'Autorité de la concurrence contre Google","source":"Mind Media","date":"2026-11-10","url":"https://www.mind.eu.com/media/article/ai-overviews-dvp-saisit-a-son-tour-lautorite-de-la-concurrence-contre-google/","paywall":true,"resume":"La Société des droits voisins de la presse conteste les conditions du lancement en France, le 22 juillet, des AI Overviews et de l'AI Mode de Google. Elle saisit l'Autorité de la concurrence en reprochant à Google de ne pas respecter ses engagements de 2022 sur les droits voisins.","angle":"Angle — la bataille des droits voisins se déplace sur le terrain des résumés IA du moteur de recherche."},
-{"categorie":"media","titre":"« Bouc émissaire facile » : le patron du Monde refuse d'accuser l'IA de la baisse d'audience","source":"The Irish Times","date":"2026-11-10","url":"https://irishtimes.com/business/2026/11/10/easy-scapegoat-for-news-publishers-to-blame-ai-for-low-readership-media-executive-says","paywall":false,"resume":"Au Web Summit de Lisbonne, Louis Dreyfus (groupe Le Monde) estime que l'IA est un bouc émissaire commode et que les changements des algorithmes de découverte pèsent davantage. Il affirme que Le Monde n'a perdu aucun abonné à cause de l'IA et que les lecteurs venus de ChatGPT s'abonnent 13 fois plus que ceux de Google. Il met en garde contre le risque que les lecteurs croient les contenus écrits par l'IA, le lectorat représentant 75 % des revenus.","angle":"Angle — une voix d'éditeur à contre-courant du discours dominant sur l'IA prédatrice."},
-{"categorie":"media","titre":"L'IA devient une porte d'entrée vers l'information, mais le public ne veut pas qu'elle fasse l'info","source":"Nieman Lab (Reuters Institute)","date":"2026-11-10","url":"https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/","paywall":false,"resume":"Le rapport « Generative AI and News 2026 » du Reuters Institute (9 pays) montre que l'usage hebdomadaire des assistants IA atteint 51 % et que 38 % s'en servent pour s'informer (24 % en 2025). 9 % les utilisent pour l'actualité. Seuls 12 % sont à l'aise avec une info entièrement produite par l'IA (19 % avec supervision humaine), un chiffre stable depuis 2024.","angle":"Angle — la défiance envers l'info « faite par l'IA » reste un atout pour les rédactions humaines."},
-{"categorie":"media","titre":"Ouest-France en tête sur le numérique (ACPM, octobre)","source":"La Lettre de l'audiovisuel","date":"2026-11-11","url":"https://lettreaudiovisuel.com/ouest-france-en-tete-sur-le-numerique/","paywall":true,"resume":"L'ACPM a publié la fréquentation des sites et applications d'information pour octobre 2026. Ouest-France y arrive en tête du classement numérique ; les chiffres détaillés sont réservés aux abonnés.","angle":"Angle — la presse régionale devant les titres nationaux sur le numérique."},
-{"categorie":"media","titre":"Arcom : Nostalgie 60/70 décroche une fréquence FM à Paris et en Île-de-France","source":"La Lettre de l'audiovisuel","date":"2026-11-11","url":"https://lettreaudiovisuel.com/arcom-nostalgie-60-70-decroche-une-frequence-fm-a-paris-et-en-ile-de-france/","paywall":true,"resume":"L'Arcom attribue à Nostalgie 60/70 une fréquence FM à Paris et en Île-de-France. La station complète ainsi sa diffusion nationale en DAB+.","angle":"Angle — malgré la montée du DAB+, la FM francilienne reste la ressource la plus convoitée."},
-{"categorie":"media","titre":"JustWatch lance son propre service vidéo","source":"La Lettre de l'audiovisuel","date":"2026-11-11","url":"https://lettreaudiovisuel.com/justwatch-lance-son-service-video/","paywall":true,"resume":"Le guide des plateformes de streaming JustWatch lance son propre service de vidéo à la demande, déployé dans onze pays.","angle":"Angle — l'agrégateur qui oriente vers les plateformes devient lui-même diffuseur."},
-{"categorie":"media","titre":"Skydance vendra un bundle Paramount+ et HBO Max début 2027","source":"The Desk","date":"2026-11-09","url":"https://thedesk.net/2026/11/paramount-plus-hbo-max-bundle-2027-skydance/","paywall":false,"resume":"Après le rachat de Warner Bros. Discovery en octobre, Skydance proposera un bundle Paramount+ / HBO Max début 2027 ; HBO Max migrera sur la technologie de Paramount. Le groupe revendique plus de 203 millions d'abonnements cumulés et cessera de publier ses chiffres d'abonnés trimestriels à partir du T4.","angle":"Angle — première étape de la fusion de deux streamers pour rivaliser avec Netflix, et fin de la transparence sur les abonnés."},
-{"categorie":"media","titre":"Italie : la justice valide la visibilité imposée des chaînes publiques sur les TV connectées","source":"Advanced Television","date":"2026-11-10","url":"https://www.advanced-television.com/2026/11/10/italy-court-upholds-rules-on-content-prominence-on-ctvs/","paywall":false,"resume":"Le tribunal administratif du Latium a rejeté les recours de Google, Samsung et Anitec-Assinform contre les lignes directrices de l'AgCom. Les fabricants devront réserver neuf icônes sur l'écran d'accueil, dont un bouton TNT et des icônes Rai, Mediaset, La7, Sky et WBD, via des mises à jour sur les appareils existants.","angle":"Angle — un précédent européen sur la « prominence » des chaînes d'intérêt général, débat aussi ouvert en France."},
-{"categorie":"media","titre":"Une cour d'appel fédérale bloque la fouille des archives de journalistes par le ministère de la Justice","source":"Nieman Lab (Politico)","date":"2026-11-10","url":"https://www.niemanlab.org/reading/a-federal-appeals-court-has-blocked-the-doj-from-searching-journalists-records-in-a-national-security-leak-investigation/","paywall":false,"resume":"Une cour d'appel américaine a limité la fouille par le DOJ des données de journalistes dans une enquête sur des fuites liées à la sécurité nationale. Le juge écrit que l'embarras du gouvernement ne justifie pas de soustraire son action au travail des reporters.","angle":"Angle — un coup d'arrêt judiciaire pour la protection des sources aux États-Unis."},
-{"categorie":"media","titre":"FCC : la candidate de Trump, Danielle Thumann, esquive les questions sur l'« agenda de censure » de Brendan Carr","source":"Nieman Lab (The Guardian)","date":"2026-11-10","url":"https://www.niemanlab.org/reading/trumps-fcc-nominee-danielle-thumann-avoids-questions-from-democrats-on-brendan-carrs-censorship-agenda/","paywall":false,"resume":"Conseillère du président de la FCC Brendan Carr, Danielle Thumann devrait être confirmée comme commissaire. Les démocrates, qui prendront le contrôle du Sénat en janvier, promettent de surveiller de près l'action du régulateur.","angle":"Angle — le régulateur américain des médias reste au cœur du bras de fer politique sur la liberté de la presse."},
-{"categorie":"media","titre":"La concurrence suédoise clôt son enquête sur Meta après le retrait de ses CGU","source":"Nieman Lab","date":"2026-11-10","url":"https://www.niemanlab.org/reading/the-swedish-competition-authority-closes-its-meta-investigation-after-the-company-retracted-its-proposed-terms-of-service/","paywall":false,"resume":"Les médias suédois contestaient les nouvelles conditions de Meta qui auraient permis d'exploiter les contenus journalistiques, y compris pour l'IA. Meta les ayant retirées, l'autorité suédoise de la concurrence a classé l'affaire.","angle":"Angle — le recul de Meta face aux éditeurs produit déjà ses effets réglementaires en Europe."},
-{"categorie":"media","titre":"Des médias locaux perdent leurs rédactions physiques","source":"Nieman Lab","date":"2026-11-10","url":"https://www.niemanlab.org/2026/11/some-local-news-outlets-are-losing-physical-newsrooms/","paywall":false,"resume":"Depuis la pandémie, de nombreux médias locaux américains ont réduit ou fermé leurs locaux (Toledo Blade, Orlando Sentinel, Hartford Courant…). Un rapport de la Local News Initiative de Northwestern pointe les coûts cachés : perte de formation sur le tas et de mémoire institutionnelle.","angle":"Angle — la rédaction comme lieu physique, une infrastructure du journalisme qui disparaît en silence."},
-{"categorie":"media","titre":"Haaretz étend sa présence aux États-Unis","source":"Nieman Lab (The New York Times)","date":"2026-11-10","url":"https://www.niemanlab.org/reading/haaretz-is-expanding-its-u-s-presence-amid-israels-move-to-the-right/","paywall":false,"resume":"Le quotidien israélien Haaretz envoie des reporters dans plusieurs États américains couvrir les midterms à travers le regard des électeurs juifs. Il met aussi en avant sa production originale en anglais pour expliquer Israël aux lecteurs étrangers.","angle":"Angle — un journal d'opposition israélien cherche ses relais de croissance outre-Atlantique."},
-{"categorie":"tech","titre":"ChatGPT met à l'épreuve l'offre « visibilité IA » des éditeurs","source":"Tomorrow's Publisher","date":"2026-11-11","url":"https://tomorrowspublisher.today/news/chatgpt-gives-publishers-ai-sales-pitch-a-new-test-manual-2026-11-11-ai-visibility/index.html","paywall":false,"resume":"Le Business Hub d'OpenAI, lancé en bêta le 10 novembre, donne aux entreprises vérifiées des données sur leurs apparitions et clics dans ChatGPT. Les éditeurs qui vendent de la « visibilité IA » à des annonceurs voient leurs promesses confrontées aux chiffres de la plateforme.","angle":"Angle — l'IA conversationnelle devient un nouveau canal publicitaire dont les éditeurs ne contrôlent pas la mesure."},
-{"categorie":"tech","titre":"Le conseil d'administration de Nvidia se réunit sur le sort de Jensen Huang","source":"The New York Times","date":"2026-11-11","url":"https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html","paywall":true,"resume":"Selon le Wall Street Journal, le conseil de Nvidia prépare l'éviction de son fondateur et PDG Jensen Huang, après la révélation d'une liaison avec une femme présentée comme une espionne chinoise présumée puis d'une relation avec une dirigeante placée sous son autorité. L'action a chuté de plus de 7 % après la clôture, des élus américains réclament sa démission.","angle":"Angle — un scandale de gouvernance qui frappe l'entreprise symbole du boom de l'IA, avec un volet sécurité nationale sino-américain."},
-{"categorie":"business","titre":"Anthropic lance la tournée de présentation de son introduction en Bourse","source":"Anthropic","date":"2026-11-10","url":"https://www.anthropic.com/news/roadshow-launch","paywall":false,"resume":"Anthropic prévoit de coter ses actions au Nasdaq sous le symbole « ANT », dans une fourchette de 70 à 78 dollars. L'offre porte sur 825 millions d'actions de classe A ; l'enregistrement auprès de la SEC n'est pas encore effectif.","angle":"Angle — l'une des plus grosses introductions en Bourse de la tech, test de l'appétit des marchés pour les laboratoires d'IA."}
-]
+ "date": "2026-11-12",
+ "pistes_edito": [
+  "Le Point : Étienne Gernelle, directeur depuis 2014, démis après avoir critiqué publiquement deux recrutements imposés par le PDG Bertrand Gié (groupe Pinault), avec Valérie Toranian également écartée. Derrière l'affaire de gouvernance, la question de l'indépendance des directions de rédaction face aux actionnaires, et celle d'un hebdo dont la diffusion papier glisse (263 000 ex. contre 286 000 en 2024) et dont l'audience numérique recule.",
+  "L'IA, coupable idéale ? Au Web Summit, Louis Dreyfus (Le Monde) juge que l'IA est un « bouc émissaire » commode pour expliquer la baisse d'audience et affirme que les lecteurs venus de ChatGPT s'abonnent 13 fois plus que ceux venus de Google. Le même jour, la DVP saisit l'Autorité de la concurrence contre les AI Overviews de Google, et le Reuters Institute montre que 38 % des gens s'informent déjà via l'IA mais que 12 % seulement acceptent une info entièrement produite par elle. Et ce jeudi, vote final des députés sur la réforme des droits voisins."
+ ],
+ "items": [
+  {
+   "categorie": "media",
+   "titre": "Le Point : Étienne Gernelle est démis de ses fonctions",
+   "source": "CB News",
+   "date": "2026-11-10",
+   "url": "https://www.cbnews.fr/medias/point-etienne-gernelle-est-demis-ses-fonctions",
+   "paywall": false,
+   "resume": "Étienne Gernelle, à la tête du Point depuis 2014, a été démis mardi après avoir critiqué publiquement l'embauche, sans son accord, de Jacques-Olivier Martin et Florent Barraco par le PDG Bertrand Gié. La directrice éditoriale Valérie Toranian est aussi écartée. Les nouveaux venus doivent relancer une audience numérique en forte baisse, tandis que la diffusion papier est tombée à 263 000 exemplaires (286 000 en 2024).",
+   "angle": "Angle — un conflit de gouvernance qui pose la question du pouvoir de l'actionnaire (Artémis, François Pinault) sur la direction de la rédaction d'un grand hebdo."
+  },
+  {
+   "categorie": "media",
+   "titre": "La Russie bannit deux élus et deux journalistes français",
+   "source": "La Lettre de l'audiovisuel",
+   "date": "2026-11-11",
+   "url": "https://lettreaudiovisuel.com/la-russie-bannit-deux-elus-et-deux-journalistes-francais/",
+   "paywall": true,
+   "resume": "Moscou interdit d'entrée sur son territoire les députés Sacha Houlié et Arthur Delaporte ainsi que les journalistes Ariane Chemin et Paul Pogo. La diplomatie russe présente la mesure comme une riposte à l'expulsion de France de la chroniqueuse Xenia Fedorova. Le directeur du Monde dénonce une nouvelle entrave à la liberté d'informer.",
+   "angle": "Angle — la logique de représailles réciproques entre Paris et Moscou s'étend aux journalistes, après l'affaire Fedorova."
+  },
+  {
+   "categorie": "media",
+   "titre": "Énorme clash sur BFMTV : face à Alexis Corbière, une étudiante quitte le plateau et dit avoir été piégée",
+   "source": "Ozap / Puremédias",
+   "date": "2026-11-11",
+   "url": "https://www.ozap.com/actu/enorme-clash-sur-bfmtv-face-a-alexis-corbiere-une-etudiante-quitte-le-plateau-et-dit-avoir-ete-piegee-par-la-chaine/657930",
+   "paywall": false,
+   "resume": "Dans l'émission de Sonia Mabrouk sur BFMTV, la responsable de l'UNI Bordeaux Louise Montangon et Alexis Corbière se sont violemment opposés ; la jeune femme a quitté le plateau. Elle a ensuite affirmé sur CNews avoir été « piégée », disant qu'on lui avait annoncé un entretien seule avec la présentatrice.",
+   "angle": "Angle — l'arrivée de l'ex-figure de CNews sur BFMTV continue de faire des vagues, et la séquence circule désormais d'une chaîne info à l'autre."
+  },
+  {
+   "categorie": "media",
+   "titre": "BFMTV tente d'éteindre l'incendie Mabrouk",
+   "source": "La Lettre de l'audiovisuel",
+   "date": "2026-11-11",
+   "url": "https://lettreaudiovisuel.com/bfmtv-tente-deteindre-lincendie-mabrouk/",
+   "paywall": true,
+   "resume": "Selon Le Canard enchaîné, BFMTV confie son émission dominicale « Sur le terrain » (30 minutes) à son service reportage. Une décision présentée comme un moyen d'apaiser les tensions au sein de la rédaction depuis l'arrivée de Sonia Mabrouk.",
+   "angle": "Angle — la direction cherche à donner des gages à une rédaction en malaise."
+  },
+  {
+   "categorie": "media",
+   "titre": "La justice américaine rejette le recours de la BBC contre la plainte de Donald Trump",
+   "source": "La Lettre de l'audiovisuel",
+   "date": "2026-11-11",
+   "url": "https://lettreaudiovisuel.com/la-justice-americaine-rejette-le-recours-de-la-bbc-contre-la-plainte-de-donald-trump/",
+   "paywall": true,
+   "resume": "Un juge fédéral américain a refusé mardi 10 novembre la demande de la BBC visant à faire rejeter la plainte en diffamation de Donald Trump, liée au montage d'un discours dans Panorama. La procédure, qui réclame des milliards de dollars, se poursuit donc.",
+   "angle": "Angle — un service public européen durablement exposé à la justice américaine et à la stratégie judiciaire du président contre les médias."
+  },
+  {
+   "categorie": "media",
+   "titre": "David Pujadas lance sa propre chaîne YouTube",
+   "source": "La Lettre de l'audiovisuel",
+   "date": "2026-11-11",
+   "url": "https://lettreaudiovisuel.com/david-pujadas-lance-sa-propre-chaine-youtube/",
+   "paywall": true,
+   "resume": "Le présentateur de « 24 H Pujadas » sur LCI a annoncé mercredi le lancement de sa propre chaîne YouTube. Les détails du projet (format, rythme, lien avec LCI) sont réservés aux abonnés.",
+   "angle": "Angle — après d'autres figures de la télé, un visage historique du JT mise sur une audience en propre hors antenne."
+  },
+  {
+   "categorie": "media",
+   "titre": "AI Overviews : la DVP saisit à son tour l'Autorité de la concurrence contre Google",
+   "source": "Mind Media",
+   "date": "2026-11-10",
+   "url": "https://www.mind.eu.com/media/article/ai-overviews-dvp-saisit-a-son-tour-lautorite-de-la-concurrence-contre-google/",
+   "paywall": true,
+   "resume": "La Société des droits voisins de la presse conteste les conditions du lancement en France, le 22 juillet, des AI Overviews et de l'AI Mode de Google. Elle saisit l'Autorité de la concurrence en reprochant à Google de ne pas respecter ses engagements de 2022 sur les droits voisins.",
+   "angle": "Angle — la bataille des droits voisins se déplace sur le terrain des résumés IA du moteur de recherche."
+  },
+  {
+   "categorie": "media",
+   "titre": "« Bouc émissaire facile » : le patron du Monde refuse d'accuser l'IA de la baisse d'audience",
+   "source": "The Irish Times",
+   "date": "2026-11-10",
+   "url": "https://irishtimes.com/business/2026/11/10/easy-scapegoat-for-news-publishers-to-blame-ai-for-low-readership-media-executive-says",
+   "paywall": false,
+   "resume": "Au Web Summit de Lisbonne, Louis Dreyfus (groupe Le Monde) estime que l'IA est un bouc émissaire commode et que les changements des algorithmes de découverte pèsent davantage. Il affirme que Le Monde n'a perdu aucun abonné à cause de l'IA et que les lecteurs venus de ChatGPT s'abonnent 13 fois plus que ceux de Google. Il met en garde contre le risque que les lecteurs croient les contenus écrits par l'IA, le lectorat représentant 75 % des revenus.",
+   "angle": "Angle — une voix d'éditeur à contre-courant du discours dominant sur l'IA prédatrice."
+  },
+  {
+   "categorie": "media",
+   "titre": "L'IA devient une porte d'entrée vers l'information, mais le public ne veut pas qu'elle fasse l'info",
+   "source": "Nieman Lab (Reuters Institute)",
+   "date": "2026-11-10",
+   "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+   "paywall": false,
+   "resume": "Le rapport « Generative AI and News 2026 » du Reuters Institute (9 pays) montre que l'usage hebdomadaire des assistants IA atteint 51 % et que 38 % s'en servent pour s'informer (24 % en 2025). 9 % les utilisent pour l'actualité. Seuls 12 % sont à l'aise avec une info entièrement produite par l'IA (19 % avec supervision humaine), un chiffre stable depuis 2024.",
+   "angle": "Angle — la défiance envers l'info « faite par l'IA » reste un atout pour les rédactions humaines."
+  },
+  {
+   "categorie": "media",
+   "titre": "Ouest-France en tête sur le numérique (ACPM, octobre)",
+   "source": "La Lettre de l'audiovisuel",
+   "date": "2026-11-11",
+   "url": "https://lettreaudiovisuel.com/ouest-france-en-tete-sur-le-numerique/",
+   "paywall": true,
+   "resume": "L'ACPM a publié la fréquentation des sites et applications d'information pour octobre 2026. Ouest-France y arrive en tête du classement numérique ; les chiffres détaillés sont réservés aux abonnés.",
+   "angle": "Angle — la presse régionale devant les titres nationaux sur le numérique."
+  },
+  {
+   "categorie": "media",
+   "titre": "Arcom : Nostalgie 60/70 décroche une fréquence FM à Paris et en Île-de-France",
+   "source": "La Lettre de l'audiovisuel",
+   "date": "2026-11-11",
+   "url": "https://lettreaudiovisuel.com/arcom-nostalgie-60-70-decroche-une-frequence-fm-a-paris-et-en-ile-de-france/",
+   "paywall": true,
+   "resume": "L'Arcom attribue à Nostalgie 60/70 une fréquence FM à Paris et en Île-de-France. La station complète ainsi sa diffusion nationale en DAB+.",
+   "angle": "Angle — malgré la montée du DAB+, la FM francilienne reste la ressource la plus convoitée."
+  },
+  {
+   "categorie": "media",
+   "titre": "JustWatch lance son propre service vidéo",
+   "source": "La Lettre de l'audiovisuel",
+   "date": "2026-11-11",
+   "url": "https://lettreaudiovisuel.com/justwatch-lance-son-service-video/",
+   "paywall": true,
+   "resume": "Le guide des plateformes de streaming JustWatch lance son propre service de vidéo à la demande, déployé dans onze pays.",
+   "angle": "Angle — l'agrégateur qui oriente vers les plateformes devient lui-même diffuseur."
+  },
+  {
+   "categorie": "media",
+   "titre": "Skydance vendra un bundle Paramount+ et HBO Max début 2027",
+   "source": "The Desk",
+   "date": "2026-11-09",
+   "url": "https://thedesk.net/2026/11/paramount-plus-hbo-max-bundle-2027-skydance/",
+   "paywall": false,
+   "resume": "Après le rachat de Warner Bros. Discovery en octobre, Skydance proposera un bundle Paramount+ / HBO Max début 2027 ; HBO Max migrera sur la technologie de Paramount. Le groupe revendique plus de 203 millions d'abonnements cumulés et cessera de publier ses chiffres d'abonnés trimestriels à partir du T4.",
+   "angle": "Angle — première étape de la fusion de deux streamers pour rivaliser avec Netflix, et fin de la transparence sur les abonnés."
+  },
+  {
+   "categorie": "media",
+   "titre": "Italie : la justice valide la visibilité imposée des chaînes publiques sur les TV connectées",
+   "source": "Advanced Television",
+   "date": "2026-11-10",
+   "url": "https://www.advanced-television.com/2026/11/10/italy-court-upholds-rules-on-content-prominence-on-ctvs/",
+   "paywall": false,
+   "resume": "Le tribunal administratif du Latium a rejeté les recours de Google, Samsung et Anitec-Assinform contre les lignes directrices de l'AgCom. Les fabricants devront réserver neuf icônes sur l'écran d'accueil, dont un bouton TNT et des icônes Rai, Mediaset, La7, Sky et WBD, via des mises à jour sur les appareils existants.",
+   "angle": "Angle — un précédent européen sur la « prominence » des chaînes d'intérêt général, débat aussi ouvert en France."
+  },
+  {
+   "categorie": "media",
+   "titre": "Une cour d'appel fédérale bloque la fouille des archives de journalistes par le ministère de la Justice",
+   "source": "Nieman Lab (Politico)",
+   "date": "2026-11-10",
+   "url": "https://www.niemanlab.org/reading/a-federal-appeals-court-has-blocked-the-doj-from-searching-journalists-records-in-a-national-security-leak-investigation/",
+   "paywall": false,
+   "resume": "Une cour d'appel américaine a limité la fouille par le DOJ des données de journalistes dans une enquête sur des fuites liées à la sécurité nationale. Le juge écrit que l'embarras du gouvernement ne justifie pas de soustraire son action au travail des reporters.",
+   "angle": "Angle — un coup d'arrêt judiciaire pour la protection des sources aux États-Unis."
+  },
+  {
+   "categorie": "media",
+   "titre": "FCC : la candidate de Trump, Danielle Thumann, esquive les questions sur l'« agenda de censure » de Brendan Carr",
+   "source": "Nieman Lab (The Guardian)",
+   "date": "2026-11-10",
+   "url": "https://www.niemanlab.org/reading/trumps-fcc-nominee-danielle-thumann-avoids-questions-from-democrats-on-brendan-carrs-censorship-agenda/",
+   "paywall": false,
+   "resume": "Conseillère du président de la FCC Brendan Carr, Danielle Thumann devrait être confirmée comme commissaire. Les démocrates, qui prendront le contrôle du Sénat en janvier, promettent de surveiller de près l'action du régulateur.",
+   "angle": "Angle — le régulateur américain des médias reste au cœur du bras de fer politique sur la liberté de la presse."
+  },
+  {
+   "categorie": "media",
+   "titre": "La concurrence suédoise clôt son enquête sur Meta après le retrait de ses CGU",
+   "source": "Nieman Lab",
+   "date": "2026-11-10",
+   "url": "https://www.niemanlab.org/reading/the-swedish-competition-authority-closes-its-meta-investigation-after-the-company-retracted-its-proposed-terms-of-service/",
+   "paywall": false,
+   "resume": "Les médias suédois contestaient les nouvelles conditions de Meta qui auraient permis d'exploiter les contenus journalistiques, y compris pour l'IA. Meta les ayant retirées, l'autorité suédoise de la concurrence a classé l'affaire.",
+   "angle": "Angle — le recul de Meta face aux éditeurs produit déjà ses effets réglementaires en Europe."
+  },
+  {
+   "categorie": "media",
+   "titre": "Des médias locaux perdent leurs rédactions physiques",
+   "source": "Nieman Lab",
+   "date": "2026-11-10",
+   "url": "https://www.niemanlab.org/2026/11/some-local-news-outlets-are-losing-physical-newsrooms/",
+   "paywall": false,
+   "resume": "Depuis la pandémie, de nombreux médias locaux américains ont réduit ou fermé leurs locaux (Toledo Blade, Orlando Sentinel, Hartford Courant…). Un rapport de la Local News Initiative de Northwestern pointe les coûts cachés : perte de formation sur le tas et de mémoire institutionnelle.",
+   "angle": "Angle — la rédaction comme lieu physique, une infrastructure du journalisme qui disparaît en silence."
+  },
+  {
+   "categorie": "media",
+   "titre": "Haaretz étend sa présence aux États-Unis",
+   "source": "Nieman Lab (The New York Times)",
+   "date": "2026-11-10",
+   "url": "https://www.niemanlab.org/reading/haaretz-is-expanding-its-u-s-presence-amid-israels-move-to-the-right/",
+   "paywall": false,
+   "resume": "Le quotidien israélien Haaretz envoie des reporters dans plusieurs États américains couvrir les midterms à travers le regard des électeurs juifs. Il met aussi en avant sa production originale en anglais pour expliquer Israël aux lecteurs étrangers.",
+   "angle": "Angle — un journal d'opposition israélien cherche ses relais de croissance outre-Atlantique."
+  },
+  {
+   "categorie": "tech",
+   "titre": "ChatGPT met à l'épreuve l'offre « visibilité IA » des éditeurs",
+   "source": "Tomorrow's Publisher",
+   "date": "2026-11-11",
+   "url": "https://tomorrowspublisher.today/news/chatgpt-gives-publishers-ai-sales-pitch-a-new-test-manual-2026-11-11-ai-visibility/index.html",
+   "paywall": false,
+   "resume": "Le Business Hub d'OpenAI, lancé en bêta le 10 novembre, donne aux entreprises vérifiées des données sur leurs apparitions et clics dans ChatGPT. Les éditeurs qui vendent de la « visibilité IA » à des annonceurs voient leurs promesses confrontées aux chiffres de la plateforme.",
+   "angle": "Angle — l'IA conversationnelle devient un nouveau canal publicitaire dont les éditeurs ne contrôlent pas la mesure."
+  },
+  {
+   "categorie": "tech",
+   "titre": "Le conseil d'administration de Nvidia se réunit sur le sort de Jensen Huang",
+   "source": "The New York Times",
+   "date": "2026-11-11",
+   "url": "https://www.nytimes.com/2026/11/11/technology/nvidia-jensen-huang.html",
+   "paywall": true,
+   "resume": "Selon le Wall Street Journal, le conseil de Nvidia prépare l'éviction de son fondateur et PDG Jensen Huang, après la révélation d'une liaison avec une femme présentée comme une espionne chinoise présumée puis d'une relation avec une dirigeante placée sous son autorité. L'action a chuté de plus de 7 % après la clôture, des élus américains réclament sa démission.",
+   "angle": "Angle — un scandale de gouvernance qui frappe l'entreprise symbole du boom de l'IA, avec un volet sécurité nationale sino-américain."
+  },
+  {
+   "categorie": "business",
+   "titre": "Anthropic lance la tournée de présentation de son introduction en Bourse",
+   "source": "Anthropic",
+   "date": "2026-11-10",
+   "url": "https://www.anthropic.com/news/roadshow-launch",
+   "paywall": false,
+   "resume": "Anthropic prévoit de coter ses actions au Nasdaq sous le symbole « ANT », dans une fourchette de 70 à 78 dollars. L'offre porte sur 825 millions d'actions de classe A ; l'enregistrement auprès de la SEC n'est pas encore effectif.",
+   "angle": "Angle — l'une des plus grosses introductions en Bourse de la tech, test de l'appétit des marchés pour les laboratoires d'IA."
+  },
+  {
+   "categorie": "media",
+   "titre": "Procès New York Times contre OpenAI et Microsoft : vers un règlement à plus d'un milliard de dollars ?",
+   "source": "Tilt (d'après Puck)",
+   "date": "2026-11-05",
+   "url": "https://tilt.now/news/story/9ad7a847-8697-59cb-b34b-d9cb725774cd",
+   "paywall": false,
+   "resume": "La plainte du New York Times pour violation du droit d'auteur, qui accuse OpenAI et Microsoft d'avoir utilisé ses articles pour entraîner leurs IA, pourrait déboucher sur un paiement de plus d'un milliard de dollars. Ce serait un apport de trésorerie massif pour le journal, qui pourrait alimenter de nouvelles acquisitions. L'affaire est suivie de près par Hollywood et les grands groupes médias.",
+   "angle": "Angle — le contentieux comme modèle économique : ce que le NYT pourrait acheter avec l'argent de l'IA, et le précédent que ça créerait pour les éditeurs qui n'ont pas les moyens d'attaquer."
+  },
+  {
+   "categorie": "media",
+   "titre": "Corée du Sud : les éditeurs montent leur propre filière de données sous licence pour l'IA",
+   "source": "Seoul Economic Daily",
+   "date": "2026-11-10",
+   "url": "https://en.sedaily.com/culture/2026/11/10/korean-publishers-build-licensed-data-pipeline-for-ai",
+   "paywall": false,
+   "resume": "L'association des éditeurs coréens a signé un accord avec cinq sociétés de données IA (Selectstar, Alchera, AIWorks, Crowdworks, Flitto) pour fournir des contenus éditoriaux à l'entraînement des modèles, sur la base du consentement des ayants droit. L'association sert d'intermédiaire, les données ne peuvent pas être réutilisées hors de l'usage autorisé et doivent être rendues ou détruites en fin de projet ; le droit d'auteur reste aux ayants droit.",
+   "angle": "Angle — plutôt que de subir le scraping, une profession organise collectivement la vente de ses contenus : un modèle de gestion collective qui fait écho aux débats français sur les droits voisins et la présomption d'utilisation."
+  },
+  {
+   "categorie": "media",
+   "titre": "Eric Scherer intègre le comité stratégique de SIPA-Ouest-France",
+   "source": "Mind Media",
+   "date": "2026-11-09",
+   "url": "https://www.mind.eu.com/media/article/eric-scherer-integre-le-comite-strategique-de-sipa-ouest-france-dans-un-contexte-de-transformation-du-groupe/",
+   "paywall": true,
+   "resume": "Le PDG de SIPA-Ouest-France, Fabrice Bakhouche, fait entrer Eric Scherer, ancien directeur de la prospective de France Télévisions, au comité stratégique du groupe. Une nomination qui intervient dans un contexte de transformation du premier groupe de presse quotidienne régionale.",
+   "angle": "Angle — le leader de la PQR, en tête sur le numérique selon l'ACPM, s'entoure d'un spécialiste de l'innovation et de l'IA pour piloter sa mutation."
+  }
+ ]
 }
